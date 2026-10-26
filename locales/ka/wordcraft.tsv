@@ -1636,7 +1636,7 @@ template	Letter	წერილი
 	Next Sentence	შემდეგი წინადადება
 	Next sentence	შემდეგი წინადადება
 	Nib floats over the window with tips and the occasional remark.	ნიბი ფანჯრის თავზე დაფრინავს რჩევებითა და დროდადრო შენიშვნებით.
-	Nib, your assistant. Drag to move; right-click for options.	ნიბი, თქვენი ასისტენტი. გადასატანად გადაათრიეთ; პარამეტრებისთვის დააწკაპეთ მარჯვენა ღილაკით.
+	Nib, your assistant. Drag to move; right-click for options.	ნიბი, თქვენი ასისტენტი. გადასატანად გადაათრიეთ; პარამეტრებისთვის მარჯვენა ღილაკით დაწკაპეთ.
 	No	არა
 	No accessibility issues found.	ხელმისაწვდომობის პრობლემები არ მოიძებნა.
 	No Border	ჩარჩოს გარეშე
@@ -1697,7 +1697,7 @@ template	Letter	წერილი
 	Not saved	არ არის შენახული
 	Not saved yet	ჯერ არ არის შენახული
 	Not set	არ არის დაყენებული
-	Not set: the system's usual places	მითითებული არ არის (სისტემური ადგილები)
+	Not set: the system's usual places	მითითებული არ არის (სისტემის ადგილები)
 	Not used by any command	არცერთი ბრძანება არ იყენებს
 	Not {name}	არა {name}
 	Nothing	არაფერი
