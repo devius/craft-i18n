@@ -72,6 +72,8 @@
 	Accents	დიაკრიტიკული ნიშნები
 	Accept	მიღება
 	Accept All Changes	ყველა ცვლილების მიღება
+	Accept All Changes and Stop Tracking	ყველა ცვლილების მიღება და თვალის დევნების შეწყვეტა
+	Accept and Move to Next	მიღება და შემდეგზე გადასვლა
 	Accept This Change	ამ ცვლილების მიღება
 	Accessed on	ნანახია
 	Accessibility	ხელმისაწვდომობა
@@ -123,6 +125,7 @@
 	Advanced	დამატებითი
 	Advanced Find	გაფართოებული ძებნა
 	Advanced Find…	გაფართოებული ძებნა…
+	Advanced Properties…	დამატებითი თვისებები…
 	After:	შემდეგ:
 	Agents	აგენტები
 	Agents connected to WordCraft can show you messages through the Assistant. Muted, they're told you'd rather not.	WordCraft-თან დაკავშირებულ აგენტებს ასისტენტის მეშვეობით შეუძლიათ შეტყობინებების ჩვენება. დადუმებისას მათ ეცნობებათ, რომ ეს არ გსურთ.
@@ -439,11 +442,14 @@ numerals	Arabic	არაბული
 	Check Box Content Control	მოსანიშნი ველის შიგთავსის მართვის ელემენტი
 	Check Compatibility	თავსებადობის შემოწმება
 	Check for Errors	შეცდომების შემოწმება
+	Check for Updates	განახლებების შემოწმება
+	Check for\nUpdates…	განახლებების\nშემოწმება…
 	Check Spelling as You Type	მართლწერის შემოწმება აკრეფისას
 	Check spelling as you type	მართლწერის შემოწმება აკრეფისას
 	Check\nAccessibility	ხელმისაწვდომობის\nშემოწმება
 	Checked styles are allowed:	დაშვებულია მონიშნული სტილები:
 	Checked symbol	მონიშნულის სიმბოლო
+	Checking for updates…	განახლებების შემოწმება…
 	Chevron Down	შევრონი ქვემოთ
 	Chevron Up	შევრონი ზემოთ
 	Chicago	Chicago
@@ -479,6 +485,7 @@ numerals	Arabic	არაბული
 	Clipboard Items	გაცვლის ბუფერის ელემენტები
 	Clipboard Pane	გაცვლის ბუფერის პანელი
 	Close	დახურვა
+	Close Document	დოკუმენტის დახურვა
 	Close Equation	განტოლების დახურვა
 	Close Header and Footer	კოლონტიტულების დახურვა
 	Close Outline View	სტრუქტურის ხედის დახურვა
@@ -749,6 +756,8 @@ numerals	Context	კონტექსტური
 	DO NOT COPY	არ დააკოპიროთ
 	Do Not Show in TOC	სარჩევში არ აჩვენო
 	Do you want to save changes to {name}?	შევინახო ცვლილებები ფაილში {name}?
+	Dock Left	მარცხნივ მიმაგრება
+	Dock Right	მარჯვნივ მიმაგრება
 	Document	დოკუმენტი
 	Document End	დოკუმენტის ბოლო
 	Document Formatting	დოკუმენტის ფორმატირება
@@ -992,6 +1001,7 @@ numerals	Context	კონტექსტური
 	Fixed Column Width	სვეტის ფიქსირებული სიგანე
 	Flip Horizontal	ჰორიზონტალურად არეკვლა
 	Flip Vertical	ვერტიკალურად არეკვლა
+	Float	მცურავი
 	Floor	ქვედა მთელი ნაწილი
 	Focus	ფოკუსი
 	Follow number with:	ნომრის შემდეგ:
@@ -1572,6 +1582,7 @@ template	Letter	წერილი
 	Move Down	ჩამოწევა
 	Move in Equation	გადაადგილება განტოლებაში
 	Move or Resize	გადაადგილება ან ზომის შეცვლა
+	Move Pane: {title}	პანელის გადაადგილება: {title}
 	Move Paragraph Down	აბზაცის ჩამოწევა
 	Move Paragraph Up	აბზაცის აწევა
 	Move Past Citation	ციტატის გამოტოვება
@@ -1840,6 +1851,7 @@ template	Letter	წერილი
 	Pages	გვერდები
 	Pages like 1-3, 5	გვერდები, მაგ. 1-3, 5
 	Pages of bookmark:	სანიშნის გვერდები:
+	Pane Options	პანელის პარამეტრები
 	Paper	ქაღალდი
 	Paper size:	ფურცლის ზომა:
 	Paragraph	აბზაცი
@@ -2036,6 +2048,8 @@ template	Letter	წერილი
 	Regular expressions	რეგულარული გამოსახულებები
 	Reject	უარყოფა
 	Reject All Changes	ყველა ცვლილების უარყოფა
+	Reject All Changes and Stop Tracking	ყველა ცვლილების უარყოფა და თვალის დევნების შეწყვეტა
+	Reject and Move to Next	უარყოფა და შემდეგზე გადასვლა
 	Reject Change	ცვლილების უარყოფა
 	Relationship	კავშირი
 	Relative to original picture size	სურათის საწყის ზომასთან შეფარდებით
@@ -2097,6 +2111,7 @@ template	Letter	წერილი
 	Reset to Normal	ჩვეულებრივზე დაბრუნება
 	Reset\nGraphic	გრაფიკის\nჩამოყრა
 	Reset…	ჩამოყრა…
+	Resize Pane	პანელის ზომის შეცვლა
 	Resize Table by Dragging	ცხრილის ზომის შეცვლა გადათრევით
 	Resolve	გადაწყვეტა
 	Resolved	გადაწყვეტილია
@@ -2184,6 +2199,7 @@ template	Letter	წერილი
 	Sayings:	რეპლიკები:
 	Scale	მასშტაბი
 	Scale Drawing	ნახატის მასშტაბირება
+	Scale Font Sizes	შრიფტის ზომების მასშტაბირება
 	Scale to paper size	ფურცლის ზომაზე მასშტაბირება
 	Scatter	წერტილოვანი
 	Script	სკრიპტი
@@ -2256,6 +2272,7 @@ template	Letter	წერილი
 	Sentence	წინადადება
 	Sentence case.	წინადადების რეგისტრი.
 	Separate text at	ტექსტის გამყოფი
+	Separate text with	ტექსტის გამყოფი
 	Separator:	გამყოფი:
 	Sepia	სეპია
 	Sequence name:	თანმიმდევრობის სახელი:
@@ -2488,6 +2505,7 @@ template	Letter	წერილი
 	Style: {style}	სტილი: {style}
 	Styles	სტილები
 	Styles Pane	სტილების პანელი
+	Styles Pane Position	სტილების პანელის პოზიცია
 	Styles:	სტილები:
 	Subentry:	ქვეჩანაწერი:
 	Subject	თემა
@@ -2520,7 +2538,9 @@ template	Letter	წერილი
 	Swap footnotes and endnotes	სქოლიოებისა და დოკუმენტის სქოლიოების ურთიერთშენაცვლება
 	Swedish	შვედური
 	Switch Modes	რეჟიმის გადართვა
+	Switch Windows	ფანჯრების გადართვა
 	Switch\nModes	რეჟიმის\nგადართვა
+	Switch\nWindows	ფანჯრების\nგადართვა
 	Symbol	სიმბოლო
 	Symbols	სიმბოლოები
 	Synonyms	სინონიმები
@@ -2800,6 +2820,7 @@ preview	Title	სათაური
 	Vertical Dots	ვერტიკალური წერტილები
 	View	ხედი
 	View Alt Text…	ალტერნატიული ტექსტის ნახვა…
+	View and edit the document's custom properties.	დოკუმენტის მორგებული თვისებების ნახვა და რედაქტირება.
 	View Gridlines	ბადის ჩვენება
 	View State	ხედის მდგომარეობა
 	View › Focus hides everything but your words. I'll wait outside.	ხედი › ფოკუსი ყველაფერს მალავს თქვენი სიტყვების გარდა. გარეთ დაგელოდებით.
