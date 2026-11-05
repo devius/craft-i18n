@@ -529,7 +529,7 @@ certificate	Basic constraints	ძირითადი შეზღუდვე�
 	Compare files…	ფაილების შედარება…
 	Compare panel	შედარების პანელი
 	Compare this file with an older version: Compare files… in All tools.	შეადარეთ ეს ფაილი ძველ ვერსიას: ფაილების შედარება… — ყველა ხელსაწყოში.
-	Complete	დასრულება
+	Complete	მზადაა
 	Compatibility	თავსებადობა
 	Completed	დასრულებული
 	Compress a PDF	PDF-ის შეკუმშვა
@@ -550,7 +550,7 @@ certificate	Basic constraints	ძირითადი შეზღუდვე�
 	Convert	გარდაქმნა
 	Convert colors	ფერების გარდაქმნა
 	Convert colours	ფერების გარდაქმნა
-	Convert to	გარდაქმნა შემდეგად
+	Convert to	კონვერტაცია შემდეგად
 	Copied to clipboard	დაკოპირდა გაცვლის ბუფერში
 	Copied {what}	კოპირებულია: {what}
 	Copies, two-sided printing and colour are chosen in the browser's print dialog.	ასლები, ორმხრივი ბეჭდვა და ფერი ბრაუზერის ბეჭდვის დიალოგში აირჩევა.
@@ -1829,7 +1829,7 @@ animation effects	On	ჩართული
 	Pictures cover pages {pages} (scans?), so the background won't show there.	გვერდები {pages} სურათებითაა დაფარული (სკანები?), ამიტომ ფონი იქ არ გამოჩნდება.
 	Pictures need alternate text that describes them, or must be marked decorative. Add alternate text to each figure.	სურათებს სჭირდება მათი აღმწერი ალტერნატიული ტექსტი, ან დეკორატიულად უნდა მოინიშნოს. დაამატეთ ალტერნატიული ტექსტი თითოეულ ფიგურას.
 	Pictures on those pages are recognized too; words already in the page's text are not added again	ამ გვერდებზე სურათებიც ამოიცნობა; სიტყვები, რომლებიც უკვე გვერდის ტექსტშია, ხელახლა არ დაემატება
-	PIN	PIN-კოდი
+	PIN	PIN
 	Pin	მიმაგრება
 	Pin a folder to Home	საქაღალდის საწყის ეკრანზე მიმაგრება
 	Pin a folder to list its newest PDFs here, such as where your scanner or a synced cloud drive saves them.	მიამაგრეთ საქაღალდე, რომ მისი უახლესი PDF-ები აქ ჩანდეს — მაგალითად, სადაც თქვენი სკანერი ან სინქრონიზებული ღრუბლოვანი დისკი ინახავს მათ.
@@ -2731,7 +2731,7 @@ calendar weekday	Th	ხუთ
 	Top left	ზედა მარცხენა
 	Top	ზემოთ
 	Top-level bookmarks ({n})	ზედა დონის სანიშნეები ({n})
-	Total area coverage	საღებავის ჯამური დაფარვა
+	Total area coverage	ფართობის ჯამური დაფარვა
 	Total	სულ
 	TR must be a child of Table, THead, TBody, or TFoot	TR უნდა იყოს Table-ის, THead-ის, TBody-ის ან TFoot-ის შვილი
 	Transform image	გამოსახულების გარდაქმნა
