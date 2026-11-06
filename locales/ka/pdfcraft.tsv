@@ -550,7 +550,7 @@ certificate	Basic constraints	ძირითადი შეზღუდვე�
 	Convert	გარდაქმნა
 	Convert colors	ფერების გარდაქმნა
 	Convert colours	ფერების გარდაქმნა
-	Convert to	კონვერტაცია შემდეგად
+	Convert to	გარდაქმნა:
 	Copied to clipboard	დაკოპირდა გაცვლის ბუფერში
 	Copied {what}	კოპირებულია: {what}
 	Copies, two-sided printing and colour are chosen in the browser's print dialog.	ასლები, ორმხრივი ბეჭდვა და ფერი ბრაუზერის ბეჭდვის დიალოგში აირჩევა.
@@ -1253,7 +1253,7 @@ key	Home	Home
 	Installed fonts…	დაინსტალირებული შრიფტები…
 	Instruction	ინსტრუქცია
 	Intended usage	დანიშნულება
-	Intent	განზრახვა
+	Intent	დანიშნულება
 certificate	Intended usage	დანიშნულება
 	Interface language	ინტერფეისის ენა
 	Interface size	ინტერფეისის ზომა
@@ -2047,7 +2047,7 @@ certificate	Public key	საჯარო გასაღები
 	Replace pages	გვერდების ჩანაცვლება
 	Replace pages…	გვერდების ჩანაცვლება…
 	Replace text	ტექსტის ჩანაცვლება
-	Replace with	ჩანაცვლება შემდეგით
+	Replace with	ჩანაცვლება:
 	Replaced	ჩანაცვლებული
 	Replacement text	ჩამნაცვლებელი ტექსტი
 	Replacement: pages of {name}	ჩამნაცვლებელი: {name}-ის გვერდები
