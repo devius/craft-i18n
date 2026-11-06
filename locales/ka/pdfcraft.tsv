@@ -19,13 +19,10 @@
 	 on page {label}	 {label} გვერდზე
 	 on page {p}	 (გვერდი {p})
 	 · password-protected	 · პაროლით დაცული
-	% of all commits	ყველა კომიტის %
-	(none)	(არცერთი)
 	+Bin	+Bin
 	+LOC	+LOC
 	, Expires: 	, ვადა: 
 	1 difference found	ნაპოვნია 1 განსხვავება
-	1 file	1 ფაილი
 	1 file done	დასრულდა 1 ფაილი
 	1 file needs attention	1 ფაილი ყურადღებას საჭიროებს
 	1 instance	1 შემთხვევა
@@ -67,10 +64,8 @@
 	A {} annotation has additional actions	{} ანოტაციას დამატებითი ქმედებები აქვს
 	A {} annotation has no appearance stream	{} ანოტაციას იერსახის ნაკადი არ აქვს
 	A {} annotation isn't set to print, or is hidden	{} ანოტაცია ბეჭდვაზე არ არის დაყენებული ან დამალულია
-	About	პროგრამის შესახებ
 	About PdfCraft	PdfCraft-ის შესახებ
 	Accepted	მიღებული
-	Accessibility	ხელმისაწვდომობა
 	Accessibility Checker	ხელმისაწვდომობის შემოწმება
 	Accessibility Checker Options	ხელმისაწვდომობის შემმოწმებლის პარამეტრები
 	Accessibility permission flag	ხელმისაწვდომობის ნებართვის ალამი
@@ -85,15 +80,11 @@
 	Action Wizard…	ქმედებების ოსტატი…
 	Actions	ქმედებები
 	Actions list	ქმედებების სია
-	Active	აქტიური
-	Actual Size	რეალური ზომა
 	Actual size	რეალური ზომა
 	Actual text	ფაქტობრივი ტექსტი
-	Add	დამატება
 	Add a button	ღილაკის დამატება
 	Add a callout	ახსნა-წარწერის დამატება
 	Add a checkbox	მოსანიშნი ველის დამატება
-	Add a comment	კომენტარის დამატება
 	Add a date field	თარიღის ველის დამატება
 	Add a digital signature field	ციფრული ხელმოწერის ველის დამატება
 	Add a drop-down list	ჩამოსაშლელი სიის დამატება
@@ -182,20 +173,13 @@
 	Added {n} comments	დაემატა კომენტარები: {n}
 	Adding images arrives on the web with file pickers for images	გამოსახულებების დამატება ვებში გამოსახულების ფაილის ამრჩევებთან ერთად გამოჩნდება
 	Adds invisible text over each word; the page image is not changed	ყოველ სიტყვაზე უხილავ ტექსტს ამატებს; გვერდის გამოსახულება არ იცვლება
-	Advanced	დამატებითი
 	Advanced optimization	გაფართოებული ოპტიმიზაცია
 	Advanced options	დამატებითი პარამეტრები
 	Advanced Options {chevron}	დამატებითი პარამეტრები {chevron}
 	Advanced search…	გაფართოებული ძიება…
 	AI assistant	AI ასისტენტი
 	Algorithm	ალგორითმი
-	Align	სწორება
 	Align fields	ველების სწორება
-	Align left	მარცხნივ სწორება
-	Align right	მარჯვნივ სწორება
-	Alignment	სწორება
-	Alignment:	სწორება:
-	All	ყველა
 	All annotations are tagged	ყველა ანოტაცია ტეგირებულია
 	All document contents	დოკუმენტის მთელი შიგთავსი
 	All document contents except metadata	დოკუმენტის მთელი შიგთავსი მეტამონაცემების გარდა
@@ -204,7 +188,6 @@
 	All multimedia objects are tagged	ყველა მულტიმედიური ობიექტი ტეგირებულია
 	All open documents	ყველა გახსნილი დოკუმენტი
 	All page content is tagged	გვერდის მთელი შიგთავსი ტეგირებულია
-	All pages	ყველა გვერდი
 	All pages in document	დოკუმენტის ყველა გვერდი
 	All pages in range	დიაპაზონის ყველა გვერდი
 	All tools	ყველა ხელსაწყო
@@ -224,7 +207,6 @@
 	Alternate text on an element without page content is never reached. Remove it or attach the element to content.	ალტერნატიულ ტექსტამდე გვერდის შიგთავსის არმქონე ელემენტზე ვერასოდეს მიაღწევენ. წაშალეთ ის ან მიაბით ელემენტი შიგთავსს.
 	Alternate text should not hide annotation	ალტერნატიულმა ტექსტმა ანოტაცია არ უნდა დამალოს
 	Alternate text that will never be read	ალტერნატიული ტექსტი, რომელიც არასოდეს წაიკითხება
-	Always	ყოველთვის
 	Always use my default zoom and page layout	ყოველთვის ჩემი ნაგულისხმევი მასშტაბისა და გვერდის განლაგების გამოყენება
 	An action is already running	ქმედება უკვე სრულდება
 	An action with this name already exists.	ამ სახელის ქმედება უკვე არსებობს.
@@ -233,26 +215,19 @@
 	An image has alternates or OPI information	გამოსახულებას აქვს ალტერნატივები ან OPI ინფორმაცია
 	An open-source PDF workbench — local, private, and scriptable.	ღია კოდის PDF სამუშაო მაგიდა — ლოკალური, კონფიდენციალური და სკრიპტებით მართვადი.
 	and {n} more	და კიდევ {n}
-	Angle	კუთხე
-	Animation effects	ანიმაციის ეფექტები
 	Animation that flashes can cause seizures. Check scripts and media for flicker.	მოციმციმე ანიმაციამ შეიძლება გულყრა გამოიწვიოს. შეამოწმეთ სკრიპტები და მედია ციმციმზე.
 	Annotations, form fill-in, and digital signatures	ანოტაციები, ფორმის შევსება და ციფრული ხელმოწერები
 	Another file dialog is still open. Finish with it first.	ფაილის სხვა დიალოგი ჯერ კიდევ ღიაა. ჯერ ის დაასრულეთ.
-	Any	ნებისმიერი
 	Any except extracting pages	ყველაფერი, გარდა გვერდების ამოღებისა
 	Anyone opening the document will need this password. It's applied when you save.	დოკუმენტის ნებისმიერ გამხსნელს ეს პაროლი დასჭირდება. ის შენახვისას გამოიყენება.
 	Appear behind page	გვერდის უკან განთავსება
 	Appear on top of page	გვერდის ზემოთ განთავსება
-	Appearance	იერსახე
-theme	Appearance	იერსახე
 	Appearance mode	იერსახის რეჟიმი
 	Appearance settings…	იერსახის პარამეტრები…
-	Application	აპლიკაცია
 	Applied 1 redaction mark. Save to remove the content from the file.	გამოყენებულია 1 დაფარვის ნიშანი. შეინახეთ, რომ შიგთავსი ფაილიდანაც წაიშალოს.
 	Applied {n} redaction marks. Save to remove the content from the file.	გამოყენებულია დაფარვის ნიშნები: {n}. შეინახეთ, რომ შიგთავსი ფაილიდანაც წაიშალოს.
 	Applies to 1 page	ვრცელდება 1 გვერდზე
 	Applies to {n} pages	ვრცელდება გვერდებზე: {n}
-	Apply	გამოყენება
 	Apply PDF standards	PDF სტანდარტების გამოყენება
 	Apply redactions	დაფარვის გამოყენება
 	Apply redactions…	დაფარვის გამოყენება…
@@ -263,10 +238,7 @@ theme	Appearance	იერსახე
 calendar date	April	აპრილი
 	Arbitrary Mask	ნებისმიერი ნიღაბი
 	Archive documents	დოკუმენტების დაარქივება
-	Area	ფართობი
 	Arrange image	გამოსახულების განლაგება
-	Arrow	ისარი
-	ArtCraft website	ArtCraft-ის ვებსაიტი
 	Ask about this document	შეკითხვა ამ დოკუმენტის შესახებ
 	Asks GitHub for the latest release. Nothing is downloaded or installed automatically.	GitHub-ს უახლეს გამოშვებას ეკითხება. ავტომატურად არაფერი ჩამოიტვირთება და არ დაყენდება.
 	Associated with content	დაკავშირებულია შიგთავსთან
@@ -285,23 +257,18 @@ calendar date	April	აპრილი
 	Audit space usage…	სივრცის გამოყენების ანალიზი…
 	August	აგვისტო
 calendar date	August	აგვისტო
-	Author	ავტორი
-	Auto	ავტომატური
 	Auto ({percent}%)	ავტო ({percent}%)
 	Auto follows the system's text size. Pages always render at the display's full resolution.	ავტო სისტემის ტექსტის ზომას მიჰყვება. გვერდები ყოველთვის ეკრანის სრული გარჩევადობით ირენდერება.
 	Auto portrait/landscape	ავტომატურად ვერტიკალური/ჰორიზონტალური
 	Auto-rotate pages	გვერდების ავტოშემობრუნება
 	Auto-size text to fit redaction region	ტექსტის ზომის ავტომორგება დაფარვის არეზე
-	Automatically	ავტომატურად
 	Automatically tag PDF	PDF-ის ავტომატური მონიშვნა ტეგებით
-	Available	ხელმისაწვდომი
 	average	საშუალო
 	Back	უკან
 	Back side only	მხოლოდ უკანა მხარე
 	Back to all tools	ყველა ხელსაწყოზე დაბრუნება
 	Back to Prepare a form	ფორმის მომზადებაზე დაბრუნება
 	Back to the document	დოკუმენტში დაბრუნება
-	Background	ფონი
 	background	ფონი
 	Basic constraints	ძირითადი შეზღუდვები
 certificate	Basic constraints	ძირითადი შეზღუდვები
@@ -310,16 +277,10 @@ certificate	Basic constraints	ძირითადი შეზღუდვე�
 	Before the number	რიცხვის წინ
 	Beveled	ამოზნექილი
 	Bicubic downsampling to	ბიკუბური შემცირება გარჩევადობამდე
-	Binary assets added	დამატებული ბინარული ფაილები
-	Binary assets removed	წაშლილი ბინარული ფაილები
 	Binding	აკინძვა
 	Binding:	აკინძვა:
-	Black	შავი
-	Black and white	შავ-თეთრი
 	Black on white	შავი თეთრზე
 	Blank page	ცარიელი გვერდი
-	Blue	ლურჯი
-	Bold	მუქი
 	bold	მუქი
 	Booklet	ბროშურა
 	Booklet subset:	ბროშურის ნაწილი:
@@ -329,16 +290,11 @@ certificate	Basic constraints	ძირითადი შეზღუდვე�
 	Bookmarks Panel and Page	სანიშნეების პანელი და გვერდი
 	Border Color:	ჩარჩოს ფერი:
 	Borders and Colors	ჩარჩოები და ფერები
-	Both	ორივე
-	Both sides	ორივე მხარე
-	Bottom	ქვემოთ
-	Bottom:	ქვემოთ:
 	Box	ჩარჩო
 	Bring forward	წინ გადმოტანა
 	Bring to front	წინა პლანზე გადმოტანა
 	Bring your own model (off by default)	საკუთარი მოდელის გამოყენება (ნაგულისხმევად გამორთულია)
 	Browser's print dialog	ბრაუზერის ბეჭდვის დიალოგი
-	Browse…	არჩევა…
 	Bulleted list	ბურთულებიანი სია
 	Butt	ბრტყელი
 	Button	ღილაკი
@@ -347,18 +303,14 @@ certificate	Basic constraints	ძირითადი შეზღუდვე�
 	Button Style:	ღილაკის სტილი:
 	Buttons with the same name and value are selected in unison	ერთნაირი სახელისა და მნიშვნელობის ღილაკები ერთად მოინიშნება
 	Bytes	ბაიტი
-	Calculate	გამოთვლა
 	Calculation order	გამოთვლის რიგი
 	Calibrate from two points	დაკალიბრება ორი წერტილით
 	Callout	ახსნა-წარწერა
 	Can't be read: {e}	ვერ იკითხება: {e}
-	Cancel	გაუქმება
 	Cancelled	გაუქმებული
 	Cancelling…	უქმდება…
 	Case-sensitive	რეგისტრის გათვალისწინება
-	Category:	კატეგორია:
 	CCITT Group 4	CCITT ჯგუფი 4
-	Center	ცენტრში
 	Center Footer Text	ქვედა კოლონტიტულის ტექსტი ცენტრში
 	Center Header Text	ზედა კოლონტიტულის ტექსტი ცენტრში
 	Center horizontally	ჰორიზონტალურად ცენტრირება
@@ -397,7 +349,6 @@ certificate	Basic constraints	ძირითადი შეზღუდვე�
 	Character limit 0 means no limit. A comb of characters needs a limit.	სიმბოლოების ლიმიტი 0 ნიშნავს ლიმიტის გარეშე. უჯრებად დაყოფას ლიმიტი სჭირდება.
 	Character limit:	სიმბოლოების ლიმიტი:
 	Character spacing	სიმბოლოთა ინტერვალი
-	Characters	სიმბოლოები
 	characters	სიმბოლო
 	Characters without spaces	სიმბოლოები სივრცის გარეშე
 	Check	თოლია
@@ -436,15 +387,10 @@ certificate	Basic constraints	ძირითადი შეზღუდვე�
 	Choose image…	გამოსახულების არჩევა…
 	Choose photo…	ფოტოს არჩევა…
 	Choose the digital ID that you want to use for signing:	აირჩიეთ ციფრული ID, რომლითაც ხელს მოაწერთ:
-	Choose…	არჩევა…
-	Circle	წრე
 	Clean Up	გასუფთავება
 	Clean-up	გასუფთავება
-	Clear	გასუფთავება
-	Clear All	ყველას გასუფთავება
 	Clear all	ყველას გასუფთავება
 	Clear form	ფორმის გასუფთავება
-	Clear Recent Files	ბოლოს გახსნილი ფაილების სიის გასუფთავება
 	Clear redaction marks	დაფარვის ნიშნების გასუფთავება
 	Clear search	ძიების გასუფთავება
 	Clear selection / close find	მონიშვნის მოხსნა / ძებნის დახურვა
@@ -454,10 +400,7 @@ certificate	Basic constraints	ძირითადი შეზღუდვე�
 	Click the first point to begin.	დასაწყებად დაწკაპეთ პირველ წერტილზე.
 	Click to sort, drag to move the column. Drag its edge to resize it.	დაწკაპეთ სორტირებისთვის, გადაათრიეთ სვეტის გადასატანად. ზომის შესაცვლელად გადაათრიეთ მისი კიდე.
 	Click vertices. Enter or double-click finishes a perimeter or area. Click the first point to close an area.	დაწკაპეთ წვეროებზე. Enter ან ორმაგი დაწკაპუნება ასრულებს პერიმეტრს ან ფართობს. ფართობის დასახურად დაწკაპეთ პირველ წერტილზე.
-	Clipboard	გაცვლის ბუფერი
 	Clockwise 90 degrees	საათის ისრის მიმართულებით 90 გრადუსით
-	Close	დახურვა
-	Close (Esc)	დახურვა (Esc)
 	Close all	ყველას დახურვა
 	Close file	ფაილის დახურვა
 	Close menu	მენიუს დახურვა
@@ -465,28 +408,21 @@ certificate	Basic constraints	ძირითადი შეზღუდვე�
 	Close Tab	ჩანართის დახურვა
 	Closed arrow	დახურული ისარი
 	Cloud	ღრუბელი
-	Collapse	ჩაკეცვა
 	Collapse all	ყველას აკეცვა
 	Collapse all bookmarks	ყველა სანიშნის აკეცვა
 	Collapse all pages	ყველა გვერდის აკეცვა
 	Collapse all tools	ყველა ხელსაწყოს აკეცვა
 	Collapse tag	ტეგის ჩაკეცვა
-	Collate	დაკომპლექტება
-	Color	ფერი
 	Color contrast	ფერის კონტრასტი
 	Color Images	ფერადი გამოსახულებები
 	Color Spaces	ფერთა სივრცეები
-	Color:	ფერი:
-	Colour	ფერი
 	Colours are remapped while rendering; the document itself never changes.	ფერები ჩვენებისას გადაიწერება; თავად დოკუმენტი არასოდეს იცვლება.
 	Column select	სვეტის მონიშვნა
 	Column spacing	სვეტებს შორის დაშორება
 	Column widths	სვეტების სიგანეები
 	Column {n}	სვეტი {n}
-	Columns	სვეტები
 	Comb of	უჯრებად დაყოფა:
 	Comb of characters	სიმბოლოების უჯრებად დაყოფა
-	Combine	გაერთიანება
 	Combine files	ფაილების გაერთიანება
 	Combine files…	ფაილების გაერთიანება…
 	Combine the rest	დანარჩენის გაერთიანება
@@ -494,14 +430,11 @@ certificate	Basic constraints	ძირითადი შეზღუდვე�
 	Combo	კომბინირებული
 	Coming in milestone	გამოჩნდება ეტაპში
 	Coming in milestone {m}. Items marked Ready work today.	გამოჩნდება ეტაპში {m}. „მზადაა“ ნიშნით მონიშნული ელემენტები უკვე მუშაობს.
-	Command	ბრძანება
-	Comment	კომენტარი
 	Comment and form data	კომენტარებისა და ფორმის მონაცემები
 	Comment and review	კომენტირება და განხილვა
 	Comment list	კომენტარების სია
 	Commenting	კომენტირება
 	Commenting, filling in form fields, and signing existing signature fields	კომენტირება, ფორმის ველების შევსება და არსებული ხელმოწერის ველების ხელმოწერა
-	Comments	კომენტარები
 	comments	კომენტარები
 	Comments & Forms	კომენტარები და ფორმები
 	Comments and markups	კომენტარები და მარკირება
@@ -509,20 +442,15 @@ certificate	Basic constraints	ძირითადი შეზღუდვე�
 	Comments panel	კომენტარების პანელი
 	Comments, links and fields must be in the tag tree to be announced. Tag the annotations.	კომენტარები, ბმულები და ველები ტეგების ხეში უნდა იყოს, რომ გახმოვანდეს. დაატეგეთ ანოტაციები.
 	Commit selected value immediately	არჩეული მნიშვნელობის დაუყოვნებლივ დადასტურება
-	Commits	კომიტები
 	Common Properties	საერთო თვისებები
 	Common scales	გავრცელებული მასშტაბები
-	Company	კომპანია
-	Compare	შედარება
 	Compare Files	ფაილების შედარება
 	Compare files	ფაილების შედარება
 	Compare files…	ფაილების შედარება…
 	Compare this file with an older version: Compare files… in All tools.	შეადარეთ ეს ფაილი ძველ ვერსიას: ფაილების შედარება… — ყველა ხელსაწყოში.
-	Compatibility	თავსებადობა
 	Completed	დასრულებული
 	Compress a PDF	PDF-ის შეკუმშვა
 	Compress document structure (object streams)	დოკუმენტის სტრუქტურის შეკუმშვა (ობიექტების ნაკადები)
-	Compression	შეკუმშვა
 	Configure a Digital ID for Signing	ციფრული ID-ის კონფიგურაცია ხელმოწერისთვის
 	Configure New Digital ID	ახალი ციფრული ID-ის კონფიგურაცია
 	Confirm Password	გაიმეორეთ პაროლი
@@ -532,16 +460,11 @@ certificate	Basic constraints	ძირითადი შეზღუდვე�
 	Content copying	შიგთავსის კოპირება
 	Content copying for accessibility	შიგთავსის კოპირება ხელმისაწვდომობისთვის
 	Content Streams	შიგთავსის ნაკადები
-	Continue	გაგრძელება
 	Continuous scrolling	უწყვეტი გადახვევა
-	Contributors	მონაწილეები
-	Convert	გარდაქმნა
 	Convert colors	ფერების გარდაქმნა
 	Copied to clipboard	დაკოპირდა გაცვლის ბუფერში
 	Copied {what}	კოპირებულია: {what}
 	Copies, two-sided printing and colour are chosen in the browser's print dialog.	ასლები, ორმხრივი ბეჭდვა და ფერი ბრაუზერის ბეჭდვის დიალოგში აირჩევა.
-	Copies:	ასლები:
-	Copy	კოპირება
 	Copy Image	გამოსახულების კოპირება
 	Copy Image in Original Format	გამოსახულების კოპირება ორიგინალ ფორმატში
 	Copy or cut pages first	ჯერ დააკოპირეთ ან ამოჭერით გვერდები
@@ -586,7 +509,6 @@ certificate	Basic constraints	ძირითადი შეზღუდვე�
 	Counterclockwise 90 degrees	საათის ისრის საწინააღმდეგოდ 90 გრადუსით
 	Counting words… {n} pages read	სიტყვები ითვლება… წაკითხული გვერდები: {n}
 	Country/Region	ქვეყანა/რეგიონი
-	Create	შექმნა
 	Create & Edit	შექმნა და რედაქტირება
 	Create a new Digital ID (self-signed, saved to a password-protected file)	ახალი ციფრული ID-ის შექმნა (თვითხელმოწერილი, პაროლით დაცულ ფაილში შენახული)
 	Create a PDF	PDF-ის შექმნა
@@ -620,20 +542,16 @@ certificate	Basic constraints	ძირითადი შეზღუდვე�
 	Creator	შემქმნელი აპლიკაცია
 	Credit Cards	საკრედიტო ბარათები
 	CRL Signing	CRL-ების ხელმოწერა
-	Crop	ჩამოჭრა
 	Crop (% trimmed from each side)	ჩამოჭრა (% თითოეული მხრიდან)
 	Crop Image	გამოსახულების ჩამოჭრა
 	Crop image	გამოსახულების ჩამოჭრა
 	Crop page	გვერდის ჩამოჭრა
 	Crop pages	გვერდების ჩამოჭრა
-	Cross	ჯვარი
 key	Ctrl	Ctrl
 	Currency symbol:	ვალუტის სიმბოლო:
-	Current page	მიმდინარე გვერდი
 	Current page ({n})	მიმდინარე გვერდი ({n})
 	Current page only	მხოლოდ მიმდინარე გვერდი
 	Current page — type a page number or label (such as iv) and press Enter	მიმდინარე გვერდი — აკრიფეთ გვერდის ნომერი ან ჭდე (მაგ., iv) და დააჭირეთ Enter-ს
-	Custom	მორგებული
 	Custom font	საკუთარი შრიფტი
 	Custom scale	საკუთარი მასშტაბი
 	Custom scale:	საკუთარი მასშტაბი:
@@ -641,7 +559,6 @@ key	Ctrl	Ctrl
 	Custom text:	საკუთარი ტექსტი:
 	Custom:	მორგებული:
 	Customize & Automate	მორგება და ავტომატიზაცია
-	Cut	ამოჭრა
 	Cut and stack	ამოჭრა და დაწყობა
 	Cut and stack needs Two-sided: Off. Print single-sided sheets.	ამოჭრასა და დაწყობას სჭირდება „ორმხრივი: გამორთული“. დაბეჭდეთ ცალმხრივი ფურცლები.
 	Cut Image	გამოსახულების ამოჭრა
@@ -649,17 +566,11 @@ key	Ctrl	Ctrl
 	Cut pages	გვერდების ამოჭრა
 	Cut {what}	ამოჭრილია: {what}
 	Cuts each page to its printed area, turns it upright and fits it to the sheet without stretching. One label per sheet.	თითოეულ გვერდს დაბეჭდილ არემდე ჩამოჭრის, სწორად შემოაბრუნებს და ფურცელში გაწელვის გარეშე ჩაატევს. თითო ფურცელზე ერთი იარლიყი.
-	Dark	ბნელი
-	Dark gray	მუქი ნაცრისფერი
 	Dark gray theme	მუქი ნაცრისფერი თემა
 	Dark theme	ბნელი თემა
-	Dashed	ტირეებიანი
 	Data Encipherment	მონაცემების დაშიფვრა
-	Date	თარიღი
 	Date field	თარიღის ველი
-	Date format	თარიღის ფორმატი
 	Date: 	თარიღი: 
-	Dates	თარიღები
 	December	დეკემბერი
 calendar date	December	დეკემბერი
 	Decimal places:	ციფრები მძიმის შემდეგ:
@@ -667,13 +578,11 @@ calendar date	December	დეკემბერი
 	Decipher Only	მხოლოდ გაშიფვრა
 	Declared conformance: {shown}	გაცხადებული შესაბამისობა: {shown}
 	Decorative figure	დეკორატიული ფიგურა
-	Default	ნაგულისხმევი
 	Default page display	გვერდების ჩვენება ნაგულისხმევად
 	Default Value:	ნაგულისხმევი მნიშვნელობა:
 	Default workspace mode	სამუშაო რეჟიმი ნაგულისხმევად
 	Default zoom	მასშტაბი ნაგულისხმევად
 	Default:	ნაგულისხმევი:
-	Delete	წაშლა
 key	Delete	Delete
 	Delete attachment	დანართის წაშლა
 	Delete attachment {key}	დანართის წაშლა: {key}
@@ -695,12 +604,8 @@ key	Delete	Delete
 	Delete the selected pages	მონიშნული გვერდების წაშლა
 @plural	Delete {n} field|Delete {n} fields	{n} ველის წაშლა|{n} ველის წაშლა
 	Delete {o}	{o}-ის წაშლა
-	Deleted	წაშლილი
 	Describe the figure	აღწერეთ ფიგურა
-	Description	აღწერა
-	Description:	აღწერა:
 	Detailed Report	დეტალური ანგარიში
-	Details	დეტალები
 	Detect form fields	ფორმის ველების ამოცნობა
 	Detected 1 form field	ნაპოვნია 1 ფორმის ველი
 	Detected {n} form fields	ნაპოვნია ფორმის ველები: {n}
@@ -709,7 +614,6 @@ key	Delete	Delete
 	DeviceCMYK is used: it needs a CMYK output intent (not added automatically)	გამოყენებულია DeviceCMYK: მას CMYK გამოტანის პროფილი სჭირდება (ავტომატურად არ ემატება)
 	DeviceRGB is used, but the PDF/A output intent isn't an RGB profile	გამოყენებულია DeviceRGB, მაგრამ PDF/A გამოტანის პროფილი RGB არ არის
 	Diagnostic details	დიაგნოსტიკური დეტალები
-	Diamond	ბრილიანტი
 	Digital ID	ციფრული ID
 	Digital ID password	ციფრული ID-ის პაროლი
 	Digital Signature	ციფრული ხელმოწერა
@@ -717,9 +621,7 @@ key	Delete	Delete
 	Digital Signature Properties	ციფრული ხელმოწერის თვისებები
 	Digitally sign	ციფრული ხელმოწერა
 	Digitally signed by	ციფრულად ხელმოწერილია
-	Direction:	მიმართულება:
 	Disabled	გამორთულია
-	Discard	უგულებელყოფა
 	Discard all comments, forms and multimedia	ყველა კომენტარის, ფორმისა და მულტიმედიის მოშორება
 	Discard all links, actions and JavaScript	ყველა ბმულის, ქმედებისა და JavaScript-ის მოშორება
 	Discard all object data (file attachments)	ობიექტების ყველა მონაცემის მოშორება (მიმაგრებული ფაილები)
@@ -735,18 +637,13 @@ key	Delete	Delete
 	Discard private data of other applications	სხვა აპლიკაციების პირადი მონაცემების მოშორება
 	Discard this text (Esc)	ამ ტექსტის გაუქმება (Esc)
 	Discard User Data	მომხმარებლის მონაცემების მოშორება
-	Dismiss	დახურვა
-	Display name	საჩვენებელი სახელი
 	Display theme	ინტერფეისის თემა
-	Distance	მანძილი
 	Distinguished name	გამორჩეული სახელი
-	Distribute	განაწილება
 	Distribute evenly	თანაბრად განაწილება
 	Distribute fields	ველების განაწილება
 	DN: 	DN: 
 	Dock navigation rail on Left	ნავიგაციის ზოლის მარცხნივ მიმაგრება
 	Dock navigation rail on Right	ნავიგაციის ზოლის მარჯვნივ მიმაგრება
-	Document	დოკუმენტი
 	Document actions	დოკუმენტის ქმედებები
 	Document and markups	დოკუმენტი და მარკირება
 	Document and stamps	დოკუმენტი და შტამპები
@@ -766,17 +663,12 @@ key	Delete	Delete
 	document security store	დოკუმენტის უსაფრთხოების საცავი
 	document structure	დოკუმენტის სტრუქტურა
 	Document structure provides a logical reading order	დოკუმენტის სტრუქტურა კითხვის ლოგიკურ რიგს უზრუნველყოფს
-	Document Title	დოკუმენტის სათაური
 	Document title is showing in title bar	დოკუმენტის სათაური სათაურის ზოლში ჩანს
 	Documents and view	დოკუმენტები და ხედი
 	Documents of more than 20 pages need bookmarks for navigation. Add bookmarks for the main sections.	20 გვერდზე მეტ დოკუმენტებს ნავიგაციისთვის სანიშნეები სჭირდება. დაამატეთ სანიშნეები ძირითადი სექციებისთვის.
 	Don't save	არ შეინახო
 	Don't show again	აღარ აჩვენო
-	Done	მზადაა
 	Done adding text	ტექსტის დამატება დასრულდა
-	Dot	წერტილი
-	Double-click	ორმაგი დაწკაპუნება
-	Download	ჩამოტვირთვა
 	Downloaded {name}	ჩამოიტვირთა {name}
 @plural	Downloaded {n} PDF|Downloaded {n} PDFs	ჩამოიტვირთა PDF: {n}|ჩამოიტვირთა PDF: {n}
 	Downloading attachments on the web arrives with M3.10 ({n} bytes ready)	დანართების ჩამოტვირთვა ვებში M3.10-ით გამოჩნდება (მზადაა {n} ბაიტი)
@@ -791,7 +683,6 @@ key	Delete	Delete
 	Drag the selection to move it. Esc clears the selection.	მონიშნულის გადასაადგილებლად გადაათრიეთ. Esc მონიშვნას ხსნის.
 	Drag to draw the area where the signature should appear.	გადაათრიეთ, რომ მონიშნოთ არე, სადაც ხელმოწერა უნდა გამოჩნდეს.
 	Drag to reorder	გადაათრიეთ რიგის შესაცვლელად
-	Draw	ხატვა
 	Draw a cloud	ღრუბლის დახატვა
 	Draw a line	ხაზის დახატვა
 	Draw a polygon	მრავალკუთხედის დახატვა
@@ -808,14 +699,11 @@ key	Delete	Delete
 	Drop PDFs, images, text files or folders here, or choose them.	ჩააგდეთ აქ PDF-ები, გამოსახულებები, ტექსტური ფაილები ან საქაღალდეები, ან აირჩიეთ ისინი.
 	Drop-down list	ჩამოსაშლელი სია
 	Dropdown Properties	ჩამოსაშლელი სიის თვისებები
-	Duplicate	დუბლირება
 	Duplicate "{name}" onto:	„{name}“-ის დუბლირება:
 	Duplicate Field	ველის დუბლირება
 	Duplicate field	ველის დუბლირება
 	Duplicate page	გვერდის დუბლირება
 	Duplicate pages	გვერდების დუბლირება
-	Duplicate…	დუბლირება…
-	Dynamic	დინამიკური
 	Dynamic XFA form laid out from its template: {pages}, {fields}.	დინამიკური XFA ფორმა, განლაგებული მისი შაბლონიდან: {pages}, {fields}.
 	E-Sign	ელ-ხელმოწერა
 	e.g. en-US	მაგ., en-US
@@ -826,7 +714,6 @@ key	Delete	Delete
 	Each image once, named after the document and page. JPEG images are saved unchanged; others as PNG.	თითოეული გამოსახულება ერთხელ, დოკუმენტისა და გვერდის სახელით. JPEG გამოსახულებები უცვლელად ინახება, დანარჩენი — PNG-ად.
 	Earlier in calculation order	გამოთვლის რიგში უფრო ადრე
 	Earlier in tab order	ტაბულაციის რიგში უფრო ადრე
-	Edit	რედაქტირება
 comment menu	Edit	რედაქტირება
 	Edit a PDF	PDF-ის რედაქტირება
 	Edit Action	ქმედების რედაქტირება
@@ -841,8 +728,6 @@ comment menu	Edit	რედაქტირება
 	Edit text…	ტექსტის რედაქტირება…
 	Edit this PDF	ამ PDF-ის რედაქტირება
 	Edit {field}'s formula	{field}-ის ფორმულის რედაქტირება
-	Editing	რედაქტირება
-	Edit…	რედაქტირება…
 	Email Address	ელფოსტის მისამართი
 	Email Addresses	ელფოსტის მისამართები
 	Embedded Files	ჩაშენებული ფაილები
@@ -857,7 +742,6 @@ comment menu	Edit	რედაქტირება
 	Encryption	დაშიფვრა
 key	End	End
 	End entity	საბოლოო სუბიექტი
-	Endpoint	ბოლო წერტილი
 	Endpoints	ბოლო წერტილები
 	English	English
 	Enhance camera image	კამერის გამოსახულების გაუმჯობესება
@@ -872,15 +756,11 @@ key	End	End
 	Enter the password that opens it	შეიყვანეთ პაროლი, რომლითაც ის იხსნება
 	Enter the permissions password to allow combining	გაერთიანების დასაშვებად შეიყვანეთ ნებართვების პაროლი
 	Entire page	მთელი გვერდი
-	Erase	წაშლა
 	Erase drawings	ნახაზების წაშლა
-	Eraser	საშლელი
-	Error	შეცდომა
 key	Esc	Esc
 	Even and Odd Pages	ლუწი და კენტი გვერდები
 	Even pages	ლუწი გვერდები
 	Even Pages Only	მხოლოდ ლუწი გვერდები
-	Even pages only	მხოლოდ ლუწი გვერდები
 	Every field calculates after the fields it reads.	ყოველი ველი ითვლება იმ ველების შემდეგ, რომლებსაც კითხულობს.
 	Every field outside a loop calculates after the fields it reads.	ციკლის გარეთ ყოველი ველი ითვლება იმ ველების შემდეგ, რომლებსაც კითხულობს.
 	Every line set in the style chosen for a level becomes a bookmark of that level, under a new first bookmark.	დონისთვის არჩეული სტილით აწყობილი თითოეული სტრიქონი ამ დონის სანიშნე ხდება, ახალი პირველი სანიშნის ქვეშ.
@@ -889,14 +769,12 @@ key	Esc	Esc
 	Every PDF, image and text file in the folder	საქაღალდის ყველა PDF, გამოსახულება და ტექსტური ფაილი
 	Every PDF, image and text file in the folder and the folders inside it	საქაღალდისა და მასში არსებული საქაღალდეების ყველა PDF, გამოსახულება და ტექსტური ფაილი
 	Everything on a page must be tagged or marked as an artifact (decoration, headers, footers). Tag the untagged content.	გვერდზე ყველაფერი ტეგირებული ან არტეფაქტად (დეკორაცია, კოლონტიტულები) მონიშნული უნდა იყოს. დაატეგეთ არატეგირებული შიგთავსი.
-	Example: {sample}	მაგალითი: {sample}
 	Exclude image/OCR text	გამოსახულების/OCR ტექსტის გამორიცხვა
 	Exclude images smaller than	ამაზე მცირე გამოსახულებების გამორიცხვა:
 	Exclude tagged code blocks	ტეგირებული კოდის ბლოკების გამორიცხვა
 	Exclude tagged tables	ტეგირებული ცხრილების გამორიცხვა
 	Exclusions use PDF tags. Untagged tables and code remain included. Image exclusion also removes invisible text.	გამორიცხვა PDF-ის ტეგებს ეყრდნობა. არატეგირებული ცხრილები და კოდი დათვლაში რჩება. გამოსახულებების გამორიცხვა უხილავ ტექსტსაც აკლებს.
 	Execute a menu item	მენიუს ბრძანების შესრულება
-	Expand	გაშლა
 	Expand all	ყველას ჩამოშლა
 	Expand all bookmarks	ყველა სანიშნის ჩამოშლა
 	Expand all pages	ყველა გვერდის ჩამოშლა
@@ -904,7 +782,6 @@ key	Esc	Esc
 	Expand tag	ტეგის გაშლა
 	Expand top-level bookmarks	ზედა დონის სანიშნეების გაშლა
 	Explain	ახსნა
-	Export	ექსპორტი
 	Export a PDF	PDF-ის ექსპორტი
 	Export all comments to data file…	ყველა კომენტარის ექსპორტი მონაცემთა ფაილში…
 	Export All Images	ყველა გამოსახულების ექსპორტი
@@ -921,7 +798,6 @@ key	Esc	Esc
 	Export measurements as CSV	გაზომვების ექსპორტი CSV-ად
 	Export stopped: {e}	ექსპორტი შეწყდა: {e}
 	Export this PDF	ამ PDF-ის ექსპორტი
-	Export to	ექსპორტი ფორმატში
 	Export to HTML…	ექსპორტი HTML-ში…
 	Export to Image	ექსპორტი გამოსახულებად
 	Export to image…	ექსპორტი გამოსახულებად…
@@ -935,13 +811,10 @@ key	Esc	Esc
 	Exported 1 image	ექსპორტირებულია 1 გამოსახულება
 	Exported the text of 1 page	ექსპორტირებულია 1 გვერდის ტექსტი
 	Exported the text of {n} pages	ექსპორტირებულია გვერდების ტექსტი: {n}
-	Exported to {path}	ექსპორტირებულია: {path}
 	Exported {n} images	ექსპორტირებული გამოსახულებები: {n}
 	Exporting… {d} of {t}	ექსპორტირდება… {d} / {t}
-	Export…	ექსპორტი…
 	Extend the docked toolbar along the entire side. Choose a side above to enable.	მიმაგრებული ხელსაწყოთა ზოლის მთელ მხარეზე გაშლა. ჩასართავად ზემოთ აირჩიეთ მხარე.
 	Extended Graphics States	გრაფიკის გაფართოებული მდგომარეობები
-	Extract	ამოღება
 	Extract pages	გვერდების ამოღება
 	Extract pages as separate files	გვერდების ამოღება ცალკეულ ფაილებად
 	Extract pages to a new document	გვერდების ამოღება ახალ დოკუმენტში
@@ -953,7 +826,6 @@ key	Esc	Esc
 scroll speed	Fast	სწრაფი
 	February	თებერვალი
 calendar date	February	თებერვალი
-	Field	ველი
 	Field "{}" on page {p} has no description (tooltip)	ველს „{}“ გვერდზე {p} აღწერა (მინიშნება) არ აქვს
 	Field descriptions	ველების აღწერები
 	Field is used for file selection	ველი ფაილის ასარჩევად გამოიყენება
@@ -962,20 +834,16 @@ calendar date	February	თებერვალი
 	Field names (comma-separated)	ველების დასახელებები (მძიმით გამოყოფილი)
 	field names can't contain a period: {name}	ველის დასახელება წერტილს ვერ შეიცავს: {name}
 	Field names with + - * / and parentheses; put \\ before spaces in names.	ველების დასახელებები + - * / ნიშნებითა და ფრჩხილებით; დასახელებებში ჰარის წინ დასვით \\.
-	Field properties	ველის თვისებები
 	Field properties…	ველის თვისებები…
 	Field value is in range:	ველის მნიშვნელობა დიაპაზონშია:
 	Field value is not validated	ველის მნიშვნელობა არ მოწმდება
 	Field: {field} on page {p}	ველი: {field}, გვერდი {p}
-	Fields	ველები
 	Fields to reset (comma-separated; empty: all)	ჩამოსაყრელი ველები (მძიმით გამოყოფილი; ცარიელი: ყველა)
 	Figure {i} of {n}{page}	ფიგურა {i} / {n}{page}
 	Figures alternate text	ფიგურების ალტერნატიული ტექსტი
 	Figures require alternate text	ფიგურებს ალტერნატიული ტექსტი სჭირდება
-	File	ფაილი
 	File (.p12, .pfx)	ფაილი (.p12, .pfx)
 	File attachments	მიმაგრებული ფაილები
-	File Name	ფაილის სახელი
 	File name	ფაილის სახელი
 	File size	ფაილის ზომა
 @id	file.word_count	სიტყვების დათვლა…
@@ -985,7 +853,6 @@ calendar date	February	თებერვალი
 	Files are combined in this order. Leave Pages empty to take every page.	ფაილები ამ რიგით გაერთიანდება. ყველა გვერდის ასაღებად „გვერდები“ ცარიელი დატოვეთ.
 	Files for {name}	ფაილები {name}-ისთვის
 	Files you open in PdfCraft appear here. Drop a PDF anywhere to open it.	PdfCraft-ში გახსნილი ფაილები აქ გამოჩნდება. PDF-ის გასახსნელად ჩააგდეთ ის ნებისმიერ ადგილას.
-	Fill	შევსება
 	Fill & Sign	შევსება და ხელმოწერა
 	Fill & Sign dates	შევსებისა და ხელმოწერის თარიღები
 	Fill & Sign signature	შევსებისა და ხელმოწერის ხელმოწერა
@@ -1019,13 +886,9 @@ calendar date	February	თებერვალი
 	Find tools and commands…	ხელსაწყოებისა და ბრძანებების ძებნა…
 	Find untagged content	არატეგირებული შიგთავსის ძებნა
 	Finding document fonts…	დოკუმენტის შრიფტების ძებნა…
-	Find…	ძებნა…
 	Finish or discard the text being edited before selecting several objects.	რამდენიმე ობიექტის მონიშვნამდე დაასრულეთ ან გააუქმეთ რედაქტირებადი ტექსტი.
-	First	პირველი
 	First / last page	პირველი / ბოლო გვერდი
-	First commit	პირველი კომიტი
 	First row number	პირველი სტრიქონის ნომერი
-	Fit	მორგება
 	Fit Height	სიმაღლეში ჩატევა
 	Fit one full page	ერთი მთლიანი გვერდი
 	Fit Page	გვერდში ჩატევა
@@ -1047,28 +910,20 @@ calendar date	February	თებერვალი
 	Flatten Fill & Sign	შევსებისა და ხელმოწერის გვერდში ჩაშენება
 	Flatten Fill & Sign when saving	შევსებისა და ხელმოწერის გვერდში ჩაშენება შენახვისას
 	Flatten form fields	ფორმის ველების გვერდში ჩაშენება
-	Flip Horizontal	ჰორიზონტალურად არეკვლა
 	Flip horizontal	ჰორიზონტალურად არეკვლა
 	Flip image	გამოსახულების ასახვა
 	Flip on long edge	გადაბრუნება გრძელ კიდეზე
 	Flip on short edge	გადაბრუნება მოკლე კიდეზე
-	Flip Vertical	ვერტიკალურად არეკვლა
 	Flip vertical	ვერტიკალურად არეკვლა
 	Float (drag anywhere)	თავისუფალი (გადაათრიეთ ნებისმიერ ადგილას)
 	Float panel	მცურავი პანელი
-	Folder	საქაღალდე
 	Folders	საქაღალდეები
-	Font	შრიფტი
 	Font (unnamed) on page {p} doesn't map its characters to Unicode	შრიფტი (უსახელო) გვერდზე {p} თავის სიმბოლოებს Unicode-ს არ უსაბამებს
 	Font colour:	შრიფტის ფერი:
-	Font size	შრიფტის ზომა
 	Font size 0 uses automatic sizing.	შრიფტის ზომა 0 ავტომატურ ზომას იყენებს.
-	Font Size:	შრიფტის ზომა:
 	Font size:	შრიფტის ზომა:
 	Font {} on page {p} doesn't map its characters to Unicode	შრიფტი {} გვერდზე {p} თავის სიმბოლოებს Unicode-ს არ უსაბამებს
-	Font:	შრიფტი:
 	Font: Helvetica	შრიფტი: Helvetica
-	Fonts	შრიფტები
 	Fonts must map their characters to Unicode so text can be read and copied. Fix the fonts or recreate the PDF.	შრიფტებმა თავიანთი სიმბოლოები Unicode-ს უნდა შეუსაბამონ, რომ ტექსტის წაკითხვა და კოპირება შესაძლებელი იყოს. გაასწორეთ შრიფტები ან თავიდან შექმენით PDF.
 	for images above	თუ გამოსახულების გარჩევადობა აღემატება
 	For page sizes and margins.	გვერდის ზომებისა და ველებისთვის.
@@ -1081,25 +936,20 @@ calendar date	February	თებერვალი
 	Form fields panel	ფორმის ველების პანელი
 	form fill	ფორმის შევსება
 	Form fill-in and digital signatures	ფორმის შევსება და ციფრული ხელმოწერები
-	Format	ფორმატი
 	Format text	ტექსტის ფორმატირება
-	Format:	ფორმატი:
 	Forms	ფორმები
 	Forms & Signatures	ფორმები და ხელმოწერები
 	Formulas and similar non-text elements need alternate text. Add alternate text to them.	ფორმულებსა და მსგავს არატექსტურ ელემენტებს ალტერნატიული ტექსტი სჭირდება. დაამატეთ მათ ალტერნატიული ტექსტი.
 	Found {n} untagged content problems.	არატეგირებული შიგთავსის ნაპოვნი პრობლემები: {n}.
 calendar weekday	Fr	პარ
 	Freehand-Highlight	თავისუფალი მარკერი
-	From	საწყისი
 	From a PDF page or an image	PDF გვერდიდან ან გამოსახულებიდან
 	From colour	ფერიდან
 	From {file}	{file}-დან
 	From:	საიდან:
 	Front side only	მხოლოდ წინა მხარე
-	Full Screen	მთელ ეკრანზე
 	Full screen mode	სრულეკრანიანი რეჟიმი
 	Full-side strip	ზოლი მთელ მხარეზე
-	General	ზოგადი
 	General & Interface	ზოგადი და ინტერფეისი
 	Geospatial location	გეოსივრცული მდებარეობა
 	Get help, share feedback and follow development on Discord.	მიიღეთ დახმარება, გაგვიზიარეთ აზრი და ადევნეთ თვალი განვითარებას Discord-ზე.
@@ -1109,30 +959,19 @@ calendar weekday	Fr	პარ
 	Go to the page	გვერდზე გადასვლა
 	Go to this result	ამ შედეგზე გადასვლა
 	Grab bag	სხვადასხვა
-	Graphic	გრაფიკა
-	Gray	ნაცრისფერი
 	Grayscale Images	რუხი ტონების გამოსახულებები
-	Green	მწვანე
 	Green on black	მწვანე შავზე
 	Greyscale	რუხი ტონები
-	Grid view	ბადის ხედი
 	H / Space (hold)	H / Space (დაჭერით)
-	Hand	ხელი
 	Hand (H)	ხელი (H)
-	Hand Tool	ხელის ხელსაწყო
 	Has JavaScript actions (run in M6)	აქვს JavaScript ქმედებები (სრულდება M6-ში)
 	Header and footer	კოლონტიტულები
 	Header cells (TH) tell listeners what each column or row holds. Mark the header cells.	სათაურის უჯრები (TH) მსმენელებს ეუბნება, რას შეიცავს თითოეული სვეტი ან სტრიქონი. მონიშნეთ სათაურის უჯრები.
 	header or footer	კოლონტიტული
 	Headers	სათაურები
 	Heading levels shouldn't skip (an H1 followed by an H3). Retag the headings.	სათაურის დონეები არ უნდა გამოიტოვოს (H1-ს შემდეგ H3). თავიდან დაატეგეთ სათაურები.
-	Headings	სათაურები
-	Height	სიმაღლე
-	Height:	სიმაღლე:
-	Help	დახმარება
 	Help…	დახმარება…
 	Hidden layers	დამალული შრეები
-	Hidden text	დამალული ტექსტი
 	Hide a field	ველის დამალვა
 	Hide all comments	ყველა კომენტარის დამალვა
 	Hide field highlights	ველების გამოკვეთის დამალვა
@@ -1144,36 +983,25 @@ calendar weekday	Fr	პარ
 	Hide toolbars	ხელსაწყოთა ზოლების დამალვა
 	Hide window controls	ფანჯრის მართვის ელემენტების დამალვა
 	Hides annotation	მალავს ანოტაციას
-	High	მაღალი
-	High Resolution	მაღალი გარჩევადობა
-	High resolution	მაღალი გარჩევადობა
 	Highlight	მარკერი
 	Highlight fields	ველების გამოკვეთა
 	Highlight Style:	გამოკვეთის სტილი:
 	Highlight text	ტექსტის მარკერით გამოყოფა
-	Home	საწყისი ეკრანი
 key	Home	Home
 	Home / End	Home / End
-	Horizontal	ჰორიზონტალური
 	Horizontal reversed	ჰორიზონტალური, შებრუნებული
-	Horizontal scale	ჰორიზონტალური მასშტაბი
-	Horizontally	ჰორიზონტალურად
 	Hotbar settings	სწრაფი წვდომის ზოლის პარამეტრები
 	Hotbar settings / add tools	სწრაფი წვდომის ზოლის პარამეტრები / ხელსაწყოების დამატება
 	Hotbar tools	სწრაფი წვდომის ზოლის ხელსაწყოები
 	HTML web page	HTML ვებგვერდი
 	H{n} follows an H{d}; headings should not skip levels	H{n} მოსდევს H{d}-ს; სათაურებმა დონეები არ უნდა გამოტოვონ
-	Icon	ხატულა
 	Identity	ვინაობა
-	Image	გამოსახულება
 	Image (PNG)	გამოსახულება (PNG)
 	Image field	გამოსახულების ველი
 	Image pasted	გამოსახულება ჩაისვა
 	Image-only PDF	მხოლოდ გამოსახულებებისგან შემდგარი PDF
-	Images	გამოსახულებები
 	Images and text	გამოსახულებები და ტექსტი
 	Images and text (converted to PDF)	გამოსახულებები და ტექსტი (PDF-ად გარდაქმნილი)
-	Import	იმპორტი
 	Import comments…	კომენტარების იმპორტი…
 	Import data	მონაცემების იმპორტი
 	Import form data…	ფორმის მონაცემების იმპორტი…
@@ -1186,13 +1014,11 @@ key	Home	Home
 	Includes unsaved changes	შეიცავს შეუნახავ ცვლილებებს
 	Incorrect password. Try again.	პაროლი არასწორია. სცადეთ ხელახლა.
 	Indent	შეწევა
-	Index	ინდექსი
 	Information	ინფორმაცია
 	Initial View	საწყისი ხედი
 	Initials	ინიციალები
 	initials	ინიციალების
 	Ink sensitivity	მელნის მგრძნობელობა
-	Insert	ჩასმა
 	Insert a blank page after the selection	ცარიელი გვერდის ჩასმა მონიშნულის შემდეგ
 	Insert a file at the end	ფაილის ჩასმა ბოლოში
 	Insert a file before page {label}	ფაილის ჩასმა გვერდის {label} წინ
@@ -1215,11 +1041,8 @@ key	Home	Home
 	Installed fonts…	დაინსტალირებული შრიფტები…
 	Intended usage	დანიშნულება
 certificate	Intended usage	დანიშნულება
-	Interface language	ინტერფეისის ენა
 	Interface size	ინტერფეისის ზომა
-	Intersection	გადაკვეთა
 	Intersections	გადაკვეთები
-	Invert	ინვერსია
 	Invisible Rectangle	უხილავი მართკუთხედი
 	Irregular tables confuse cell navigation. Give every row the same number of cells (counting spans).	არარეგულარული ცხრილები უჯრებზე ნავიგაციას ართულებს. ყველა სტრიქონს უჯრების ერთნაირი რაოდენობა მიეცით (გაერთიანებების ჩათვლით).
 	is available	ხელმისაწვდომია
@@ -1231,7 +1054,6 @@ certificate	Issued by	გამცემი
 certificate	Issued to	ვისზეა გაცემული
 	Issuer	გამცემი
 certificate	Issuer	გამცემი
-	Italic	დახრილი
 	italic	დახრილი
 	Item List	ელემენტების სია
 	Item:	ელემენტი:
@@ -1247,15 +1069,11 @@ calendar date	January	იანვარი
 	JavaScript is turned off (Preferences ▸ JavaScript).	JavaScript გამორთულია (პარამეტრები > JavaScript).
 	JavaScript, e.g. getField("total").value	JavaScript, მაგ., getField("total").value
 	JBIG2 (lossless)	JBIG2 (უდანაკარგო)
-	Join our Discord	შემოგვიერთდით Discord-ზე
 	Join the ArtCraft community	შემოუერთდით ArtCraft-ის საზოგადოებას
-	Join the ArtCraft Discord	შემოუერთდით ArtCraft-ის Discord-ს
 	July	ივლისი
 calendar date	July	ივლისი
 	June	ივნისი
 calendar date	June	ივნისი
-	just now	ახლახან
-	Justify	ორმხრივი სწორება
 	Keep source fonts	წყაროს შრიფტების შენარჩუნება
 	Keep tool selected	ხელსაწყოს არჩეულად დატოვება
 	Keep tool selected: on	ხელსაწყოს არჩეულად დატოვება: ჩართულია
@@ -1266,54 +1084,35 @@ calendar date	June	ივნისი
 certificate	Key usage	გასაღების გამოყენება
 	Keyboard shortcuts	კლავიატურის მალსახმობები
 	Keychain  ·  	Keychain  ·  
-	Keywords	საკვანძო სიტყვები
 	Label	წარწერა
 	Labels	წარწერები
 	Labels: {preview}. Later pages keep their labels.	ჭდეები: {preview}. შემდეგი გვერდები თავიანთ ჭდეებს ინარჩუნებს.
-	Landscape	ჰორიზონტალური
 	Landscape and Portrait Pages	ჰორიზონტალური და ვერტიკალური გვერდები
 	Landscape Pages	ჰორიზონტალური გვერდები
 	Landscape pages	ჰორიზონტალური გვერდები
-	Language	ენა
 	Larger pages	უფრო დიდი გვერდები
 	Larger thumbnails	უფრო დიდი ესკიზები
-	Last	ბოლო
-	Last commit	ბოლო კომიტი
-	Later	მოგვიანებით
 	Later in calculation order	გამოთვლის რიგში უფრო გვიან
 	Later in tab order	ტაბულაციის რიგში უფრო გვიან
 	Layer options	შრის პარამეტრები
-	Layers	შრეები
 	Layers Panel and Page	შრეების პანელი და გვერდი
 	Layout and Magnification	განლაგება და მასშტაბი
 	Lbl and LBody	Lbl და LBody
 	Lbl and LBody must be children of LI	Lbl და LBody უნდა იყოს LI-ის შვილები
 	Leave out files that can't be read?	გამოვტოვოთ ფაილები, რომლებიც ვერ იკითხება?
-	Left	მარცხნივ
 	Left Edge	მარცხენა კიდე
 	Left Footer Text	ქვედა კოლონტიტულის ტექსტი მარცხნივ
 	Left Header Text	ზედა კოლონტიტულის ტექსტი მარცხნივ
 	Left out: {names}	გამოტოვებულია: {names}
-	Left:	მარცხნივ:
-	Less	ნაკლები
 	Level {n}	დონე {n}
 	LI must be a child of L	LI უნდა იყოს L-ის შვილი
-	Light	ღია
 	Light blue	ღია ლურჯი
-	Light gray	ღია ნაცრისფერი
 	Light theme	ღია თემა
 	Limit of	ლიმიტი:
-	Line	ხაზი
-	Line delta	სტრიქონების სხვაობა
 	Line ending	ხაზის ბოლო
-	Line spacing	სტრიქონთა დაშორება
 	Line Style:	ხაზის სტილი:
 	Line thickness	ხაზის სისქე
 	Line Thickness:	ხაზის სისქე:
-	Lines +/−	სტრიქონები +/−
-	Lines added	დამატებული სტრიქონები
-	Lines deleted	წაშლილი სტრიქონები
-	Link	ბმული
 	Link Action	ბმულის ქმედება
 	Link Appearance	ბმულის იერსახე
 	Link Properties	ბმულის თვისებები
@@ -1322,31 +1121,25 @@ certificate	Key usage	გასაღების გამოყენება
 	links	ბმულები
 	Links on page	კავშირები გვერდზე
 	Links, actions and JavaScripts	ბმულები, ქმედებები და JavaScript-ები
-	List	სია
 	List box	სიის ველი
 	List Box Properties	სიის ველის თვისებები
 	List items	სიის ელემენტები
 	List items belong in a list. Fix the list's tags.	სიის ელემენტები სიაში უნდა იყოს. გაასწორეთ სიის ტეგები.
 	List labels and bodies belong in a list item. Fix the list's tags.	სიის ჭდეები და ტანი სიის ელემენტში უნდა იყოს. გაასწორეთ სიის ტეგები.
-	List view	სიის ხედი
 	Lists	სიები
 	Load document font	დოკუმენტის შრიფტის ჩატვირთვა
 	Load font…	შრიფტის ჩატვირთვა…
 	Loading…	იტვირთება…
 	Local cross-PDF links require the desktop app	სხვა ლოკალურ PDF-ზე ბმულებს დესკტოპის აპლიკაცია სჭირდება
-	Location	მდებარეობა
 	Location: 	მდებარეობა: 
 	Lock comment	კომენტარის ჩაკეტვა
-	Locked	ჩაკეტილი
 	Logical Reading Order	კითხვის ლოგიკური რიგი
 	Looking for PDFs…	PDF-ების ძებნა…
 	Looking for printers…	პრინტერების ძებნა…
 	Loop	ციკლი
-	Low	დაბალი
 	Low resolution	დაბალი გარჩევადობა
 	Low Resolution (150 dpi)	დაბალი გარჩევადობა (150 dpi)
 	Lowering this forgets the oldest files. At 0 there is no list.	მნიშვნელობის შემცირებისას ყველაზე ძველი ფაილები სიიდან ამოიშლება. 0-ზე სია აღარ იქნება.
-	Magnification	გადიდების ხარისხი
 	Make accessible	ხელმისაწვდომად გადაკეთება
 	Make Current Properties Default	მიმდინარე თვისებების ნაგულისხმევად დაყენება
 	Make Properties Default	თვისებების ნაგულისხმევად დაყენება
@@ -1355,7 +1148,6 @@ certificate	Key usage	გასაღების გამოყენება
 	Manage embedded index	ჩაშენებული ინდექსის მართვა
 	March	მარტი
 calendar date	March	მარტი
-	Margins	ველები
 	Margins (in)	ველები (დუიმი)
 	Mark all	ყველას მარკირება
 	Mark as artifact	არტეფაქტად მარკირება
@@ -1375,12 +1167,9 @@ calendar date	March	მარტი
 	Mask:	ნიღაბი:
 	Match field sizes	ველების ზომების გათანაბრება
 	Match page at 100%	გვერდის 100%-ით შესაბამისობა
-	Maximize	გაშლა
-	Maximum	მაქსიმუმი
 	maximum	მაქსიმუმი
 	May	მაისი
 calendar date	May	მაისი
-	Measure	გაზომვა
 	Measure area	ფართობის გაზომვა
 	Measure distance	მანძილის გაზომვა
 	Measure objects	ობიექტების გაზომვა
@@ -1388,33 +1177,22 @@ calendar date	May	მაისი
 	Measurement information	გაზომვის ინფორმაცია
 	Measurement snapping	გაზომვისას მიბმა
 	Measuring tool	საზომი ხელსაწყო
-	Medium	საშუალო
 	Menu	მენიუ
 	Merge data files into spreadsheet…	მონაცემთა ფაილების ელცხრილში გაერთიანება…
 	Merge image fragments	გამოსახულების ფრაგმენტების გაერთიანება
 	Merged 1 file into {path}	1 ფაილი გაერთიანდა აქ: {path}
-	Merged PRs	გაერთიანებული PR-ები
 	Merged {n} files into {path}	გაერთიანებული ფაილები: {n}, აქ: {path}
 	Merging data files needs the desktop app	მონაცემთა ფაილების გაერთიანებას სამაგიდო აპლიკაცია სჭირდება
-	Metadata	მეტამონაცემები
 	metadata	მეტამონაცემები
 	Microsoft Word (.docx)	Microsoft Word (.docx)
-	Midpoint	შუა წერტილი
 	Midpoints	შუა წერტილები
-	Minimize	ჩაკეცვა
-	Minimum	მინიმუმი
 	minimum	მინიმუმი
 	Missing field	ველი აკლია
 	Missing from the calculation order saved in the PDF: other PDF viewers may not calculate it.	PDF-ში შენახულ გამოთვლის რიგში არ არის: სხვა PDF-მნახველებმა შეიძლება ვერ გამოთვალონ.
 	Mixed	შერეული
 calendar weekday	Mo	ორშ
-	Mobile	მობილური
-	Model	მოდელი
-	Models	მოდელები
-	Modified	შეცვლილია
 	Modify page	გვერდის შეცვლა
 	Monochrome Images	მონოქრომული გამოსახულებები
-	More	მეტი
 	More options	მეტი პარამეტრი
 	More options:	მეტი პარამეტრი:
 	More ways to add files	ფაილების დამატების სხვა გზები
@@ -1423,7 +1201,6 @@ calendar weekday	Mo	ორშ
 	Mouse Exit	თაგუნას გასვლა
 	Mouse Up	თაგუნას აშვება
 	Mouse wheel scroll speed	თაგუნას ბორბლით გადახვევის სიჩქარე
-	Move	გადატანა
 	Move bookmark	სანიშნის გადატანა
 	Move comment	კომენტარის გადატანა
 	Move down	ჩამოწევა
@@ -1446,10 +1223,7 @@ calendar weekday	Mo	ორშ
 	Multiple selection	მრავლობითი მონიშვნა
 	Multiple words or phrases	რამდენიმე სიტყვა ან ფრაზა
 	N or {row} is the row number, {col} the column number, {seq} the cell number. With none of them, the row number goes last.	N ან {row} სტრიქონის ნომერია, {col} — სვეტის ნომერი, {seq} — უჯრის ნომერი. თუ არცერთი არ არის, სტრიქონის ნომერი ბოლოს ემატება.
-	Name	სახელი
-	Name (A–Z)	სახელი (ა–ჰ)
 	Name on new comments	სახელი ახალ კომენტარებში
-	Name:	სახელი:
 	Named Destinations	დასახელებული დანიშნულებები
 	Navigation links	სანავიგაციო ბმულები
 	Navigation links are not repetitive	სანავიგაციო ბმულები არ მეორდება
@@ -1459,7 +1233,6 @@ calendar weekday	Mo	ორშ
 	Needs manual check	საჭიროებს ხელით შემოწმებას
 	Negative number style:	უარყოფითი რიცხვის სტილი:
 	Nested alternate text	ჩადგმული ალტერნატიული ტექსტი
-	Never	არასოდეს
 	New Action	ახალი ქმედება
 	New Action…	ახალი ქმედება…
 	New blank PDF	ახალი ცარიელი PDF
@@ -1473,17 +1246,14 @@ calendar weekday	Mo	ორშ
 	New file:	ახალი ფაილი:
 	New file: {name}	ახალი ფაილი: {name}
 	New {tool} comments will look like this one	ახალი {tool} კომენტარები ამის მსგავსი იქნება
-	Next	შემდეგი
 	Next ({key})	შემდეგი ({key})
 	Next (⌘G)	შემდეგი (⌘G)
 	Next / previous match	შემდეგი / წინა დამთხვევა
 	Next figure	შემდეგი ფიგურა
 	Next month	შემდეგი თვე
-	Next page	შემდეგი გვერდი
 	Next sheet	შემდეგი ფურცელი
 	Next tab	შემდეგი ჩანართი
 	Next view	შემდეგი ხედი
-	No	არა
 	No actions	ქმედებები არ არის
 	no alternate text	ალტერნატიული ტექსტი არ აქვს
 	No changes allowed	ცვლილებები დაუშვებელია
@@ -1508,10 +1278,8 @@ calendar weekday	Mo	ორშ
 	No image on clipboard to paste	გაცვლის ბუფერში ჩასასმელი გამოსახულება არ არის
 	No inaccessible scripts	მიუწვდომელი სკრიპტები არ არის
 	No issues found	პრობლემები არ მოიძებნა
-	No limit	ლიმიტის გარეშე
 	No links to remove	წასაშლელი ბმულები არ არის
 	No matches	დამთხვევა არ არის
-	No matches.	დამთხვევა არ არის.
 	No matching tools	შესაბამისი ხელსაწყო არ მოიძებნა
 	No model credits were built into this copy.	ამ ასლში მოდელების მონაცემები არ არის ჩაშენებული.
 	No openly licensed document fonts found. Load a font file.	ღია ლიცენზიის მქონე დოკუმენტის შრიფტები ვერ მოიძებნა. ჩატვირთეთ შრიფტის ფაილი.
@@ -1527,8 +1295,6 @@ calendar weekday	Mo	ორშ
 	No preview	გადახედვა არ არის
 	No printers were found. Check that the printer is installed and the print spooler is running, then open Print again.	პრინტერები ვერ მოიძებნა. შეამოწმეთ, რომ პრინტერი დაინსტალირებულია და ბეჭდვის რიგის სერვისი გაშვებულია, შემდეგ კვლავ გახსენით „დაბეჭდვა“.
 	No problems found: the document conforms to {level}.	პრობლემები არ მოიძებნა: დოკუმენტი შეესაბამება {level}-ს.
-	No recent files	ბოლოს გახსნილი ფაილები არ არის
-	No results	შედეგები არ არის
 	No security	დაცვის გარეშე
 	No sheets	ფურცლები არ არის
 	No signature was found in the frame. Move the frame over the signature or raise the ink sensitivity.	ჩარჩოში ხელმოწერა ვერ მოიძებნა. გადაიტანეთ ჩარჩო ხელმოწერაზე ან გაზარდეთ მელნის მგრძნობელობა.
@@ -1540,7 +1306,6 @@ calendar weekday	Mo	ორშ
 	No untagged content was found.	არატეგირებული შიგთავსი ვერ მოიძებნა.
 	no unused output name	გამოსატანი ფაილისთვის თავისუფალი სახელი არ არის
 	Non-Repudiation	უარყოფის შეუძლებლობა
-	None	არცერთი
 	none	არცერთი
 	None (prefix only)	არცერთი (მხოლოდ პრეფიქსი)
 	None found	არაფერი მოიძებნა
@@ -1563,7 +1328,6 @@ scroll speed	Normal	ჩვეულებრივი
 	nothing to undo	დასაბრუნებელი არაფერია
 	November	ნოემბერი
 calendar date	November	ნოემბერი
-	Number	ნომერი
 	Number every page in the footer.	ყველა გვერდის დანომვრა ქვედა კოლონტიტულში.
 	Number of pages	გვერდების რაოდენობა
 	Number pages	გვერდების დანომვრა
@@ -1573,18 +1337,14 @@ calendar date	November	ნოემბერი
 calendar date	October	ოქტომბერი
 	Odd pages	კენტი გვერდები
 	Odd Pages Only	მხოლოდ კენტი გვერდები
-	Odd pages only	მხოლოდ კენტი გვერდები
 	of	 /
 	of the following fields:	შემდეგი ველებისა:
 	of {name}	(სულ {name})
 	of {pages}	/ {pages}
-	Off	გამორთული
 animation effects	Off	გამორთული
 	Offset from centre	წანაცვლება ცენტრიდან
-	OK	OK
 	Old file:	ძველი ფაილი:
 	Old file: {name}	ძველი ფაილი: {name}
-	On	ჩართული
 animation effects	On	ჩართული
 	On Blur	ფოკუსის დაკარგვისას
 	On Focus	ფოკუსის მიღებისას
@@ -1598,9 +1358,6 @@ animation effects	On	ჩართული
 	Only continue if you trust this document. An address can carry information from the document, such as what you typed into its form.	გააგრძელეთ მხოლოდ მაშინ, თუ ამ დოკუმენტს ენდობით. მისამართს შეუძლია დოკუმენტიდან ინფორმაციის გადატანა, მაგალითად, იმისა, რაც მის ფორმაში აკრიფეთ.
 	Only the document's owner can change its security (open it with the permissions password)	დოკუმენტის დაცვის შეცვლა მხოლოდ მის მფლობელს შეუძლია (გახსენით ნებართვების პაროლით)
 	Only the page content changes: links, comments, form fields and bookmarks on the original pages stay.	იცვლება მხოლოდ გვერდის შიგთავსი: ორიგინალ გვერდებზე ბმულები, კომენტარები, ფორმის ველები და სანიშნეები რჩება.
-	Opacity	გაუმჭვირვალობა
-	Opacity:	გაუმჭვირვალობა:
-	Open	გახსნა
 	Open a document first	ჯერ გახსენით დოკუმენტი
 	Open a PDF ({key})	PDF-ის გახსნა ({key})
 	Open a PDF (⌘O)	PDF-ის გახსნა (⌘O)
@@ -1615,8 +1372,6 @@ animation effects	On	ჩართული
 	Open in a new tab	ახალ ჩანართში გახსნა
 	Open in Full Screen mode	გახსნა მთელი ეკრანის რეჟიმში
 	Open in Full Screen mode?	გაიხსნას სრულეკრანიან რეჟიმში?
-	Open link	ბმულის გახსნა
-	Open Recent	ბოლოს გახსნილი ფაილების გახსნა
 	Open the file as it was saved then	ფაილის გახსნა ისე, როგორც მაშინ შეინახა
 	Open the older version first	ჯერ ძველი ვერსია გახსენით
 	Open this local PDF?	გაიხსნას ეს ლოკალური PDF?
@@ -1627,7 +1382,6 @@ animation effects	On	ჩართული
 	Opened, but its security settings don't allow combining. Enter the permissions password.	გაიხსნა, მაგრამ მისი უსაფრთხოების პარამეტრები გაერთიანებას არ იძლევა. შეიყვანეთ ნებართვების პაროლი.
 	Opening the browser's print dialog…	იხსნება ბრაუზერის ბეჭდვის დიალოგი…
 	Opens the printer driver's preferences. They are saved for every print from this computer; the copies, two-sided, grayscale and paper chosen here still apply.	ხსნის პრინტერის დრაივერის პარამეტრებს. ისინი ამ კომპიუტერიდან ყოველი ბეჭდვისთვის ინახება; აქ არჩეული ასლები, ორმხრივი ბეჭდვა, რუხი ტონები და ქაღალდი მაინც მოქმედებს.
-	Open…	გახსნა…
 	Optimization cancelled	ოპტიმიზაცია გაუქმდა
 	Optimization is already running	ოპტიმიზაცია უკვე მიმდინარეობს
 	Optimize	ოპტიმიზაცია
@@ -1643,17 +1397,12 @@ animation effects	On	ჩართული
 	Optimizing… writing the copy	ოპტიმიზაცია… ასლის ჩაწერა
 	Optional	არასავალდებულო
 	Optional: needs an AI provider you configure	არასავალდებულო: საჭიროა თქვენ მიერ კონფიგურირებული AI მომწოდებელი
-	Options	პარამეტრები
 	Options for this reply	ამ პასუხის პარამეტრები
-	Options…	პარამეტრები…
-	Orange	ნარინჯისფერი
 	Order · top calculates first	რიგი · ზედა ითვლება პირველად
 	Organization Name	ორგანიზაციის სახელი
 	Organizational Unit	ორგანიზაციული ერთეული
 	Organize	ორგანიზება
 	Organize pages	გვერდების ორგანიზება
-	Orientation:	ორიენტაცია:
-	Original	ორიგინალი
 	Original: replace pages	ორიგინალი: ჩასანაცვლებელი გვერდები
 	other changes	სხვა ცვლილებები
 	Other colour…	სხვა ფერი…
@@ -1661,16 +1410,11 @@ animation effects	On	ჩართული
 	Other elements that require alternate text	სხვა ელემენტები, რომლებსაც ალტერნატიული ტექსტი სჭირდება
 	Other options	სხვა პარამეტრები
 	Outdent	შეწევის შემცირება
-	Outline	კონტური
 	Outline colour:	კონტურის ფერი:
-	Output	გამოტანა
 	Output appears here.	გამონატანი აქ გამოჩნდება.
 	Output intent: {list}	გამოტანის პროფილი: {list}
 	Output preview	გამოტანის წინასწარი ნახვა
-	Oval	ოვალი
-	Overlap:	გადაფარვა:
 	Owner password (no restrictions apply)	მფლობელის პაროლი (შეზღუდვები არ მოქმედებს)
-	Page	გვერდი
 	Page background	გვერდის ფონი
 	Page Content	გვერდის შიგთავსი
 	page content	გვერდის შიგთავსი
@@ -1708,7 +1452,6 @@ animation effects	On	ჩართული
 	Page {p}: {n} untagged content item	გვერდი {p}: {n} არატეგირებული შიგთავსის ელემენტი
 	Page {p}: {n} untagged content items	გვერდი {p}: {n} არატეგირებული შიგთავსის ელემენტი
 	Page {} has additional actions	გვერდს {} დამატებითი ქმედებები აქვს
-	Pages	გვერდები
 	pages	გვერდი
 	pages added or removed	დამატებული ან წაშლილი გვერდები
 	Pages counted	დათვლილი გვერდები
@@ -1727,22 +1470,18 @@ animation effects	On	ჩართული
 	Pages: {k} of {n}	გვერდები: {k} / {n}
 	Panel layout could not be restored: {error}	პანელების განლაგების აღდგენა ვერ მოხერხდა: {error}
 	Panel move was not applied: {error}	პანელის გადატანა არ გამოყენებულა: {error}
-	Panels	პანელები
 	Paper:	ქაღალდი:
 	Paragraph spacing	აბზაცთა დაშორება
 	Part of	ნაწილია:
 	Passed	გავლილი
-	Password	პაროლი
 	Password protection will be applied when you save	პაროლით დაცვა შენახვისას გამოიყენება
 	Password required	საჭიროა პაროლი
 	Password security	პაროლით დაცვა
 	Password-protected	პაროლით დაცული
-	Paste	ჩასმა
 	Paste after	ჩასმა შემდეგ
 	Paste pages	გვერდების ჩასმა
 	Path	კონტური
 	Paths	კონტურები
-	Pattern	პატერნი
 	Patterns	პატერნები
 	Patterns (graphics objects)	პატერნები (გრაფიკული ობიექტები)
 	PDF Optimizer	PDF-ის ოპტიმიზატორი
@@ -1761,13 +1500,10 @@ animation effects	On	ჩართული
 	PdfCraft works offline. No telemetry, no account, and no cloud processing unless you add a provider.	PdfCraft ხაზგარეშე მუშაობს. არანაირი ტელემეტრია, ანგარიში ან ღრუბლოვანი დამუშავება, თუ თავად არ დაამატებთ მომწოდებელს.
 	PdfCraft {v} is available.	ხელმისაწვდომია PdfCraft {v}.
 	People may need more time to respond. Check that nothing has a time limit.	ადამიანებს პასუხისთვის შეიძლება მეტი დრო დასჭირდეთ. შეამოწმეთ, რომ არაფერს აქვს დროის ლიმიტი.
-	Percentage	პროცენტული
-	Perimeter	პერიმეტრი
 	Permissions password	ნებართვების პაროლი
 	Permitted actions after certifying	დამოწმების შემდეგ დაშვებული ქმედებები
 	Phone Number	ტელეფონის ნომერი
 	Phone Numbers	ტელეფონის ნომრები
-	Photo	ფოტო
 	Pick a tool in the quick bar, or type above.	აირჩიეთ ხელსაწყო სწრაფ ზოლზე ან აკრიფეთ ზემოთ.
 	Pictures cover pages {pages} (scans?), so the background won't show there.	გვერდები {pages} სურათებითაა დაფარული (სკანები?), ამიტომ ფონი იქ არ გამოჩნდება.
 	Pictures need alternate text that describes them, or must be marked decorative. Add alternate text to each figure.	სურათებს სჭირდება მათი აღმწერი ალტერნატიული ტექსტი, ან დეკორატიულად უნდა მოინიშნოს. დაამატეთ ალტერნატიული ტექსტი თითოეულ ფიგურას.
@@ -1781,7 +1517,6 @@ animation effects	On	ჩართული
 	Pin to Home	საწყის ეკრანზე მიმაგრება
 	Pin tools to Home	ხელსაწყოების საწყის ეკრანზე მიმაგრება
 	Pin your favorite tools here for quick access.	სწრაფი წვდომისთვის აქ მიამაგრეთ თქვენი რჩეული ხელსაწყოები.
-	Pink	ვარდისფერი
 	Pinned	მიმაგრებულია
 	Pinned folders need the desktop app	მიმაგრებულ საქაღალდეებს სამაგიდო აპლიკაცია სჭირდება
 	Pinned Tools	მიმაგრებული ხელსაწყოები
@@ -1794,20 +1529,12 @@ animation effects	On	ჩართული
 	Planned for milestone {m} — open to see what it will include	დაგეგმილია ეტაპისთვის {m} — გახსენით, რომ ნახოთ, რას მოიცავს
 	Planned · {m}	დაგეგმილი · {m}
 	Points from the page's bottom-left corner.	პუნქტები გვერდის ქვედა მარცხენა კუთხიდან.
-	Polygon	მრავალკუთხედი
-	Polyline	ტეხილი
 	Portable mode is off: {folder} can't be written ({error}). Settings are kept in your user folder instead.	პორტატული რეჟიმი გამორთულია: {folder}-ში ჩაწერა შეუძლებელია ({error}). პარამეტრები ამის ნაცვლად თქვენს მომხმარებლის საქაღალდეში ინახება.
-	Portrait	ვერტიკალური
 	Portrait Pages	ვერტიკალური გვერდები
 	Portrait pages	ვერტიკალური გვერდები
-	Position	პოზიცია
 	Post	გამოქვეყნება
-	Poster	პოსტერი
 	PostScript / EPS	PostScript / EPS
 	PostScript XObjects aren't allowed	PostScript XObject-ები დაუშვებელია
-	Preferences	პარამეტრები
-	Preferences…	პარამეტრები…
-	Prefix	პრეფიქსი
 	Preflight	ბეჭდვისწინა შემოწმება
 	Prepare a form	ფორმის მომზადება
 	Prepare for accessibility	ხელმისაწვდომობისთვის მომზადება
@@ -1817,21 +1544,17 @@ animation effects	On	ჩართული
 	Preparing sheet {done} of {total} for printing…	ფურცლის მომზადება დასაბეჭდად: {done} / {total}…
 	Preparing {n} sheets for printing…	ფურცლების მომზადება დასაბეჭდად: {n}…
 	Presentation (.pptx)	პრეზენტაცია (.pptx)
-	Preview	წინასწარი ნახვა
 	Preview unavailable: {e}	გადახედვა მიუწვდომელია: {e}
 	Preview: page {p} of {n}	გადახედვა: გვერდი {p} / {n}
-	Previous	წინა
 	Previous ({key})	წინა ({key})
 	Previous (⇧⌘G)	წინა (⇧⌘G)
 	Previous / next page	წინა / შემდეგი გვერდი
 	Previous figure	წინა ფიგურა
 	Previous month	წინა თვე
-	Previous page	წინა გვერდი
 	Previous sheet	წინა ფურცელი
 	Previous tab	წინა ჩანართი
 	Previous view	წინა ხედი
 	Primary language	ძირითადი ენა
-	Print	დაბეჭდვა
 	Print ({key})	დაბეჭდვა ({key})
 	Print (⌘P)	დაბეჭდვა (⌘P)
 	Print as image	დაბეჭდვა გამოსახულებად
@@ -1844,28 +1567,21 @@ animation effects	On	ჩართული
 	Printer default	პრინტერის ნაგულისხმევი
 	Printer paper and scaling may differ. Check driver settings.	პრინტერის ქაღალდი და მასშტაბირება შეიძლება განსხვავდებოდეს. შეამოწმეთ დრაივერის პარამეტრები.
 	Printer properties	პრინტერის თვისებები
-	Printer:	პრინტერი:
-	Printing	ბეჭდვა
 	Printing allowed	ბეჭდვა დაშვებულია
-	Print…	დაბეჭდვა…
 	Privacy	კონფიდენციალურობა
 	Private data of other applications	სხვა აპლიკაციების პირადი მონაცემები
 	Producer	PDF-ის მწარმოებელი
 	product (x)	ნამრავლი (x)
 	Properties…	თვისებები…
-	Protect	დაცვა
 	Protect & Standardize	დაცვა და სტანდარტიზაცია
 	Protect a PDF	PDF-ის დაცვა
 	Protect Using Password	პაროლით დაცვა
 	Protect using password…	პაროლით დაცვა…
 	Protect with password	პაროლით დაცვა
 	Protected: the combined file won't keep its security settings	დაცული: გაერთიანებული ფაილი მის უსაფრთხოების პარამეტრებს არ შეინარჩუნებს
-	PRs	PR-ები
 	Public key	საჯარო გასაღები
 certificate	Public key	საჯარო გასაღები
-	Purple	იისფერი
 	PushButton	PushButton
-	Quality	ხარისხი
 	Radio	Radio
 	Radio button	გადამრთველი
 	Radio Button Properties	გადამრთველის თვისებები
@@ -1878,8 +1594,6 @@ certificate	Public key	საჯარო გასაღები
 	Reads {names}, which read it back. No order can fix a loop: change one of the formulas.	კითხულობს {names}-ს, რომლებიც თავის მხრივ მას კითხულობენ. ციკლს ვერცერთი რიგი ვერ გაასწორებს: შეცვალეთ ერთ-ერთი ფორმულა.
 	Reads {name}, which calculates later, so it shows an old value.	კითხულობს {name}-ს, რომელიც მოგვიანებით ითვლება, ამიტომ ძველ მნიშვნელობას აჩვენებს.
 	Reads {name}, which the form doesn't have, so it gets no value there.	კითხულობს {name}-ს, რომელიც ფორმაში არ არის, ამიტომ იქიდან მნიშვნელობას ვერ იღებს.
-	Ready	მზადაა
-	Real name	ნამდვილი სახელი
 	Reason	მიზეზი
 	Reason: 	მიზეზი: 
 	Recent	ბოლოს გახსნილი
@@ -1897,10 +1611,7 @@ certificate	Public key	საჯარო გასაღები
 	Recognizing text… file {d} of {t}	ტექსტის ამოცნობა… ფაილი {d} / {t}
 	Recognizing text… page {d} of {t}	ტექსტის ამოცნობა… გვერდი {d} / {t}
 	Recommended tools	რეკომენდებული ხელსაწყოები
-	Recover	აღდგენა
 	Recover unsaved documents?	აღვადგინოთ შეუნახავი დოკუმენტები?
-	Rectangle	მართკუთხედი
-	Red	წითელი
 	Redact	დაფარვა
 	Redact a PDF	PDF-ში ინფორმაციის დაფარვა
 	Redact all	ყველაფრის დაფარვა
@@ -1914,15 +1625,12 @@ certificate	Public key	საჯარო გასაღები
 	Redaction properties…	დაფარვის თვისებები…
 	Redaction Tool Properties	დაფარვის ხელსაწყოს თვისებები
 	Redid {label}	ხელახლა შესრულდა: {label}
-	Redo	ხელახლა შესრულება
 	Redo {action}	ხელახლა შესრულება: {action}
 	Reduce file size	ფაილის ზომის შემცირება
 	Reduce file size…	ფაილის ზომის შემცირება…
-	Refresh	განახლება
 	Regularity	რეგულარულობა
 	Rejected	უარყოფილი
 	Reliable character encoding is provided	სიმბოლოების საიმედო კოდირება უზრუნველყოფილია
-	Reload	ხელახლა ჩატვირთვა
 	Reload documents when their files change on disk	დოკუმენტების ხელახლა ჩატვირთვა, როცა მათი ფაილები დისკზე იცვლება
 	Remove	მოშორება
 	Remove "{name}" from this list? The file itself is not deleted.	ამოიშალოს „{name}“ ამ სიიდან? თავად ფაილი არ წაიშლება.
@@ -1957,7 +1665,6 @@ certificate	Public key	საჯარო გასაღები
 	Removed {n} hidden items. Save to remove them from the file.	წაიშალა დამალული ელემენტები: {n}. შეინახეთ, რომ ფაილიდანაც წაიშალოს.
 	Removed {n} links	წაშლილი ბმულები: {n}
 	Removing the background puts the page's own backdrop back.	ფონის მოშორება გვერდს საკუთარ შევსებას დაუბრუნებს.
-	Rename	სახელის შეცვლა
 	Rename bookmark	სანიშნის სახელის შეცვლა
 	Rendering: hayro (bootstrap) · UI: egui · Icons: Lucide (ISC) · Fonts: Inter, JetBrains Mono, Dancing Script (OFL)	რენდერი: hayro (საწყისი) · ინტერფეისი: egui · ხატულები: Lucide (ISC) · შრიფტები: Inter, JetBrains Mono, Dancing Script (OFL)
 	Rendering…	რენდერდება…
@@ -1967,7 +1674,6 @@ certificate	Public key	საჯარო გასაღები
 	Repairs	შეკეთებები
 	Repeat overlay text	ზედდებული ტექსტის გამეორება
 	Repeated navigation links should be skippable. Check links that appear on every page.	განმეორებადი სანავიგაციო ბმულების გამოტოვება შესაძლებელი უნდა იყოს. შეამოწმეთ ბმულები, რომლებიც ყველა გვერდზე ჩანს.
-	Replace	ჩანაცვლება
 	Replace document colours	დოკუმენტის ფერების ჩანაცვლება
 	Replace image	გამოსახულების ჩანაცვლება
 	Replace Image…	გამოსახულების ჩანაცვლება…
@@ -1982,8 +1688,6 @@ certificate	Public key	საჯარო გასაღები
 	Replaces the existing one on those pages.	ცვლის არსებულს ამ გვერდებზე.
 	Replacing images arrives on the web with image file pickers	გამოსახულებების ჩანაცვლება ვებში გამოსახულების ფაილის ამრჩევებთან ერთად გამოჩნდება
 	Replacing images on page {p} arrives on the web with image pickers ({i})	გამოსახულებების ჩანაცვლება გვერდზე {p} ვებში გამოსახულების ამრჩევებთან ერთად გამოჩნდება ({i})
-	Reply	პასუხი
-	Report	ანგარიში
 	Report created	ანგარიში შეიქმნა
 	Report Options	ანგარიშის პარამეტრები
 	Report…	ანგარიში…
@@ -1998,12 +1702,7 @@ certificate	Public key	საჯარო გასაღები
 	Reset to printer defaults	პრინტერის ნაგულისხმევ პარამეტრებზე დაბრუნება
 	Reshape comment	კომენტარის ფორმის შეცვლა
 	Resize comment	კომენტარის ზომის შეცვლა
-	Resize panel window	პანელის ფანჯრის ზომის შეცვლა
-	Resize panels	პანელების ზომის შეცვლა
 	Resize window to initial page	ფანჯრის ზომის საწყის გვერდზე მორგება
-	Resolution	გარჩევადობა
-	Resolution:	გარჩევადობა:
-	Restore	აღდგენა
 	Restore the last view (page, zoom and page display) when a document is opened again	ბოლო ხედის (გვერდი, მასშტაბი, გვერდების ჩვენება) აღდგენა დოკუმენტის ხელახლა გახსნისას
 	Restrictions	შეზღუდვები
 	Restrictions lifted	შეზღუდვები მოხსნილია
@@ -2013,25 +1712,19 @@ certificate	Public key	საჯარო გასაღები
 	Rev. {rev}: Signed by an unknown signer	რევ. {rev}: ხელმოწერილია უცნობი ხელმომწერის მიერ
 	Rev. {rev}: Signed by {name}	რევ. {rev}: ხელმოწერილია — {name}
 	Reveal in File Explorer	File Explorer-ში ჩვენება
-	Reveal in Finder	Finder-ში ჩვენება
 	Reverse closed arrow	შებრუნებული დახურული ისარი
 	Reverse open arrow	შებრუნებული ღია ისარი
 	Reverse pages	გვერდების შებრუნებული რიგი
-	Reverse the order	რიგის შებრუნება
-	Revert	წინა ვერსიაზე დაბრუნება
 	Revert changes	ცვლილებების გაუქმება
 	Revert to the previously saved version of “{name}”? Changes since then can't be undone afterwards.	დავუბრუნდეთ „{name}“-ის ბოლოს შენახულ ვერსიას? მას შემდეგ შეტანილი ცვლილებების დაბრუნება ვეღარ მოხერხდება.
 	Reverted to the last saved version	დაბრუნდა ბოლოს შენახული ვერსია
-	Review	განხილვა
 	Review & Compare	განხილვა და შედარება
 	Review History	განხილვის ისტორია
 	Revisions	რევიზიები
 	Rich Text Format (.rtf)	Rich Text Format (.rtf)
-	Right	მარჯვნივ
 	Right Edge	მარჯვენა კიდე
 	Right Footer Text	ქვედა კოლონტიტულის ტექსტი მარჯვნივ
 	Right Header Text	ზედა კოლონტიტულის ტექსტი მარჯვნივ
-	Rotate	შემობრუნება
 	Rotate Clockwise	შემობრუნება საათის ისრის მიმართულებით
 	Rotate clockwise	შემობრუნება საათის ისრის მიმართულებით
 	Rotate Counterclockwise	შემობრუნება საათის ისრის საწინააღმდეგოდ
@@ -2052,11 +1745,7 @@ certificate	Public key	საჯარო გასაღები
 	Rotate view clockwise ({key})	ხედის შემობრუნება საათის ისრის მიმართულებით ({key})
 	Rotate view clockwise (⇧⌘+)	ხედის შემობრუნება საათის ისრის მიმართულებით (⇧⌘+)
 	Rotate view counterclockwise	ხედის შემობრუნება საათის ისრის საწინააღმდეგოდ
-	Rotate:	შემობრუნება:
-	Rotation	შემობრუნება
-	Rotation:	შემობრუნება:
 	Row spacing	სტრიქონებს შორის დაშორება
-	Rows	სტრიქონები
 	rows have between {min} and {max} columns	სტრიქონებს {min}-დან {max}-მდე სვეტი აქვს
 	Rule Name	წესის სახელი
 	Run	გაშვება
@@ -2071,12 +1760,10 @@ calendar weekday	Sa	შაბ
 	Sanitize Documents	დოკუმენტების გაწმენდა
 	Sanitize document…	დოკუმენტის გაწმენდა…
 	Sanitizing removes hidden information from the document: metadata, file attachments, comments, form fields (flattened), hidden text and layers, bookmarks, links, actions and scripts, and private application data.	გაწმენდა დოკუმენტიდან ფარულ ინფორმაციას შლის: მეტამონაცემებს, მიმაგრებულ ფაილებს, კომენტარებს, ფორმის ველებს (გვერდში ჩაშენებით), დამალულ ტექსტსა და შრეებს, სანიშნეებს, ბმულებს, ქმედებებსა და სკრიპტებს, აპლიკაციების პირად მონაცემებს.
-	Save	შენახვა
 	Save & Close	შენახვა და დახურვა
 	Save (M4)	შენახვა (M4)
 	Save ({key})	შენახვა ({key})
 	Save anyway	მაინც შენახვა
-	Save as PDF	PDF-ად შენახვა
 	Save as PDF/A	შენახვა PDF/A-ად
 	Save as PDF/A-1b	შენახვა PDF/A-1b-ად
 	Save as PDF/A-2b	შენახვა PDF/A-2b-ად
@@ -2107,7 +1794,6 @@ calendar weekday	Sa	შაბ
 	Saved {place}: {before} → {after} (not smaller){detail}	შენახულია {place}: {before} → {after} (არ შემცირდა){detail}
 	Saved {place}: {before} → {after} ({pct}% smaller){detail}	შენახულია {place}: {before} → {after} ({pct}%-ით მცირე){detail}
 	Saved, but reopening failed: {e}	შენახულია, მაგრამ ხელახლა გახსნა ვერ მოხერხდა: {e}
-	Scale	მასშტაბი
 	Scale relative to target page	მასშტაბი სამიზნე გვერდის მიმართ
 	Scan	სკანირება
 	Scan & OCR	სკანირება და OCR
@@ -2117,14 +1803,12 @@ calendar weekday	Sa	შაბ
 	Script Name:	სკრიპტის სახელი:
 	Script:	სკრიპტი:
 	Scripted content must be usable with a keyboard and assistive technology. Check the document's scripts.	სკრიპტით მართული შიგთავსი კლავიატურითა და დამხმარე ტექნოლოგიებით უნდა იყოს გამოყენებადი. შეამოწმეთ დოკუმენტის სკრიპტები.
-	Scripts	სკრიპტები
 	Scripts run in a sandbox without file or network access. A script that asks to open a web page needs your permission first. With JavaScript off, Acrobat's standard format, validate and calculate functions still work.	სკრიპტები სენდბოქსში, ფაილებსა და ქსელზე წვდომის გარეშე სრულდება. სკრიპტს, რომელიც ვებგვერდის გახსნას ითხოვს, ჯერ თქვენი ნებართვა სჭირდება. JavaScript-ის გამორთვის შემთხვევაშიც Acrobat-ის სტანდარტული ფორმატირების, შემოწმებისა და გამოთვლის ფუნქციები მუშაობს.
 	Scripts run in a sandbox without file or network access. With JavaScript off, Acrobat's standard format, validate and calculate functions still work.	სკრიპტები სენდბოქსში, ფაილებსა და ქსელზე წვდომის გარეშე სრულდება. JavaScript-ის გამორთვის შემთხვევაშიც Acrobat-ის სტანდარტული ფორმატირების, შემოწმებისა და გამოთვლის ფუნქციები მუშაობს.
 	Scroll long text	გრძელი ტექსტის გადახვევა
 	Scroll speed (mouse wheel and arrow keys)	გადახვევის სიჩქარე (თაგუნას ბორბალი და ისრიანი კლავიშები)
 	Scroll tabs left	ჩანართების მარცხნივ გადახვევა
 	Scroll tabs right	ჩანართების მარჯვნივ გადახვევა
-	Search	ძიება
 	Search all tools…	ყველა ხელსაწყოს ძიება…
 	Search comments	კომენტარების ძიება
 	Search results	ძიების შედეგები
@@ -2136,21 +1820,18 @@ calendar weekday	Sa	შაბ
 	Searching… {s} of {p} pages	ძიება… {s} / {p} გვერდი
 	Searching… {s}/{p}	ძიება… {s}/{p}
 	Search…	ძიება…
-	Security	უსაფრთხოება
 	Security method	დაცვის მეთოდი
 	Security properties	უსაფრთხოების თვისებები
 	Security properties…	უსაფრთხოების თვისებები…
 	Security settings	უსაფრთხოების პარამეტრები
 	Security settings must allow assistive technology to read the content ("Enable text access for screen reader devices"). Change the document's security to allow it.	უსაფრთხოების პარამეტრებმა დამხმარე ტექნოლოგიებს შიგთავსის წაკითხვის საშუალება უნდა მისცეს („ეკრანის წამკითხველებისთვის ტექსტზე წვდომის ჩართვა“). შეცვალეთ დოკუმენტის უსაფრთხოების პარამეტრები, რომ ეს დაუშვას.
 	Security will be removed when you save	დაცვა შენახვისას მოიხსნება
-	Select	მონიშვნა
 	Select (V)	მონიშვნა (V)
 	Select a file first	ჯერ აირჩიეთ ფაილი
 	Select a file for the stamp	აირჩიეთ ფაილი შტამპისთვის
 	Select a password-protected file first	ჯერ აირჩიეთ პაროლით დაცული ფაილი
 	Select a word	სიტყვის მონიშვნა
 	Select Action:	აირჩიეთ ქმედება:
-	Select All	ყველაფრის მონიშვნა
 	Select all	ყველაფრის მონიშვნა
 	Select all pages (Organize)	ყველა გვერდის მონიშვნა (ორგანიზება)
 	Select at most 1000 objects at a time.	ერთდროულად მონიშნეთ მაქსიმუმ 1000 ობიექტი.
@@ -2165,15 +1846,12 @@ calendar weekday	Sa	შაბ
 	Select tools to display on your Home page for quick access.	აირჩიეთ ხელსაწყოები, რომლებიც სწრაფი წვდომისთვის საწყის ეკრანზე გამოჩნდება.
 	Select Trigger:	აირჩიეთ ტრიგერი:
 	Selected image files: {count}	არჩეული გამოსახულების ფაილები: {count}
-	Selected pages	მონიშნული გვერდები
-	Selection	მონიშნული
 	Self-signed	თვითხელმოწერილი
 certificate	Self-signed	თვითხელმოწერილი
 	Send backward	უკან გადატანა
 	Send to back	უკანა პლანზე გადატანა
 	Sending sheet {s} of {n} to {printer}…	ფურცელი {s} / {n} იგზავნება პრინტერზე {printer}…
 	Sending to {printer}…	იგზავნება პრინტერზე {printer}…
-	Sensitivity	მგრძნობელობა
 	Sent to {printer}	გაიგზავნა პრინტერზე {printer}
 	Sent to {printer}: {msg}	გაიგზავნა პრინტერზე {printer}: {msg}
 	Separate PDFs	ცალკეული PDF-ები
@@ -2206,7 +1884,6 @@ certificate	Serial number	სერიული ნომერი
 	Set the image of {name}	{name}-ის გამოსახულების დაყენება
 	Set to current page ({n})	მიმდინარე გვერდზე დაყენება ({n})
 	Set to zero	ნულზე დაყენება
-	Settings	პარამეტრები
 	SHA-1 digest	SHA-1 დაიჯესტი
 certificate	SHA-1 digest	SHA-1 დაიჯესტი
 	SHA-256 digest	SHA-256 დაიჯესტი
@@ -2219,7 +1896,6 @@ key	Shift	Shift
 	Shift- or Ctrl/Command-click to select several fields.	რამდენიმე ველის მოსანიშნად დაწკაპეთ Shift-ით ან Ctrl/Command-ით.
 	Shift-click to select several objects. Drag empty space to select an area.	რამდენიმე ობიექტის მოსანიშნად დაწკაპეთ Shift-ით. არის მოსანიშნად გადაათრიეთ ცარიელ ადგილზე.
 	ships in milestone {m}	გამოჩნდება ეტაპში {m}
-	Show	ჩვენება
 	Show a basic title bar for the window buttons instead of the tab strip. GNOME doesn't draw title bars for apps, so this one doesn't follow its theme.	ჩანართების ზოლის ნაცვლად ფანჯრის ღილაკებისთვის მარტივი სათაურის ზოლის ჩვენება. GNOME აპლიკაციებს სათაურის ზოლებს არ უხატავს, ამიტომ ეს ზოლი მის თემას არ მიჰყვება.
 	Show a field	ველის ჩვენება
 	Show a notice when a document is secured	შეტყობინების ჩვენება, როცა დოკუმენტი დაცულია
@@ -2239,7 +1915,6 @@ key	Shift	Shift
 	Show the accessibility report	ხელმისაწვდომობის ანგარიშის ჩვენება
 	Show this dialog when the Checker starts	ამ დიალოგის ჩვენება შემმოწმებლის გაშვებისას
 	Show {n} more	კიდევ {n}-ის ჩვენება
-	Show:	ჩვენება:
 	Shown while the pointer is over a mark.	ჩანს, როცა მაჩვენებელი ნიშანზეა.
 	Shrink oversized pages	ზედმეტად დიდი გვერდების შემცირება
 	Shrink the page content to make room for the header and footer	გვერდის შიგთავსის შემცირება, რომ კოლონტიტულებისთვის ადგილი დარჩეს
@@ -2275,7 +1950,6 @@ key	Shift	Shift
 	Single page	ერთი გვერდი
 	Single Page Continuous	ერთი გვერდი, უწყვეტი
 	Single word or phrase	ერთი სიტყვა ან ფრაზა
-	Size	ზომა
 	Skip Rule	წესის გამოტოვება
 	Skipped	გამოტოვებული
 	Slash	დახრილი ხაზი
@@ -2292,37 +1966,27 @@ scroll speed	Slow	ნელი
 	Some names are built as it runs	ზოგი დასახელება შესრულებისას იქმნება
 	Some page content couldn't be read; snapping uses the rest.	გვერდის ზოგიერთი შიგთავსი ვერ წაიკითხა; მიბმა დანარჩენს იყენებს.
 	Some pages contain no countable text. Scanned images need OCR first.	ზოგ გვერდზე დასათვლელი ტექსტი არ არის. დასკანერებულ გამოსახულებებს ჯერ OCR სჭირდება.
-	Sort	სორტირება
-	Sort by	სორტირება:
 	Sort comments by:	კომენტარების სორტირება:
 	Sort items	ელემენტების სორტირება
 	sorted ascending	ზრდადობით დალაგებული
 	sorted descending	კლებადობით დალაგებული
-	Source	წყარო
 key	Space	ჰარი
 	Space Audit	სივრცის ანალიზი
-	Special	სპეციალური
-	Split	გაყოფა
 	Split document	დოკუმენტის გაყოფა
 	Split document…	დოკუმენტის გაყოფა…
 	Split into files…	ფაილებად გაყოფა…
 	Spreadsheet (.xlsx)	ელცხრილი (.xlsx)
-	Square	კვადრატი
 	Squiggly	ტალღოვანი
 	Squiggly underline	ტალღოვანი ხაზგასმა
 	Squiggly underline text	ტექსტის ტალღოვანი ხაზგასმა
-	Stamp	შტამპი
 	Stamp palette	შტამპების პალიტრა
 	Stamps	შტამპები
-	Standard	სტანდარტული
 	Standard Business	სტანდარტული საქმიანი
 	Standards	სტანდარტები
-	Star	ვარსკვლავი
 	Start	დასაწყისი
 action wizard	Start	დაწყება
 	Start Checking	შემოწმების დაწყება
 	Start page number	საწყისი გვერდის ნომერი
-	Status	სტატუსი
 	Steps	ნაბიჯები
 	Stick to a side:	მხარეზე მიმაგრება:
 	Sticky note	შენიშვნა
@@ -2332,20 +1996,14 @@ action wizard	Start	დაწყება
 	Strikethrough text	ტექსტის გადახაზვა
 	Strong	ძლიერი
 	Structure Info	სტრუქტურის ინფორმაცია
-	Style	სტილი
 calendar weekday	Su	კვი
-	Subject	საგანი
 certificate	Subject	საგანი
 	Submit a form	ფორმის გაგზავნა
-	Subscript	ქვედა ინდექსი
-	Subset	ქვესიმრავლე
 	Success	წარმატება
 	sum (+)	ჯამი (+)
 	Summarize	შეჯამება
 	Summarize comments	კომენტარების შეჯამება
 	Summarize Options	შეჯამების პარამეტრები
-	Summary	შეჯამება
-	Superscript	ზედა ინდექსი
 	Switch light / dark theme	ღია / ბნელი თემის გადართვა
 	Switch to List view to change the pages it takes.	გვერდების შესაცვლელად გადაერთეთ სიის ხედზე.
 	Switch to two-page view first to show the cover page	თავფურცლის საჩვენებლად ჯერ ორგვერდიან ხედზე გადაერთეთ
@@ -2359,10 +2017,8 @@ certificate	Subject	საგანი
 	Tab order: by document structure	ტაბულაციის რიგი: დოკუმენტის სტრუქტურის მიხედვით
 	Tab order: by rows	ტაბულაციის რიგი: სტრიქონების მიხედვით
 	Tab order: move a field with its arrows.	ტაბულაციის რიგი: გადაიტანეთ ველი მისი ისრებით.
-	Table	ცხრილი
 	Table cells belong in a row. Fix the table's tags.	ცხრილის უჯრები სტრიქონში უნდა იყოს. გაასწორეთ ცხრილის ტეგები.
 	Table rows belong directly in a table or its head, body or foot. Fix the table's tags.	ცხრილის სტრიქონები უშუალოდ ცხრილში ან მის თავში, ტანში ან ბოლოში უნდა იყოს. გაასწორეთ ცხრილის ტეგები.
-	Tables	ცხრილები
 	Tables must contain the same number of columns in each row and rows in each column	ცხრილის ყველა სტრიქონში სვეტების და ყველა სვეტში სტრიქონების რაოდენობა ერთნაირი უნდა იყოს
 	Tables must have a summary	ცხრილებს შეჯამება უნდა ჰქონდეს
 	Tables should have headers	ცხრილებს სათაურები უნდა ჰქონდეს
@@ -2377,7 +2033,6 @@ certificate	Subject	საგანი
 	Tags give the document a logical structure that assistive technology follows. Tag the document (Automatically tag PDF).	ტეგები დოკუმენტს ლოგიკურ სტრუქტურას აძლევს, რომელსაც დამხმარე ტექნოლოგიები მიჰყვება. დაატეგეთ დოკუმენტი (PDF-ის ავტომატური მონიშვნა ტეგებით).
 	Tags panel	ტეგების პანელი
 	Take a snapshot	მომენტალური ასლის შექმნა
-	Text	ტექსტი
 	Text (plain)	ტექსტი (უბრალო)
 	Text alignment:	ტექსტის სწორება:
 	Text box	ტექსტური ბლოკი
@@ -2480,7 +2135,6 @@ calendar weekday	Th	ხუთ
 	The password must have at least 6 characters.	პაროლი მინიმუმ 6 სიმბოლოსგან უნდა შედგებოდეს.
 	The password must have at least 8 characters.	პაროლი მინიმუმ 8 სიმბოლოსგან უნდა შედგებოდეს.
 	The passwords do not match.	პაროლები არ ემთხვევა.
-	The passwords don't match.	პაროლები არ ემთხვევა.
 	The PDF text fonts can't draw “{c}” ({code}). Choose supported text.	PDF-ის ტექსტის შრიფტებს „{c}“ ({code}) სიმბოლოს დახატვა არ შეუძლია. აირჩიეთ მხარდაჭერილი ტექსტი.
 	The printer driver's own settings for this print: paper tray, paper type, finishing and more.	პრინტერის დრაივერის საკუთარი პარამეტრები ამ ბეჭდვისთვის: ქაღალდის უჯრა, ქაღალდის ტიპი, საბოლოო დამუშავება და სხვა.
 	The replacement file doesn't have that many pages.	ჩამნაცვლებელ ფაილს ამდენი გვერდი არ აქვს.
@@ -2538,7 +2192,6 @@ calendar weekday	Th	ხუთ
 	The window should show a meaningful title rather than the file name. Set a title and Initial View > Show: Document Title.	ფანჯარამ ფაილის სახელის ნაცვლად აზრიანი სათაური უნდა აჩვენოს. მიუთითეთ სათაური და საწყისი ხედი > ჩვენება: დოკუმენტის სათაური.
 	The window shows the file name, not the title (Initial View > Show)	ფანჯარა სათაურის ნაცვლად ფაილის სახელს აჩვენებს (საწყისი ხედი > ჩვენება)
 	The Windows store's digital IDs couldn't be listed: {e}	Windows-ის საცავის ციფრული ID-ების ჩამოთვლა ვერ მოხერხდა: {e}
-	Theme	თემა
 	there are no pages to print	დასაბეჭდი გვერდები არ არის
 	There are no redaction marks (mark text, areas or pages first)	დაფარვის ნიშნები არ არის (ჯერ მონიშნეთ ტექსტი, არეები ან გვერდები)
 	There are no redaction marks to apply	გამოსაყენებელი დაფარვის ნიშნები არ არის
@@ -2547,7 +2200,6 @@ calendar weekday	Th	ხუთ
 	These files can't be read, so they won't be in the combined PDF:	ეს ფაილები ვერ იკითხება, ამიტომ გაერთიანებულ PDF-ში არ იქნება:
 	These objects could not be moved. Select them again and try a smaller move.	ამ ობიექტების გადატანა ვერ მოხერხდა. ხელახლა მონიშნეთ და სცადეთ უფრო მცირე გადაადგილება.
 	Thick	სქელი
-	Thickness	სისქე
 	Thin	თხელი
 	This area has too many overlapping paths; intersection snapping is limited.	ამ არეში ზედმეტად ბევრი გადამფარავი კონტურია; გადაკვეთებზე მიბმა შეზღუდულია.
 	This certificate is in your list of trusted certificates.	ეს სერტიფიკატი თქვენს სანდო სერტიფიკატების სიაშია.
@@ -2560,7 +2212,6 @@ calendar weekday	Th	ხუთ
 	This document can't be checked: it couldn't be read for editing	ამ დოკუმენტის შემოწმება შეუძლებელია: რედაქტირებისთვის ვერ წაიკითხა
 	This document contains {n} interactive form fields.	ეს დოკუმენტი შეიცავს ინტერაქტიულ ფორმის ველებს: {n}.
 	This document has no attachments.	ამ დოკუმენტს დანართები არ აქვს.
-	This document has no bookmarks.	ამ დოკუმენტს სანიშნეები არ აქვს.
 	This document has no comments to flatten	ამ დოკუმენტს გვერდში ჩასაშენებელი კომენტარები არ აქვს
 	This document has no document-level scripts.	ამ დოკუმენტს დოკუმენტის დონის სკრიპტები არ აქვს.
 	This document has no editable structure tags.	ამ დოკუმენტს სტრუქტურის რედაქტირებადი ტეგები არ აქვს.
@@ -2605,12 +2256,9 @@ calendar weekday	Th	ხუთ
 	This web address mixes letters from different alphabets, a common way to imitate another site's name.	ეს ვებმისამართი სხვადასხვა ანბანის ასოებს ურევს — სხვა საიტის სახელის მიბაძვის გავრცელებული ხერხი.
 	This web address uses letters from another alphabet, which can look like familiar ones.	ეს ვებმისამართი სხვა ანბანის ასოებს იყენებს, რომლებიც შეიძლება ნაცნობს ჰგავდეს.
 	Thumbnail size	ესკიზის ზომა
-	Thumbnails	ესკიზები
 	Tile scale:	ფილების მასშტაბი:
-	Time	დრო
 	Timed responses	დროში შეზღუდული პასუხები
 	Timestamp	დროის შტამპი
-	Title	დასახელება
 	to	-მდე
 	To change locked fields, also set Locked to No.	ჩაკეტილი ველების შესაცვლელად „ჩაკეტილი“ ასევე „არა“-ზე დააყენეთ.
 	to {n}	{n}-მდე
@@ -2619,18 +2267,13 @@ calendar weekday	Th	ხუთ
 	Today: {date}	დღეს: {date}
 	Toggle fit page / fit width	გვერდში / სიგანეში ჩატევის გადართვა
 	Too early	ზედმეტად ადრე
-	Tool	ხელსაწყო
 	Toolbar size	ხელსაწყოთა ზოლის ზომა
-	Tools	ხელსაწყოები
 	Tools panel side	ხელსაწყოების პანელის მხარე
 	Tooltip	მინიშნება
 	Tooltip:	მინიშნება:
-	Top	ზემოთ
 	Top-level bookmarks ({n})	ზედა დონის სანიშნეები ({n})
-	Total	სულ
 	TR must be a child of Table, THead, TBody, or TFoot	TR უნდა იყოს Table-ის, THead-ის, TBody-ის ან TFoot-ის შვილი
 	Transform image	გამოსახულების გარდაქმნა
-	Translate	თარგმნა
 	Trim the picture with its handles; Enter or Done applies	ჩამოჭერით სურათი სახელურებით; Enter ან „მზადაა“ ცვლილებას გამოიყენებს
 	Trust	ნდობა
 	Try the form as people filling it in will see it	ფორმის ნახვა ისე, როგორც შემვსები დაინახავს
@@ -2643,26 +2286,19 @@ calendar weekday	Tu	სამ
 	Two-Up (Facing)	ორგვერდიანი გაშლა
 	Two-Up Continuous (Cover Page)	ორგვერდიანი გაშლა, უწყვეტი (თავფურცლით)
 	Two-Up Continuous (Facing)	ორგვერდიანი გაშლა, უწყვეტი
-	Type	ტიპი
 signature pad	Type	ტიპი
 	Type a password.	აკრიფეთ პაროლი.
 	Type Password	აკრიფეთ პაროლი
 	Type text	ტექსტის აკრეფა
 	Type the web address.	აკრიფეთ ვებმისამართი.
 	Type your {what}.	აკრიფეთ {what} ტექსტი.
-	Typewriter	საბეჭდი მანქანა
 	Unchecked	მოუნიშნავი
 	Unchecked reads	შეუმოწმებელი წაკითხვები
 	Underline	ხაზგასმა
 	Underline text	ტექსტის ხაზგასმა
 	Undid {label}	დაბრუნდა: {label}
-	Undo	დაბრუნება
-	Undo {action}	დაბრუნება: {action}
 	Unit	ერთეული
-	Units	ერთეულები
-	Unknown	უცნობი
 	Unknown author	უცნობი ავტორი
-	Unlock	განბლოკვა
 	Unlock comment	კომენტარის განბლოკვა
 	Unlock {name}	{name}-ის განბლოკვა
 	Unlock {n} files	ფაილების განბლოკვა ({n})
@@ -2679,8 +2315,6 @@ signature pad	Type	ტიპი
 	Unsigned signature field: {name}	ხელმოუწერელი ხელმოწერის ველი: {name}
 	Unspecified	მითითებული არ არის
 	Unsupported measurements	მხარდაუჭერელი გაზომვები
-	Up	ზემოთ
-	Update	განახლება
 	Update background	ფონის განახლება
 	Update background…	ფონის განახლება…
 	Update header & footer	კოლონტიტულების განახლება
@@ -2711,7 +2345,6 @@ signature pad	Type	ტიპი
 	Used when opening PDFs. An explicit launch or control mode takes precedence for the session.	გამოიყენება PDF-ების გახსნისას. სესიისთვის უპირატესობა აშკარად მითითებულ გაშვების ან მართვის რეჟიმს აქვს.
 	User Interface Options	ინტერფეისის პარამეტრები
 	User password	მომხმარებლის პაროლი
-	Username	მომხმარებლის სახელი
 	Valid	ვალიდური
 	Valid for 5 years, for digital signatures. Self-signed IDs are usually not trusted by others.	მოქმედებს 5 წელი, ციფრული ხელმოწერებისთვის. თვითხელმოწერილ ID-ებს სხვები, როგორც წესი, არ ენდობიან.
 	Valid from	ვალიდურია თარიღიდან
@@ -2727,19 +2360,14 @@ certificate	Validity ends	მოქმედების დასასრუ�
 certificate	Validity starts	მოქმედების დასაწყისი
 	Value is not calculated	მნიშვნელობა არ გამოითვლება
 	Value is the	მნიშვნელობა არის
-	Value:	მნიშვნელობა:
 	Verify	შემოწმება
 	Verify to see what the document needs.	შეამოწმეთ, რომ ნახოთ, რა სჭირდება დოკუმენტს.
-	Version	ვერსია
 certificate	Version	ვერსია
 	Version {v}	ვერსია {v}
-	Vertical	ვერტიკალური
 	Vertical layout	ვერტიკალური განლაგება
 	Vertical reversed	ვერტიკალური, შებრუნებული
 	Vertical text cannot be moved with this selection.	ვერტიკალური ტექსტის ამ მონიშვნით გადატანა შეუძლებელია.
-	Vertically	ვერტიკალურად
 	Video, sound and rich media must be tagged to be announced. Tag the multimedia annotations.	ვიდეო, ხმა და მდიდარი მედია ტეგირებული უნდა იყოს, რომ გახმოვანდეს. დაატეგეთ მულტიმედიური ანოტაციები.
-	View	ხედი
 	View less	ნაკლების ჩვენება
 	View more	მეტის ჩვენება
 	View revision {n}	რევიზია {n}-ის ნახვა
@@ -2750,8 +2378,6 @@ certificate	Version	ვერსია
 	Visible Rectangle	ხილული მართკუთხედი
 	Visual	ვიზუალური
 	Warning	გაფრთხილება
-	Warnings	გაფრთხილებები
-	Watermark	ჭვირნიშანი
 	watermark	ჭვირნიშანი
 calendar weekday	We	ოთხ
 	Weak	სუსტი
@@ -2760,15 +2386,11 @@ calendar weekday	We	ოთხ
 	What word or phrase would you like to search for?	რომელი სიტყვის ან ფრაზის მოძებნა გსურთ?
 	White on black	თეთრი შავზე
 	Whole words only	მხოლოდ მთლიანი სიტყვები
-	Width	სიგანე
-	Width:	სიგანე:
-	Window	ფანჯარა
 	Window Options	ფანჯრის პარამეტრები
 	Windows store  ·  	Windows-ის საცავი  ·  
 	Word count	სიტყვების რაოდენობა
 	Word counting stopped unexpectedly.	სიტყვების დათვლა მოულოდნელად შეწყდა.
 	Word count…	სიტყვების რაოდენობა…
-	Words	სიტყვები
 	Words or phrases to redact	დასაფარი სიტყვები ან ფრაზები
 	Write this email?	დაიწეროს ეს წერილი?
 	Wrong password	არასწორი პაროლი
@@ -2776,29 +2398,22 @@ calendar weekday	We	ოთხ
 	Wrote {n} files to {dir}	ჩაწერილი ფაილები: {n}, საქაღალდეში {dir}
 	X Object Forms	XObject ფორმები
 	XFA form: its fields and its XFA data are kept in step, so other viewers show what you fill in.	XFA ფორმა: მისი ველები და XFA მონაცემები სინქრონულად ინახება, ასე რომ სხვა პროგრამებიც აჩვენებს თქვენ მიერ შევსებულს.
-	Yellow	ყვითელი
 	Yellow on black	ყვითელი შავზე
-	Yes	დიახ
-	yesterday	გუშინ
 	You are about to apply 1 redaction mark. Text, images and drawings under the marks, and comments and form fields that overlap them, are removed permanently.	თქვენ აპირებთ 1 დაფარვის ნიშნის გამოყენებას. ნიშნების ქვეშ არსებული ტექსტი, გამოსახულებები და ნახაზები, ასევე მათზე გადამფარავი კომენტარები და ფორმის ველები სამუდამოდ წაიშლება.
 	You are about to apply {n} redaction marks. Text, images and drawings under the marks, and comments and form fields that overlap them, are removed permanently.	თქვენ აპირებთ დაფარვის ნიშნების გამოყენებას (რაოდენობა: {n}). ნიშნების ქვეშ არსებული ტექსტი, გამოსახულებები და ნახაზები, ასევე მათზე გადამფარავი კომენტარები და ფორმის ველები სამუდამოდ წაიშლება.
 	You are viewing revision {rev} of “{from}”. It is a snapshot: changes here won't affect the original.	თქვენ ათვალიერებთ „{from}“-ის რევიზიას {rev}. ეს მომენტალური ასლია: აქ შეტანილი ცვლილებები ორიგინალზე არ აისახება.
 	You are viewing the signed version of “{from}” (revision {rev}). It is a snapshot: changes here won't affect the original.	თქვენ ათვალიერებთ „{from}“-ის ხელმოწერილ ვერსიას (რევიზია {rev}). ეს მომენტალური ასლია: აქ შეტანილი ცვლილებები ორიგინალზე არ აისახება.
 	You can pin up to {n} folders. Unpin one first.	შეგიძლიათ მიამაგროთ მაქსიმუმ {n} საქაღალდე. ჯერ ერთი მოხსენით.
 	You have version {c}. Download the new version from its release page.	თქვენ გაქვთ ვერსია {c}. ჩამოტვირთეთ ახალი ვერსია მისი გამოშვების გვერდიდან.
-	Your changes will be lost if you don't save them.	თუ ცვლილებებს არ შეინახავთ, ისინი დაიკარგება.
 	Your name	თქვენი სახელი
 	yyyy or yy year · m or mm month · mmm or mmmm month name · d or dd day · ddd or dddd weekday. H, h, M, s and t are time letters and can't be used on their own: put {escape} before a letter to show it as is.	yyyy ან yy წელი · m ან mm თვე · mmm ან mmmm თვის სახელი · d ან dd დღე · ddd ან dddd კვირის დღე. H, h, M, s და t დროის ასოებია და ცალკე ვერ გამოიყენება: ასოს უცვლელად საჩვენებლად მის წინ დასვით {escape}.
 	ZIP	ZIP
 	Zip Code	საფოსტო კოდი
 	Zip Code + 4	საფოსტო კოდი + 4
-	Zoom	მასშტაბი
-	Zoom in	გადიდება
 	Zoom in ({key})	გადიდება ({key})
 	Zoom in (⌘+)	გადიდება (⌘+)
 	Zoom in / out (also pinch or {key}-scroll)	გადიდება / დაპატარავება (ასევე თითებით ან {key}-გადახვევით)
 	Zoom in / out (also pinch or ⌘-scroll)	გადიდება / დაპატარავება (ასევე თითებით ან ⌘-გადახვევით)
-	Zoom out	დაპატარავება
 	Zoom out ({key})	დაპატარავება ({key})
 	Zoom out (⌘−)	დაპატარავება (⌘−)
 	Zoom to page level	გვერდის დონემდე მასშტაბირება
@@ -2853,12 +2468,10 @@ calendar weekday	We	ოთხ
 @plural	{n} field shows an old value|{n} fields show old values	ძველ მნიშვნელობას აჩვენებს ველი: {n}|ძველ მნიშვნელობას აჩვენებს ველი: {n}
 	{n} fields selected	მონიშნული ველები: {n}
 @plural	{n} field|{n} fields	{n} ველი|{n} ველი
-	{n} files	ფაილი: {n}
 	{n} files done	დასრულებული ფაილები: {n}
 	{n} files need attention	ყურადღებას საჭიროებს ფაილი: {n}
 @plural	{n} file|{n} files	{n} ფაილი|{n} ფაილი
 @plural	{n} formula reads a field the form doesn't have|{n} formulas read fields the form doesn't have	ფორმულები, რომლებიც ფორმაში არარსებულ ველს კითხულობს: {n}|ფორმულები, რომლებიც ფორმაში არარსებულ ველს კითხულობს: {n}
-	{n} h ago	{n} სთ-ის წინ
 @plural	{n} image optimized|{n} images optimized	ოპტიმიზებულია {n} გამოსახულება|ოპტიმიზებულია {n} გამოსახულება
 	{n} instances	შემთხვევა: {n}
 	{n} issues	პრობლემა: {n}
@@ -2867,7 +2480,6 @@ calendar weekday	We	ოთხ
 	{n} marks	ნიშანი: {n}
 	{n} match(es) marked for redaction.	დასაფარად მარკირებული დამთხვევა: {n}.
 	{n} measurements use an unsupported format and are left out.	გაზომვები ({n}) მხარდაუჭერელ ფორმატს იყენებს და გამოტოვებულია.
-	{n} min ago	{n} წთ-ის წინ
 @plural	{n} more field calculates too early.|{n} more fields calculate too early.	ზედმეტად ადრე ითვლება კიდევ ველი: {n}.|ზედმეტად ადრე ითვლება კიდევ ველი: {n}.
 @plural	{n} more formula reads a missing field.|{n} more formulas read missing fields.	კიდევ {n} ფორმულა არარსებულ ველს კითხულობს.|კიდევ {n} ფორმულა არარსებულ ველს კითხულობს.
 @plural	{n} object selected|{n} objects selected	მონიშნულია {n} ობიექტი|მონიშნულია {n} ობიექტი
@@ -2907,5 +2519,4 @@ calendar weekday	We	ოთხ
 	“{name}” has security restrictions. Enter its permissions password to lift them.	„{name}“-ს უსაფრთხოების შეზღუდვები აქვს. მათ მოსახსნელად შეიყვანეთ ნებართვების პაროლი.
 	“{name}” is protected. Enter a password to open it.	„{name}“ დაცულია. გასახსნელად შეიყვანეთ პაროლი.
 	… and {n} more	… და კიდევ {n}
-	−Bin	−Bin
 	−LOC	−LOC

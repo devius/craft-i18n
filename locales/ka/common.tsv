@@ -11,4 +11,1274 @@
 # computing vocabulary. No other product's localisation, string table or translated UI was
 # consulted or copied; add entries the same way.
 
+	% of all commits	ყველა კომიტის %
+	(Custom)	(მორგებული)
+	(none)	(არცერთი)
+	1 file	1 ფაილი
+	16 bit	16 ბიტი
+	24 bits/pixel	24 ბიტი/პიქსელი
+	32 bits/pixel	32 ბიტი/პიქსელი
+	8 bit	8 ბიტი
+	About	პროგრამის შესახებ
+	Absolute	აბსოლუტური
+	Absolute Colorimetric	აბსოლუტური კოლორიმეტრიული
+	Accented Edges	აქცენტირებული კიდეები
+	Accessibility	ხელმისაწვდომობა
+	Accurate	ზუსტი
+	Actions	მოქმედებები
+	Activate Panel	პანელის გააქტიურება
+	Active	აქტიური
+	Actual Size	რეალური ზომა
+	Adaptive	ადაპტური
+	Add	დამატება
+	Add a comment	კომენტარის დამატება
+	Add Guide	დამხმარე ხაზის დამატება
+	Add to Dictionary	ლექსიკონში დამატება
+	Add to favorites	რჩეულებში დამატება
+	Add to Swatches	ფერის ნიმუშებში დამატება
+	Adjust	კორექცია
+	Adjustments	კორექცია
+	Advanced	დამატებითი
+	Align	სწორება
+	Align center	ცენტრში სწორება
+	Align Left	მარცხნივ სწორება
+	Align left	მარცხნივ სწორება
+	Align Right	მარჯვნივ სწორება
+	Align right	მარჯვნივ სწორება
+	Align Text	ტექსტის სწორება
+	Align to Selection	მონიშნულზე სწორება
+	Alignment	სწორება
+	Alignment:	სწორება:
+	All	ყველა
+	All Caps	მთავრული
+	All Categories	ყველა კატეგორია
+	All files	ყველა ფაილი
+	All Layers	ყველა შრე
+	All pages	ყველა გვერდი
+	All Slices	ყველა ნაჭერი
+	Alpha	ალფა
+	Alt	Alt
+	Always	ყოველთვის
+	Amount	რაოდენობა
+	Amount:	რაოდენობა:
+	Angle	კუთხე
+	Angle:	კუთხე:
+	Angular	კუთხური
+	Animation	ანიმაცია
+	Animation effects	ანიმაციის ეფექტები
+	Anti-Alias	დაგლუვება
+	Anti-alias	დაგლუვება
+	Any	ნებისმიერი
+	Appearance	იერსახე
+theme	Appearance	იერსახე
+	Appearance Settings…	იერსახის პარამეტრები…
+	Application	აპლიკაცია
+	Apply	გამოყენება
+	Apply Character Style	სიმბოლოს სტილის გამოყენება
+	Apply Data Set	მონაცემთა ნაკრების გამოყენება
+	Apply to:	გამოყენება:
+	Arc	რკალი
+	Area	ფართობი
+	Arrange	დალაგება
+	Arrow	ისარი
+	Arrows	ისრები
+	Artboard	სამუშაო დაფა
+	Artboards	სამუშაო დაფები
+	ArtCraft	ArtCraft
+	ArtCraft Website	ArtCraft-ის ვებსაიტი
+	ArtCraft website	ArtCraft-ის ვებსაიტი
+	Artistic	მხატვრული
+	Ascending	ზრდადობით
+	Aspect Ratio	თანაფარდობა
+	Assign	მინიჭება
+	Assign Profile…	პროფილის მინიჭება…
+	Audio	აუდიო
+	Author	ავტორი
+	Author:	ავტორი:
+	Auto	ავტომატური
+	Auto ({percent}%)	ავტომატური ({percent}%)
+	Auto Color	ავტომატური ფერი
+	Automate	ავტომატიზაცია
+	Automatic	ავტომატური
+	Automatically	ავტომატურად
+	Available	ხელმისაწვდომი
+	Average	საშუალო
+	Background	ფონი
+	Background Color	ფონის ფერი
+	Background Contents	ფონის შიგთავსი
+	Backspace	Backspace
+	Balance	ბალანსი
+	Bar	ზოლი
+	Baseline	საბაზისო ხაზი
+	Baseline Shift	საბაზისო ხაზის წანაცვლება
+	Basic	საბაზო
+	Basic Latin	საბაზო ლათინური
+	Batch	პაკეტური დამუშავება
+	Batch…	პაკეტური დამუშავება…
+	Bend:	მოხრა:
+	Bicubic	ბიკუბური
+	Binary assets added	დამატებული ბინარული ფაილები
+	Binary assets removed	წაშლილი ბინარული ფაილები
+	Bitmap	ბიტმაპი
+	Black	შავი
+	Black & White	შავ-თეთრი
+	Black and white	შავ-თეთრი
+	Black Intensity	შავის ინტენსივობა
+	Blacks	შავები
+	Blend Mode	შერევის რეჟიმი
+	Blending Mode	შერევის რეჟიმი
+	Block	ბლოკი
+	Blocks	ბლოკები
+	Blue	ლურჯი
+	Blur	გაბუნდოვნება
+	Blur Angle	გაბუნდოვნების კუთხე
+	Bold	მუქი
+	Border	ჩარჩო
+	Border Thickness	საზღვრის სისქე
+	Borders	ჩარჩოები
+	Both	ორივე
+	Both sides	ორივე მხარე
+	Bottom	ქვემოთ
+	Bottom Left	ქვედა მარცხენა
+	Bottom Right	ქვედა მარჯვენა
+	Bottom:	ქვემოთ:
+	Break Link	ბმულის გაწყვეტა
+	Brick	აგური
+	Brightness	სიკაშკაშე
+	Bring Forward	წინ გადმოტანა
+	Bring to Front	წინა პლანზე გადმოტანა
+	Brown	ყავისფერი
+	Browse	არჩევა
+	Browse…	არჩევა…
+	Brush Size	ფუნჯის ზომა
+	Brush Strokes	ფუნჯის შტრიხები
+	Brushes	ფუნჯები
+	Bulge	ამობურცვა
+	Bullet	ბურთულა
+	Burlap	ტომრის ქსოვილი
+	Calculate	გამოთვლა
+	Cancel	გაუქმება
+	Canvas	ტილო
+	Caption	წარწერა
+	Cascade	კასკადი
+	Case Sensitive	რეგისტრის გათვალისწინებით
+	Category	კატეგორია
+	Category:	კატეგორია:
+	Cell Size	უჯრის ზომა
+	Center	ცენტრში
+	Center X	ცენტრი X
+	Center Y	ცენტრი Y
+	Centered	ცენტრში
+	Centimeters	სანტიმეტრი
+	Chamfer	ფასკა
+	Change	შეცვლა
+	Change All	ყველას ჩანაცვლება
+	Change Case	რეგისტრის შეცვლა
+	Change Panel Layout	პანელების განლაგების შეცვლა
+	Channel	არხი
+	Channel Mixer	არხების მიქშერი
+	Channels	არხები
+	Character	სიმბოლო
+	Character Styles	სიმბოლოს სტილები
+	Characters	სიმბოლოები
+	Check for Updates	განახლებების შემოწმება
+	Check for updates	განახლებების შემოწმება
+	Check Spelling…	მართლწერის შემოწმება…
+	Checkerboard	ჭადრაკის დაფა
+	Choose…	არჩევა…
+	Circle	წრე
+	City	ქალაქი
+	Clarity	სიცხადე
+	Classic	კლასიკური
+	Clear	გასუფთავება
+	Clear All	ყველას გასუფთავება
+	Clear Guides	დამხმარე ხაზების გასუფთავება
+	Clear History	ისტორიის გასუფთავება
+	Clear Recent Files	ბოლოს გახსნილი ფაილების სიის გასუფთავება
+	Clipboard	გაცვლის ბუფერი
+	Clipping Mask	მომჭრელი ნიღაბი
+	Clone	კლონირება
+	Close	დახურვა
+	Close (Esc)	დახურვა (Esc)
+	Close All	ყველას დახურვა
+	Close Panel	პანელის დახურვა
+	Cmd	Cmd
+	CMYK Color	CMYK ფერი
+	CMYK:	CMYK:
+	Coarse Dots	მსხვილი წერტილები
+	Collapse	ჩაკეცვა
+	Collate	დაკომპლექტება
+	Color	ფერი
+	Color Balance	ფერთა ბალანსი
+	Color Burn	ფერით ჩამუქება
+	Color Dodge	ფერით გაღიავება
+	Color Management	ფერების მართვა
+	Color Mode	ფერის რეჟიმი
+	Color Picker	ფერის ამრჩევი
+	Color Settings	ფერის პარამეტრები
+	Color Settings…	ფერის პარამეტრები…
+	Color Space	ფერთა სივრცე
+	Color Swatches	ფერის ნიმუშები
+	Color Table	ფერთა ცხრილი
+	Color:	ფერი:
+	Colorize	გაფერადება
+	Colors	ფერები
+	Colors:	ფერები:
+	Color…	ფერი…
+	Colour	ფერი
+	Column width	სვეტის სიგანე
+	Columns	სვეტები
+	Columns:	სვეტები:
+	Combine	გაერთიანება
+	Command	ბრძანება
+	Commands:	ბრძანებები:
+	Comment	კომენტარი
+	Comments	კომენტარები
+	Commits	კომიტები
+	Community	საზოგადოება
+	Company	კომპანია
+	Compare	შედარება
+	Comparison	შედარება
+	Compatibility	თავსებადობა
+	Compression	შეკუმშვა
+	Cone	კონუსი
+	Contains	შეიცავს
+	Continue	გაგრძელება
+	Contrast	კონტრასტი
+	Contributors	მონაწილეები
+	Convert	გარდაქმნა
+	Convert to Shape	ფიგურად გარდაქმნა
+	Convert to sRGB	sRGB-ად გარდაქმნა
+	Copies	ასლები
+	Copies:	ასლები:
+	Copy	კოპირება
+	Copyright	საავტორო უფლება
+	Copyrighted	დაცულია საავტორო უფლებით
+	Corner	კუთხე
+	Corners	კუთხეები
+	Correction	კორექცია
+	Couldn't open {name}: {e}	{name} ვერ გაიხსნა: {e}
+@msg	Couldn't open {name}: {e}	{name} ვერ გაიხსნა: {e}
+	Country	ქვეყანა
+	Crack Brightness	ბზარის სიკაშკაშე
+	Crack Depth	ბზარის სიღრმე
+	Crack Spacing	ბზარებს შორის მანძილი
+	Create	შექმნა
+	Create Clipping Mask	მომჭრელი ნიღბის შექმნა
+	Crop	ჩამოჭრა
+	Cross	ჯვარი
+	Crosshatch	ჯვარედინი დაშტრიხვა
+	Crystallize	კრისტალიზაცია
+	Crystallize…	კრისტალიზაცია…
+	Ctrl	Ctrl
+	Current	მიმდინარე
+	Current page	მიმდინარე გვერდი
+	Current Time	მიმდინარე დრო
+	Curvature	სიმრუდე
+	Curve	მრუდი
+	Curves	მრუდები
+	Curves…	მრუდები…
+	Custom	მორგებული
+	Customize…	მორგება…
+	Cut	ამოჭრა
+	Cyan	ცისფერი
+	Dark	ბნელი
+	Dark Gray	მუქი ნაცრისფერი
+	Dark gray	მუქი ნაცრისფერი
+	Dark Strokes	მუქი შტრიხები
+	Dark Theme	ბნელი თემა
+	Darken	ჩამუქება
+	Darkness	სიმუქე
+	Dashed	ტირეებიანი
+	Data	მონაცემები
+	Data Sets	მონაცემთა ნაკრებები
+	Date	თარიღი
+	Date and Time	თარიღი და დრო
+	Date Created	შექმნის თარიღი
+	Date format	თარიღის ფორმატი
+	Dates	თარიღები
+	De-Interlace	სტრიქონგამოტოვების მოცილება
+	Decrease Font Size	შრიფტის შემცირება
+	Default	ნაგულისხმევი
+	Delete	წაშლა
+	Delete Brush	ფუნჯის წაშლა
+	Delete Group	ჯგუფის წაშლა
+	Delete Layer	შრის წაშლა
+	Delete Style	სტილის წაშლა
+	Delete Workspace	სამუშაო სივრცის წაშლა
+	Deleted	წაშლილი
+	Depth	სიღრმე
+	Desaturate	გაუფერულება
+	Descending	კლებადობით
+	Description	აღწერა
+	Description:	აღწერა:
+	Deselect	მონიშვნის მოხსნა
+	Deselect All	ყველა მონიშვნის მოხსნა
+	Destination	დანიშნულება
+	Destination:	დანიშნულება:
+	Details	დეტალები
+	Diagonal	დიაგონალური
+	Diameter	დიამეტრი
+	Diameter:	დიამეტრი:
+	Diamond	ბრილიანტი
+	Difference	სხვაობა
+	Diffuse Glow	გაბნეული ნათება
+	Diffusion	დიფუზია
+	Digits	ციფრები
+	Dimensions	ზომები
+	Direct Selection Tool	პირდაპირი მონიშვნის ხელსაწყო
+	Direction	მიმართულება
+	Direction Balance	მიმართულების ბალანსი
+	Direction:	მიმართულება:
+	Discard	უგულებელყოფა
+	Discord	Discord
+	Discretionary Ligatures	დამატებითი ლიგატურები
+	Dismiss	დახურვა
+	Display	ეკრანი
+	Display name	საჩვენებელი სახელი
+	Distance	მანძილი
+	Distort	დამახინჯება
+	Distortion	დეფორმაცია
+	Distribute	განაწილება
+	Divide	დაყოფა
+	Dock Panel	პანელის მიმაგრება
+	Document	დოკუმენტი
+	Document Title	დოკუმენტის სათაური
+	Documents	დოკუმენტები
+	Don't Save	არ შეინახო
+	Done	მზადაა
+	Dot	წერტილი
+	Dots	წერტილები
+	Dotted	პუნქტირი
+	Double-click	ორმაგი დაწკაპუნება
+	Down	ქვემოთ
+	Download	ჩამოტვირთვა
+	Draft	მონახაზი
+	Draw	ხატვა
+	Drop Shadow	ჩრდილი
+	Drop Shadow…	ჩრდილი…
+	Duplicate	დუბლირება
+	Duplicate Layer	შრის დუბლირება
+	Duplicate…	დუბლირება…
+	Duplication	დუბლირება
+	Duration	ხანგრძლივობა
+	Dutch	ნიდერლანდური
+	Dynamic	დინამიკური
+	Dynamics	დინამიკა
+	Edge	კიდე
+	Edge Brightness	კიდის სიკაშკაშე
+	Edge Intensity	კიდის ინტენსივობა
+	Edge Only	მხოლოდ კიდეები
+	Edge Simplicity	კიდის სიმარტივე
+	Edge Thickness	კიდის სისქე
+	Edge Width	კიდის სიგანე
+	Edit	რედაქტირება
+	Edit Contents	შიგთავსის რედაქტირება
+	Edit Original	ორიგინალის რედაქტირება
+	Edit Toolbar	ხელსაწყოთა ზოლის რედაქტირება
+	Editing	რედაქტირება
+	Edit…	რედაქტირება…
+	Effect	ეფექტი
+	Effects	ეფექტები
+	Elevation	სიმაღლე
+	Eliminate	აღმოფხვრა
+	Ellipse	ელიფსი
+	Ellipse Tool	ელიფსის ხელსაწყო
+	Ellipsis	მრავალწერტილი
+	Em Dash	გრძელი ტირე
+	Em Space	გრძელი შორისი
+	Embed	ჩაშენება
+	Emboss	რელიეფი
+	En Dash	მოკლე ტირე
+	En Space	მოკლე შორისი
+	Enable	ჩართვა
+	Endpoint	ბოლო წერტილი
+	Enlarged	გადიდებული
+	Enter	Enter
+	Entire Font	მთელი შრიფტი
+	Envelope DL	კონვერტი DL
+	Erase	წაშლა
+	Eraser	საშლელი
+	Eraser Tool	საშლელის ხელსაწყო
+	Error	შეცდომა
+	Even Fields	ლუწი ველები
+	Even pages only	მხოლოდ ლუწი გვერდები
+	Exact	ზუსტი
+	Example: {sample}	მაგალითი: {sample}
+	Exclusion	გამორიცხვა
+	Exit	გასვლა
+	Expand	გაშლა
+	Export	ექსპორტი
+	Export As	ექსპორტი სხვა ფორმატით
+	Export As…	ექსპორტი სხვა ფორმატით…
+	Export PDF	PDF ექსპორტი
+	Export to	ექსპორტი ფორმატში
+	Exported to {path}	ექსპორტირებულია: {path}
+	Exported {path}	ექსპორტირებულია: {path}
+	Export…	ექსპორტი…
+	Exposure	ექსპოზიცია
+	Expression	გამოსახულება
+	Extract	ამოღება
+	Eyedropper	პიპეტი
+	Eyedropper Tool	პიპეტის ხელსაწყო
+	Faded Film	გახუნებული ფირი
+	Fast	სწრაფი
+	Favorites	რჩეულები
+	Feather	კიდეების შერბილება
+	Field	ველი
+	Field properties	ველის თვისებები
+	Fields	ველები
+	Fields:	ველები:
+	File	ფაილი
+	File Handling	ფაილებთან მუშაობა
+	File Info…	ფაილის ინფორმაცია…
+	File Name	ფაილის სახელი
+	Files	ფაილები
+	Fill	შევსება
+	Fill:	შევსება:
+	Filter	ფილტრი
+	Find	ძებნა
+	Find and Replace	ძებნა და ჩანაცვლება
+	Find Next	შემდეგის ძებნა
+	Find:	ძებნა:
+	Find…	ძებნა…
+	Fine Dots	წვრილი წერტილები
+	Finish	დასრულება
+	First	პირველი
+	First commit	პირველი კომიტი
+	Fit	მორგება
+	Fit in View	ხედში ჩატევა
+	Fixed	ფიქსირებული
+	Flash	ელვარება
+	Flatten	გაერთიანება
+	Flip	არეკვლა
+	Flip Horizontal	ჰორიზონტალურად არეკვლა
+	Flip Vertical	ვერტიკალურად არეკვლა
+	Focus	ფოკუსი
+	Folder	საქაღალდე
+	Font	შრიფტი
+	Font Size	შრიფტის ზომა
+	Font size	შრიფტის ზომა
+	Font Size:	შრიფტის ზომა:
+	Font:	შრიფტი:
+	Fonts	შრიფტები
+	Format	ფორმატი
+	Format:	ფორმატი:
+	Fractions	წილადები
+	Frame	ჩარჩო
+	Free	თავისუფალი
+	Free Transform	თავისუფალი გარდაქმნა
+	French	ფრანგული
+	Frequency	სიხშირე
+	From	საწყისი
+	Frosted	მქრქალი
+	Full	სრული
+	Full Screen	მთელ ეკრანზე
+	Full Screen Mode	სრულეკრანიანი რეჟიმი
+	Functions	ფუნქციები
+	Gamma	გამა
+	Gamma Correction	გამა-კორექცია
+	Gamut Warning	ფერთა გამიდან გასვლის გაფრთხილება
+	Gaussian Blur	გაუსის გაბუნდოვნება
+	Gaussian Blur…	გაუსის გაბუნდოვნება…
+	General	ზოგადი
+	General…	ზოგადი…
+	Generate	გენერაცია
+	Geometry	გეომეტრია
+	German	გერმანული
+	GitHub	GitHub
+	Glass	მინა
+	Global	გლობალური
+	Glow	ნათება
+	Glow Brightness	ნათების სიკაშკაშე
+	Glow Size	ნათების ზომა
+	Glyphs	გლიფები
+	Good	კარგი
+	Gradient	გრადიენტი
+	Gradient Tool	გრადიენტის ხელსაწყო
+	Gradients	გრადიენტები
+	Grain	მარცვლოვნება
+	Grain Type	მარცვლის ტიპი
+	Graininess	მარცვლოვნება
+	Grainy Dots	მარცვლოვანი წერტილები
+	Graphic	გრაფიკა
+	Graphics	გრაფიკა
+	Gray	ნაცრისფერი
+	Gray Gamma 2.2	Gray Gamma 2.2
+	Grayscale	ნაცრისფერი ტონები
+	Green	მწვანე
+	Grid	ბადე
+	Grid Size:	ბადის ზომა:
+	Grid view	ბადის ხედი
+	Gridline every	ბადის ხაზი ყოველ
+	Group	დაჯგუფება
+	Group with	ერთად დაჯგუფება
+	Groups	ჯგუფები
+	Grout Width	ნაკერის სიგანე
+	Guides	დამხმარე ხაზები
+	Halftone Pattern	ნახევარტონური პატერნი
+	Hand	ხელი
+	Hand Tool	ხელის ხელსაწყო
+	Hard	მკვეთრი
+	Hard Light	მკვეთრი სინათლე
+	Hard Mix	მკვეთრი შერევა
+	Headings	სათაურები
+	Heart	გული
+	Height	სიმაღლე
+	Height:	სიმაღლე:
+	Help	დახმარება
+	Hexagon	ექვსკუთხედი
+	Hidden	დამალული
+	Hidden text	დამალული ტექსტი
+	Hide	დამალვა
+	Hide All	ყველას დამალვა
+	Hide Grid	ბადის დამალვა
+	Hide Others	სხვების დამალვა
+	High	მაღალი
+	High Pass	მაღალსიხშირული ფილტრი
+	High Resolution	მაღალი გარჩევადობა
+	High resolution	მაღალი გარჩევადობა
+	Highlight Area	ნათელი არე
+	Highlights	ღია ტონები
+	Hindi	ჰინდი
+	Histogram	ჰისტოგრამა
+	History	ისტორია
+	Hollow	ღრუ
+	Home	საწყისი ეკრანი
+	Horizontal	ჰორიზონტალური
+	Horizontal scale	ჰორიზონტალური მასშტაბი
+	Horizontally	ჰორიზონტალურად
+	Hue	ფერის ტონი
+	Hue Shift	ფერის ტონის წანაცვლება
+	Hue/Saturation…	ფერის ტონი/გაჯერება…
+	Hyphenation	სიტყვების გადატანა
+	Icon	ხატულა
+	Ignore	უგულებელყოფა
+	Ignore All	ყველას გამოტოვება
+	Image	გამოსახულება
+	Image Size	გამოსახულების ზომა
+	Images	გამოსახულებები
+	Import	იმპორტი
+	Import…	იმპორტი…
+	Inches	დუიმი
+	Increase Font Size	შრიფტის გაზრდა
+	Index	ინდექსი
+	Inflate	გაბერვა
+	Info	ინფორმაცია
+	Inner Glow…	შიდა ნათება…
+	Input:	შემავალი:
+	Insert	ჩასმა
+	Inside	შიგნით
+	Inspect Document	დოკუმენტის შემოწმება
+	Install Plug-in	პლაგინის დაყენება
+	Install Plug-in…	პლაგინის დაყენება…
+	Intensity	ინტენსივობა
+	Interface	ინტერფეისი
+	Interface Language	ინტერფეისის ენა
+	Interface language	ინტერფეისის ენა
+	Interface Theme	ინტერფეისის თემა
+	Interlaced	სტრიქონგამოტოვებით
+	Interpolation	ინტერპოლაცია
+	Intersect	გადაკვეთა
+	Intersection	გადაკვეთა
+	Invert	ინვერსია
+	Invert Mask	ნიღბის ინვერსია
+	Isolate	იზოლირება
+	Italian	იტალიური
+	Italic	დახრილი
+	Japanese	იაპონური
+	Join	შეერთება
+	Join our Discord	შემოგვიერთდით Discord-ზე
+	Join the ArtCraft Discord	შემოუერთდით ArtCraft-ის Discord-ს
+	Join the ArtCraft Discord…	შემოუერთდით ArtCraft-ის Discord-ს…
+	Join us on Discord	შემოგვიერთდით Discord-ზე
+	just now	ახლახან
+	Justification	სწორება
+	Justify	ორმხრივი სწორება
+	Keep:	შენარჩუნება:
+	Kerning	კერნინგი
+	Keyboard Shortcuts	კლავიატურის მალსახმობები
+	Keyboard Shortcuts…	კლავიატურის მალსახმობები…
+	Keywords	საკვანძო სიტყვები
+	Kind	სახეობა
+	Korean	კორეული
+	Lab	Lab
+	Label	იარლიყი
+	Labels	იარლიყები
+	Landscape	ჰორიზონტალური
+	Language	ენა
+	Language Options	ენის პარამეტრები
 @id	language.name	ქართული
+	Language:	ენა:
+	Large	დიდი
+	Lasso	ლასო
+	Lasso Tool	ლასოს ხელსაწყო
+	Last	ბოლო
+	Last commit	ბოლო კომიტი
+	Later	მოგვიანებით
+	Layer	შრე
+	Layers	შრეები
+	Layout	განლაგება
+	Layout:	განლაგება:
+	Leading	სტრიქონთა დაშორება
+	Left	მარცხნივ
+	Left Diagonal	მარცხენა დიაგონალი
+	Left to Right	მარცხნიდან მარჯვნივ
+	Left:	მარცხნივ:
+	Legal	Legal
+	Length	სიგრძე
+	Length:	სიგრძე:
+	Lens Flare	ობიექტივის ანარეკლი
+	Less	ნაკლები
+	Letter	Letter
+	Level	დონე
+	Levels	დონეები
+	Levels…	დონეები…
+	Libraries	ბიბლიოთეკები
+	Library	ბიბლიოთეკა
+	Light	ღია
+	Light Blue	ღია ლურჯი
+	Light Direction	სინათლის მიმართულება
+	Light Gray	ღია ნაცრისფერი
+	Light gray	ღია ნაცრისფერი
+	Light Intensity	სინათლის ინტენსივობა
+	Light Theme	ღია თემა
+	Light Type	სინათლის ტიპი
+	Lighten	გაღიავება
+	Lighter Color	უფრო ღია ფერი
+	Lighting	განათება
+	Lighting Effects	განათების ეფექტები
+	Lightness	სიღიავე
+	Line	ხაზი
+	Line delta	სტრიქონების სხვაობა
+	Line spacing	სტრიქონთა დაშორება
+	Linear	წრფივი
+	Linear Burn	წრფივი ჩამუქება
+	Linear Gradient	წრფივი გრადიენტი
+	Linear Light	წრფივი სინათლე
+	Lines	ხაზები
+	Lines +/−	სტრიქონები +/−
+	Lines added	დამატებული სტრიქონები
+	Lines deleted	წაშლილი სტრიქონები
+	Link	ბმული
+	Links	ბმულები
+	List	სია
+	List View	სიის ხედი
+	List view	სიის ხედი
+	Location	მდებარეობა
+	Location:	მდებარეობა:
+	Lock	ჩაკეტვა
+	Lock Guides	დამხმარე ხაზების ჩაკეტვა
+	Lock Slices	ნაჭრების ჩაკეტვა
+	Locked	ჩაკეტილი
+	Long Lines	გრძელი ხაზები
+	Long Strokes	გრძელი შტრიხები
+	Low	დაბალი
+	lowercase	პატარა ასოები
+	Luminance	სიკაშკაშე
+	Luminosity	ნათება
+	Magenta	მეწამული
+	Magic Wand Tool	ჯადოსნური ჯოხის ხელსაწყო
+	Magnification	გადიდების ხარისხი
+	Margins	ველები
+	Mask	ნიღაბი
+	Matte	მატი
+	Maximize	გაშლა
+	Maximum	მაქსიმუმი
+	Measure	გაზომვა
+	Median	მედიანა
+	Medium	საშუალო
+	Medium Dots	საშუალო წერტილები
+	Medium Gray	საშუალო ნაცრისფერი
+	Medium Lines	საშუალო ხაზები
+	Merge	შერწყმა
+	Merge Cells	უჯრების შერწყმა
+	Merge Layers	შრეების შერწყმა
+	Merged PRs	გაერთიანებული PR-ები
+	Mesh	ბადე
+	Message:	შეტყობინება:
+	Metadata	მეტამონაცემები
+	Method	მეთოდი
+	Method:	მეთოდი:
+	Mezzotint	მეცოტინტო
+	Mezzotint…	მეცოტინტა…
+	Middle	შუა
+	Midpoint	შუა წერტილი
+	Midtones	შუალედური ტონები
+	Millimeters	მილიმეტრი
+	Minimize	ჩაკეცვა
+	Minimum	მინიმუმი
+	Mirror	არეკვლა
+	Missing	აკლია
+	Mobile	მობილური
+	Mode	რეჟიმი
+	Mode:	რეჟიმი:
+	Model	მოდელი
+	Models	მოდელები
+	Modern	თანამედროვე
+	Modified	შეცვლილია
+	Modify	შეცვლა
+	Monitor RGB	მონიტორის RGB
+	Mono	მონო
+	Monochrome	მონოქრომული
+	More	მეტი
+	Mosaic	მოზაიკა
+	Mosaic Tiles	მოზაიკის ფილები
+	Motion	მოძრაობა
+	Move	გადატანა
+	Move Down	ჩამოწევა
+	Move Panel	პანელის გადაადგილება
+	Move Up	აწევა
+	Multiply	გამრავლება
+	Name	სახელი
+	Name (A–Z)	სახელი (ა–ჰ)
+	Name:	სახელი:
+	Navigation	ნავიგაცია
+	Navigator	ნავიგატორი
+	Neon Glow	ნეონის ნათება
+	Never	არასოდეს
+	New	ახალი
+	New Document	ახალი დოკუმენტი
+	New document	ახალი დოკუმენტი
+	New from Template	შაბლონიდან შექმნა
+	New Group	ახალი ჯგუფი
+	New Guide	ახალი დამხმარე ხაზი
+	New Layer	ახალი შრე
+	New Layer…	ახალი შრე…
+	New Style…	ახალი სტილი…
+	New Swatch…	ფერის ახალი ნიმუში…
+	New Window	ახალი ფანჯარა
+	New Workspace	ახალი სამუშაო სივრცე
+	New Workspace…	ახალი სამუშაო სივრცე…
+	New…	ახალი…
+	Next	შემდეგი
+	Next Appearance Mode	შემდეგი იერსახის რეჟიმი
+	Next Change	შემდეგი ცვლილება
+	Next Page	შემდეგი გვერდი
+	Next page	შემდეგი გვერდი
+	No	არა
+	No Color	ფერის გარეშე
+	No Dither	დიზერინგის გარეშე
+	No Document	დოკუმენტი არ არის
+	No document	დოკუმენტი არ არის
+	No document open	დოკუმენტი გახსნილი არ არის
+	No limit	ლიმიტის გარეშე
+	No matches.	დამთხვევა არ არის.
+	No matching commands	შესაბამისი ბრძანება ვერ მოიძებნა
+	No recent files	ბოლოს გახსნილი ფაილები არ არის
+	No results	შედეგები არ არის
+	No Selection	მონიშნული არაფერია
+	No selection	მონიშნული არაფერია
+	Noise	ხმაური
+	Nonbreaking Space	უწყვეტი შორისი
+	None	არცერთი
+	Normal	ჩვეულებრივი
+	Not available	მიუწვდომელია
+	NTSC Colors	NTSC ფერები
+	Number	ნომერი
+	Object	ობიექტი
+	Octagon	რვაკუთხედი
+	Odd Fields	კენტი ველები
+	Odd pages only	მხოლოდ კენტი გვერდები
+	Off	გამორთული
+	Offline	ოფლაინ
+	Offset	წანაცვლება
+	Offset:	წანაცვლება:
+	OK	OK
+	Omit	გამოტოვება
+	On	ჩართული
+	Only Web Colors	მხოლოდ ვებ-ფერები
+	Opacity	გაუმჭვირვალობა
+	Opacity:	გაუმჭვირვალობა:
+	Open	გახსნა
+	Open link	ბმულის გახსნა
+	Open Recent	ბოლოს გახსნილი ფაილების გახსნა
+	OpenType	OpenType
+	Open…	გახსნა…
+	Optimized	ოპტიმიზებული
+	Options	პარამეტრები
+	Options…	პარამეტრები…
+	Orange	ნარინჯისფერი
+	Ordinals	რიგობითი რიცხვები
+	Orientation	ორიენტაცია
+	Orientation:	ორიენტაცია:
+	Original	ორიგინალი
+	Other	სხვა
+	Outer Glow…	გარე ნათება…
+	Outline	კონტური
+	Output	გამოტანა
+	Output:	გამომავალი:
+	Outside	გარეთ
+	Oval	ოვალი
+	Overlap:	გადაფარვა:
+	Overlay	გადაფარვა
+	Package…	შეფუთვა…
+	Page	გვერდი
+	Page {page} of {pages}	გვერდი {page} / {pages}
+	Pages	გვერდები
+	Painting	ხატვა
+	Panel menu	პანელის მენიუ
+	Panel Options…	პანელის პარამეტრები…
+	Panels	პანელები
+	Paper	ქაღალდი
+	Paragraph	აბზაცი
+	Paragraph Styles	აბზაცის სტილები
+	Password	პაროლი
+	Paste	ჩასმა
+	Paste Special	სპეციალური ჩასმა
+	Patchwork	ნაჭრების მოზაიკა
+	Path	ტრაექტორია
+	Path:	ტრაექტორია:
+	Paths	ტრაექტორიები
+	Pattern	პატერნი
+	Pattern Type	პატერნის ტიპი
+	Pause	პაუზა
+	Pen	კალამი
+	Pen Tool	კალმის ხელსაწყო
+	Pencil	ფანქარი
+	Pencil Tool	ფანქრის ხელსაწყო
+	Pentagon	ხუთკუთხედი
+	Percent	პროცენტი
+	Percentage	პროცენტული
+	Performance	წარმადობა
+	Perimeter	პერიმეტრი
+	Perspective	პერსპექტივა
+	Photo	ფოტო
+	Photocopy	ფოტოასლი
+	Picas	პიკა
+	Pin Light	წერტილოვანი სინათლე
+	Pink	ვარდისფერი
+	Pixel	პიქსელი
+	Pixelate	პიქსელიზაცია
+	Pixels	პიქსელი
+	Play	დაკვრა
+	Plug-ins	პლაგინები
+	Point	წერტილი
+	Pointillize	პუანტილიზმი
+	Pointillize…	პუანტილიზმი…
+	Points	პუნქტი
+	Polygon	მრავალკუთხედი
+	Polygon Tool	მრავალკუთხედის ხელსაწყო
+	Polyline	ტეხილი
+	Portrait	ვერტიკალური
+	Portuguese	პორტუგალიური
+	Position	პოზიცია
+	Position:	პოზიცია:
+	Postcard	ღია ბარათი
+	Poster	პოსტერი
+	Poster Edges	პოსტერის კიდეები
+	Posterization	პოსტერიზაცია
+	Posterize	პოსტერიზაცია
+	Preferences	პარამეტრები
+	Preferences…	პარამეტრები…
+	Prefix	პრეფიქსი
+	Preserve	შენარჩუნება
+	Preserve Luminosity	სიკაშკაშის შენარჩუნება
+	Preset	პრესეტი
+	Preset Manager	პრესეტების მართვა
+	Preset:	პრესეტი:
+	Presets	პრესეტები
+	Presets:	პრესეტები:
+	Press keys…	დააჭირეთ კლავიშებს…
+	Pressure	დაწოლა
+	Preview	წინასწარი ნახვა
+	Previous	წინა
+	Previous Change	წინა ცვლილება
+	Previous Page	წინა გვერდი
+	Previous page	წინა გვერდი
+	Print	დაბეჭდვა
+	Printer	პრინტერი
+	Printer:	პრინტერი:
+	Printing	ბეჭდვა
+	Print…	დაბეჭდვა…
+	Profile	პროფილი
+	Progressive	პროგრესული
+	Proof Setup	საცდელი ჩვენების პარამეტრები
+	Properties	თვისებები
+	Protect	დაცვა
+	PRs	PR-ები
+	Public Domain	საზოგადოებრივი საკუთრება
+	Punctuation	პუნქტუაცია
+	Purple	იისფერი
+	Pyramid	პირამიდა
+	Quality	ხარისხი
+	Quick Actions	სწრაფი მოქმედებები
+	Radial	რადიალური
+	Radial Blur	რადიალური გაბუნდოვნება
+	Radial Blur…	რადიალური გაბუნდოვნება…
+	Radial Gradient	რადიალური გრადიენტი
+	Radius	რადიუსი
+	Radius:	რადიუსი:
+	Random	შემთხვევითი
+	Range	დიაპაზონი
+	Range:	დიაპაზონი:
+	Rasterize	რასტრირება
+	Ratio	პროპორცია
+	Rays	სხივები
+	Ready	მზადაა
+	Real name	ნამდვილი სახელი
+	Recent	ბოლოდროინდელი
+	Recent Colors	ბოლოდროინდელი ფერები
+	Recent Files	ბოლოს გახსნილი ფაილები
+	Recover	აღდგენა
+	Rectangle	მართკუთხედი
+	Rectangle Tool	მართკუთხედის ხელსაწყო
+	Rectangular	მართკუთხა
+	Red	წითელი
+	Redo	ხელახლა შესრულება
+	Reduce Noise	ხმაურის შემცირება
+	Refine	დაზუსტება
+	Reflected	არეკლილი
+	Refresh	განახლება
+	Regular	ჩვეულებრივი
+	Relative	ფარდობითი
+	Relative Colorimetric	ფარდობითი კოლორიმეტრიული
+	Relaxed	თავისუფალი
+	Relief	რელიეფი
+	Reload	ხელახლა ჩატვირთვა
+	Remove	წაშლა
+	Remove Background	ფონის მოშორება
+	Remove from favorites	რჩეულებიდან ამოშლა
+	Rename	სახელის შეცვლა
+	Rename Group…	ჯგუფის სახელის შეცვლა…
+	Rename Style	სტილის სახელის შეცვლა
+	Rename…	სახელის შეცვლა…
+	Repeat	გამეორება
+	Replace	ჩანაცვლება
+	Replace:	ჩანაცვლება:
+	Reply	პასუხი
+	Report	ანგარიში
+	Report an Issue…	ხარვეზის შეტყობინება…
+	Reselect	ხელახლა მონიშვნა
+	Reset	ჩამოყრა
+	Reset Preferences	პარამეტრების ჩამოყრა
+	Reset…	ჩამოყრა…
+	Resize panel window	პანელის ფანჯრის ზომის შეცვლა
+	Resize panels	პანელების ზომის შეცვლა
+	Resolution	გარჩევადობა
+	Resolution:	გარჩევადობა:
+	Restore	აღდგენა
+	Result	შედეგი
+	Resume	გაგრძელება
+	Reveal in Finder	Finder-ში ჩვენება
+	Reverse	შებრუნება
+	Reverse the order	რიგის შებრუნება
+	Revert	წინა ვერსიაზე დაბრუნება
+	Review	განხილვა
+	RGB	RGB
+	RGB Color	RGB ფერი
+	RGB:	RGB:
+	Right	მარჯვნივ
+	Right Diagonal	მარჯვენა დიაგონალი
+	Right:	მარჯვნივ:
+	Rotate	შემობრუნება
+	Rotate:	შემობრუნება:
+	Rotation	შემობრუნება
+	Rotation:	შემობრუნება:
+	Rounded Rectangle	მომრგვალებული მართკუთხედი
+	Roundness	სიმრგვალე
+	Roundness:	სიმრგვალე:
+	Rows	სტრიქონები
+	Ruler	სახაზავი
+	Rulers	სახაზავები
+	Rulers & Grids	სახაზავები და ბადეები
+	Russian	რუსული
+	Sandstone	ქვიშაქვა
+	Saturation	გაჯერება
+	Save	შენახვა
+	Save a Copy	ასლის შენახვა
+	Save a Copy…	ასლის შენახვა…
+	Save As	შენახვა როგორც
+	Save as PDF	PDF-ად შენახვა
+	Save as Template	შაბლონად შენახვა
+	Save as Template…	შაბლონად შენახვა…
+	Save As…	შენახვა როგორც…
+	Save Preset…	პრესეტის შენახვა…
+	Save Selection	მონიშნულის შენახვა
+	Save Selection…	მონიშნულის შენახვა…
+	Saved	შენახულია
+	Save…	შენახვა…
+	Scale	მასშტაბი
+	Scale:	მასშტაბი:
+	Scaling	მასშტაბირება
+	Scratch Disks	დროებითი დისკები
+	Scratch Disks…	დროებითი დისკები…
+	Screen	ეკრანი
+	Screen Mode	ეკრანის რეჟიმი
+	Scripts	სკრიპტები
+	Search	ძიება
+	Security	უსაფრთხოება
+	Segments	სეგმენტები
+	Select	მონიშვნა
+	Select All	ყველაფრის მონიშვნა
+	Select Objects	ობიექტების მონიშვნა
+	Select:	მონიშვნა:
+	Selected pages	მონიშნული გვერდები
+	Selection	მონიშნული
+	Selection Tool	მონიშვნის ხელსაწყო
+	Selective	შერჩევითი
+	Send Backward	უკან გადატანა
+	Send to Back	უკანა პლანზე გადატანა
+	Sensitivity	მგრძნობელობა
+	Sent to {printer}	გაიგზავნა პრინტერზე: {printer}
+	Services	სერვისები
+	Set	დაყენება
+	Set as Default	ნაგულისხმევად დაყენება
+	Set:	ნაკრები:
+	Settings	პარამეტრები
+	Settings:	პარამეტრები:
+	Settings…	პარამეტრები…
+	Shadow	ჩრდილი
+	Shadows	ჩრდილები
+	Shape	ფიგურა
+	Shape Effects	ფიგურის ეფექტები
+	Shape:	ფორმა:
+	Shapes	ფიგურები
+	Share	გაზიარება
+	Sharpen	გამკვეთრება
+	Sharpness	სიმკვეთრე
+	Shift	Shift
+	Short Lines	მოკლე ხაზები
+	Short Strokes	მოკლე შტრიხები
+	Shortcut	მალსახმობი
+	Shortcuts	მალსახმობები
+	Show	ჩვენება
+	Show All	ყველას ჩვენება
+	Show Grid	ბადის ჩვენება
+	Show Guides	დამხმარე ხაზების ჩვენება
+	Show in Folder	საქაღალდეში ჩვენება
+	Show Mask	ნიღბის ჩვენება
+	Show Mesh	ბადის ჩვენება
+	Show Rulers	სახაზავების ჩვენება
+	Show rulers	სახაზავების ჩვენება
+	Show Tool Tips	მინიშნებების ჩვენება
+	Show:	ჩვენება:
+	Sides:	გვერდები:
+	Simplify	გამარტივება
+	Size	ზომა
+	Size:	ზომა:
+	Sketch	ესკიზი
+	Skew	დახრა
+	Slice	ნაჭერი
+	Slice Options	ნაჭრის პარამეტრები
+	Slice Options…	ნაჭრის პარამეტრები…
+	Slice Tool	ნაჭრის ხელსაწყო
+	Slices	ნაჭრები
+	Small	პატარა
+	Small Caps	პატარა მთავრული
+	Smart Blur	ჭკვიანი გაბუნდოვნება
+	Smart Blur…	ჭკვიანი გაბუნდოვნება…
+	Smart Guides	ჭკვიანი დამხმარე ხაზები
+	Smart quotes	ჭკვიანი ბრჭყალები
+	Smoothness	სიგლუვე
+	Snap to Grid	ბადეზე მიბმა
+	Soft	რბილი
+	Soft Light	რბილი სინათლე
+	Soften	დარბილება
+	Softness	სირბილე
+	Solarize	სოლარიზაცია
+	Sort	სორტირება
+	Sort by	სორტირება:
+	Source	წყარო
+	Source code on GitHub	საწყისი კოდი GitHub-ზე
+	Spaces	ჰარები
+	Spacing	ინტერვალი
+	Spacing:	ინტერვალი:
+	Spanish	ესპანური
+	Spatter	შხეფები
+	Special	სპეციალური
+	Speckle	ლაქები
+	Speed	სიჩქარე
+	Spelling	მართლწერა
+	Spherize	სფერიზება
+	Split	გაყოფა
+	Spot Color	სპოტ-ფერი
+	Spray Radius	შესხურების რადიუსი
+	Square	კვადრატი
+	Square Size	კვადრატის ზომა
+	sRGB IEC61966-2.1	sRGB IEC61966-2.1
+	Stacked	დასტად
+	Stained Glass	ვიტრაჟი
+	Stamp	შტამპი
+	Standard	სტანდარტული
+	Standard Ligatures	სტანდარტული ლიგატურები
+	Star	ვარსკვლავი
+	Start at:	დაწყება:
+	Statistics	სტატისტიკა
+	Status	სტატუსი
+	Status Bar	სტატუსის ზოლი
+	Stippled	პუნქტირებული
+	Stop	შეწყვეტა
+	Strength	სიძლიერე
+	Stretch	გაწელვა
+	Strikethrough	გადახაზული
+	Stroke	კონტური
+	Stroke Color	კონტურის ფერი
+	Stroke Length	შტრიხის სიგრძე
+	Stroke Options	კონტურის პარამეტრები
+	Stroke:	კონტური:
+	Studio	სტუდია
+	Style	სტილი
+	Style:	სტილი:
+	Styles	სტილები
+	Stylize	სტილიზაცია
+	Subdivisions	ქვედანაყოფები
+	Subject	საგანი
+	Subscript	ქვედა ინდექსი
+	Subset	ქვესიმრავლე
+	Subtract	გამოკლება
+	Sumi-e	სუმი-ე
+	Summary	შეჯამება
+	Superscript	ზედა ინდექსი
+	Swatches	ფერის ნიმუშები
+	Symbol	სიმბოლო
+	Symbols	სიმბოლოები
+	Sync with system	სისტემასთან სინქრონიზაცია
+	System	სისტემა
+	Tab	ტაბულაცია
+	Table	ცხრილი
+	Table style	ცხრილის სტილი
+	Tables	ცხრილები
+	Tabloid	Tabloid
+	Tabs	ტაბულაცია
+	Taper	წაწვეტება
+	Target	სამიზნე
+	Target:	სამიზნე:
+	Temperature	ტემპერატურა
+	Templates	შაბლონები
+	Text	ტექსტი
+	Text color	ტექსტის ფერი
+	Text:	ტექსტი:
+	Texture	ტექსტურა
+	The passwords don't match.	პაროლები არ ემთხვევა.
+	Theme	თემა
+	Thickness	სისქე
+	This document has no bookmarks.	ამ დოკუმენტს სანიშნეები არ აქვს.
+	Threshold	ზღვარი
+	Thumbnails	ესკიზები
+	Tile	ფილებად
+	Tile Size	ფილის ზომა
+	Tilt	დახრა
+	Time	დრო
+	Timecode	დროის კოდი
+	Timeline	დროის ხაზი
+	Tint	ტონირება
+	Tint Color	ტონირების ფერი
+	Title	დასახელება
+	To	საბოლოო
+	Tolerance	დაშვება
+	Tolerance:	დაშვება:
+	Tool	ხელსაწყო
+	Toolbars	ხელსაწყოთა ზოლები
+	Tools	ხელსაწყოები
+	Top	ზემოთ
+	Top Left	ზედა მარცხენა
+	Top Right	ზედა მარჯვენა
+	Top:	ზემოთ:
+	Total	სულ
+	Total:	სულ:
+	Tracking	ტრეკინგი
+	Transform	გარდაქმნა
+	Translate	თარგმნა
+	Transparency	გამჭვირვალობა
+	Transparent	გამჭვირვალე
+	Trap…	ტრეპინგი…
+	Triangle	სამკუთხედი
+	Turbulent	ტურბულენტური
+	Twirl	გრიგალი
+	Twist	გრეხა
+	Type	ტიპი
+	Type Tool	ტექსტის ხელსაწყო
+	Type:	ტიპი:
+	Typewriter	საბეჭდი მანქანა
+	Type…	ტექსტი…
+	Typing	აკრეფა
+	Underline	ხაზგასმული
+	Undo	დაბრუნება
+	Undo {action}	დაბრუნება: {action}
+	Ungroup	დაჯგუფების მოხსნა
+	Uniform	ერთგვაროვანი
+	Union	გაერთიანება
+	Units	ერთეულები
+	Unknown	უცნობი
+	Unlock	განბლოკვა
+	Unsaved changes	შეუნახავი ცვლილებები
+	Unsharp Mask	არამკვეთრი ნიღაბი
+	Untitled	უსათაურო
+	Up	ზემოთ
+	Update	განახლება
+	Updates	განახლებები
+	UPPERCASE	მთავრული
+	Use Default	ნაგულისხმევის გამოყენება
+	User	მომხმარებელი
+	Username	მომხმარებლის სახელი
+	Value	მნიშვნელობა
+	Value:	მნიშვნელობა:
+	Variables	ცვლადები
+	Version	ვერსია
+	Version {version}	ვერსია {version}
+	Vertical	ვერტიკალური
+	Vertical Alignment	ვერტიკალური სწორება
+	Vertical Type Tool	ვერტიკალური ტექსტის ხელსაწყო
+	Vertically	ვერტიკალურად
+	Very High	ძალიან მაღალი
+	Vibrance	სიხალასე
+	Video	ვიდეო
+	View	ხედი
+	Violet	იისფერი
+	Visibility	ხილვადობა
+	Vivid Light	კაშკაშა სინათლე
+	Voice	ხმა
+	W:	სიგ.:
+	Warnings	გაფრთხილებები
+	Warp	გაღუნვა
+	Watermark	ჭვირნიშანი
+	Wave	ტალღა
+	Wave…	ტალღა…
+	Web	ვები
+	Website	ვებსაიტი
+	Weight	სისქე
+	Wet	სინოტივე
+	White	თეთრი
+	White Intensity	თეთრის ინტენსივობა
+	White Is High	თეთრი მაღალია
+	Whites	თეთრები
+	Width	სიგანე
+	Width and Height	სიგანე და სიმაღლე
+	Width:	სიგანე:
+	Window	ფანჯარა
+	Windows	Windows
+	Words	სიტყვები
+	Working CMYK	სამუშაო CMYK
+	Workspace	სამუშაო სივრცე
+	Workspaces	სამუშაო სივრცეები
+	X	X
+	Y	Y
+	Yellow	ყვითელი
+	Yes	დიახ
+	yesterday	გუშინ
+	Your changes will be lost if you don't save them.	თუ ცვლილებებს არ შეინახავთ, ისინი დაიკარგება.
+	Zoom	მასშტაბი
+	Zoom In	გადიდება
+	Zoom in	გადიდება
+	Zoom Out	დაპატარავება
+	Zoom out	დაპატარავება
+	Zoom Tool	მასშტაბის ხელსაწყო
+unit	{n} B	{n} ბ
+@plural	{n} commit|{n} commits	კომიტი: {n}|კომიტი: {n}
+	{n} files	ფაილი: {n}
+unit	{n} GB	{n} გბ
+unit	{n} GiB	{n} გიბ
+	{n} h ago	{n} სთ-ის წინ
+@plural	{n} item|{n} items	ელემენტი: {n}|ელემენტი: {n}
+unit	{n} KB	{n} კბ
+unit	{n} KiB	{n} კიბ
+@plural	{n} Layer|{n} Layers	შრე: {n}|შრე: {n}
+unit	{n} MB	{n} მბ
+unit	{n} MiB	{n} მიბ
+	{n} min ago	{n} წთ-ის წინ
+@plural	{n} step|{n} steps	ნაბიჯი: {n}|ნაბიჯი: {n}
+unit	{n} TB	{n} ტბ
+unit	{n} TiB	{n} ტიბ
+	−Bin	−Bin
+	● Recording	● ჩაწერა
