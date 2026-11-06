@@ -1341,18 +1341,3 @@ menu	View	ხედი
 	−Bin	−Bin
 	−LOC	−LOC
 	⌘↩ to finish	⌘↩ — დასრულება
-	Enter angle of xline (0) or	შეიყვანეთ დამხმარე ხაზის კუთხე (0) ან
-	Enter delta length or	შეიყვანეთ სიგრძის ნამატი ან
-	Select an object to change or	მონიშნეთ შესაცვლელი ობიექტი ან
-	Select an object to measure or	მონიშნეთ გასაზომი ობიექტი ან
-	Select first object or	მონიშნეთ პირველი ობიექტი ან
-	Select nested objects to copy or	მონიშნეთ ჩადგმული ობიექტები კოპირებისთვის ან
-	Select polyline or	მონიშნეთ ტეხილი ან
-	Specify base point or	მიუთითეთ საბაზო წერტილი ან
-	Specify base radius or	მიუთითეთ ფუძის რადიუსი ან
-	Specify helix height or	მიუთითეთ სპირალის სიმაღლე ან
-	Specify offset distance or	მიუთითეთ წანაცვლების მანძილი ან
-	Specify rotation angle or	მიუთითეთ შემობრუნების კუთხე ან
-	Specify top radius or	მიუთითეთ ზედა რადიუსი ან
-	Specify total length or	მიუთითეთ სრული სიგრძე ან
-	WCS ⌄	WCS ⌄
