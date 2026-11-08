@@ -583,7 +583,7 @@ certificate	Basic constraints	ძირითადი შეზღუდვე�
 	Choose a folder for the extracted pages	აირჩიეთ საქაღალდე ამოღებული გვერდებისთვის
 	Choose a folder for the results	აირჩიეთ საქაღალდე შედეგებისთვის
 	Choose a folder for the searchable files	აირჩიეთ საქაღალდე საძიებო ფაილებისთვის
-	Choose a folder for the split files	აირჩიეთ საქაღალდე გაყოფილი ფაილებისთვის
+	Choose a folder for the split files	აირჩიეთ საქაღალდე დაყოფილი ფაილებისთვის
 	Choose a folder on this computer to pin	აირჩიეთ ამ კომპიუტერზე მისამაგრებელი საქაღალდე
 	Choose a folder…	საქაღალდის არჩევა…
 	Choose a layout:	აირჩიეთ განლაგება:
@@ -824,7 +824,7 @@ certificate	Basic constraints	ძირითადი შეზღუდვე�
 	Couldn't save: {e}	შენახვა ვერ მოხერხდა: {e}
 	Couldn't send the form: {error}	ფორმის გაგზავნა ვერ მოხერხდა: {error}
 	Couldn't show the file picker. Please try again.	ფაილის ამრჩევის ჩვენება ვერ მოხერხდა. გთხოვთ, სცადოთ ხელახლა.
-	Couldn't split: {e}	გაყოფა ვერ მოხერხდა: {e}
+	Couldn't split: {e}	დაყოფა ვერ მოხერხდა: {e}
 	Couldn't start scanning	სკანირების დაწყება ვერ მოხერხდა
 	Couldn't summarize comments: {e}	კომენტარების შეჯამება ვერ მოხერხდა: {e}
 	Couldn't take the snapshot: {e}	მომენტალური ასლის შექმნა ვერ მოხერხდა: {e}
@@ -3270,12 +3270,12 @@ key	Space	ჰარი
 	Spelling language	მართლწერის ენა
 	Spelling marks do not change the document. Right-click an underlined word for suggestions.	მართლწერის ნიშნები დოკუმენტს არ ცვლის. შეთავაზებების სანახავად ხაზგასმულ სიტყვაზე მარჯვენა ღილაკით დაწკაპეთ.
 	Spelling suggestions	მართლწერის შეთავაზებები
-	Split	გაყოფა
-	Split document	დოკუმენტის გაყოფა
-	Split document…	დოკუმენტის გაყოფა…
-	Split down	ქვემოთ გაყოფა
-	Split into files…	ფაილებად გაყოფა…
-	Split right	მარჯვნივ გაყოფა
+	Split	დაყოფა
+	Split document	დოკუმენტის დაყოფა
+	Split document…	დოკუმენტის დაყოფა…
+	Split down	ქვემოთ დაყოფა
+	Split into files…	ფაილებად დაყოფა…
+	Split right	მარჯვნივ დაყოფა
 	Spreadsheet (.xlsx)	ელცხრილი (.xlsx)
 	Square	კვადრატი
 	Squiggly	ტალღოვანი
@@ -3656,7 +3656,7 @@ calendar weekday	Th	ხუთ
 	the signing service rejected the PIN or the OTP (the OTP may have expired)	ხელმოწერის სერვისმა PIN ან OTP უარყო (OTP-ს შესაძლოა ვადა გაუვიდა)
 	the signing service rejected the user name or password	ხელმოწერის სერვისმა მომხმარებლის სახელი ან პაროლი უარყო
 	The smart card's digital IDs couldn't be listed: {e}	სმარტ-ბარათის ციფრული ID-ების ჩამოთვლა ვერ მოხერხდა: {e}
-	The split files aren't protected: the original's security settings don't carry over.	გაყოფილი ფაილები დაცული არ არის: ორიგინალის უსაფრთხოების პარამეტრები არ გადადის.
+	The split files aren't protected: the original's security settings don't carry over.	დაყოფილი ფაილები დაცული არ არის: ორიგინალის უსაფრთხოების პარამეტრები არ გადადის.
 	The standard fonts can't draw “{c}” ({code}). Only Western European characters can be added as text for now.	სტანდარტული შრიფტები ვერ ხატავს „{c}“-ს ({code}). ჯერჯერობით ტექსტად მხოლოდ დასავლეთევროპული სიმბოლოების დამატებაა შესაძლებელი.
 	The standard it must meet and where the file goes	სტანდარტი, რომელსაც უნდა აკმაყოფილებდეს, და სად მიდის ფაილი
 	the tesseract engine is not available in the web build	tesseract ძრავა ვებვერსიაში მიუწვდომელია
@@ -4019,7 +4019,7 @@ calendar weekday	We	ოთხ
 	What must go, and what the document is	რა უნდა მოცილდეს და რას წარმოადგენს დოკუმენტი
 	What takes up the space in this file, by kind of content.	რა იკავებს ადგილს ამ ფაილში, შიგთავსის სახეობის მიხედვით.
 	What word or phrase would you like to search for?	რომელი სიტყვის ან ფრაზის მოძებნა გსურთ?
-	What you want to end up with (order, extract, split, combine)	რისი მიღება გსურთ საბოლოოდ (დალაგება, ამოღება, გაყოფა, გაერთიანება)
+	What you want to end up with (order, extract, split, combine)	რისი მიღება გსურთ საბოლოოდ (დალაგება, ამოღება, დაყოფა, გაერთიანება)
 	Where the file is going and what matters (size, quality, compatibility)	სად მიდის ფაილი და რა არის მნიშვნელოვანი (ზომა, ხარისხი, თავსებადობა)
 	White on black	თეთრი შავზე
 	Whole words only	მხოლოდ მთლიანი სიტყვები
