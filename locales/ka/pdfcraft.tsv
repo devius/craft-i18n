@@ -4447,3 +4447,4 @@ document scrollbar width	Wide	ფართო
 @plural	{n} image was left as it was (page {p}: {why}).|{n} images were left as they were (page {p}: {why}, …).	გამოსახულება დარჩა უცვლელად: {n} (გვერდი {p}: {why}).|გამოსახულება დარჩა უცვლელად: {n} (გვერდი {p}: {why}, …).
 @plural	{n} page is not a scan.|{n} pages are not scans.	გვერდი, რომელიც სკანი არ არის: {n}.|გვერდი, რომელიც სკანი არ არის: {n}.
 	Accept or reject the OCR review of the other document before running OCR here	OCR-ის აქ გაშვებამდე მიიღეთ ან უარყავით მეორე დოკუმენტის OCR-ის განხილვა
+	This form has too many fields, or a field name too long, for PdfCraft to read them all. Any signature among the rest is not listed, so the document is treated as signed.	ამ ფორმას იმდენად ბევრი ველი ან იმდენად გრძელი ველის დასახელება აქვს, რომ PdfCraft ყველა ველს ვერ წაიკითხავს. დანარჩენ ველებში არსებული ხელმოწერები სიაში არ ჩანს, ამიტომ დოკუმენტი ხელმოწერილად ითვლება.
