@@ -4446,3 +4446,4 @@ document scrollbar width	Wide	ფართო
 	{first} … {last} shows and hides the set with that shortcut. Set files can be edited in any text editor and shared with others; click Reload after changing them.	{first} … {last} ამ მალსახმობის მქონე ნაკრებს აჩენს და მალავს. ნაკრების ფაილების რედაქტირება ნებისმიერ ტექსტურ რედაქტორშია შესაძლებელი და მათი სხვებისთვის გაზიარებაც შეიძლება; შეცვლის შემდეგ დაწკაპეთ „ხელახლა ჩატვირთვა“.
 @plural	{n} image was left as it was (page {p}: {why}).|{n} images were left as they were (page {p}: {why}, …).	გამოსახულება დარჩა უცვლელად: {n} (გვერდი {p}: {why}).|გამოსახულება დარჩა უცვლელად: {n} (გვერდი {p}: {why}, …).
 @plural	{n} page is not a scan.|{n} pages are not scans.	გვერდი, რომელიც სკანი არ არის: {n}.|გვერდი, რომელიც სკანი არ არის: {n}.
+	Accept or reject the OCR review of the other document before running OCR here	OCR-ის აქ გაშვებამდე მიიღეთ ან უარყავით მეორე დოკუმენტის OCR-ის განხილვა
