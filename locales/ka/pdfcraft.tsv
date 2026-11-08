@@ -557,7 +557,7 @@ certificate	Basic constraints	ძირითადი შეზღუდვე�
 	Check the pages of {name}: {why}	შეამოწმეთ {name}-ის გვერდები: {why}
 	Check the scanner is on and connected, then choose Continue.	შეამოწმეთ, რომ სკანერი ჩართული და მიერთებულია, შემდეგ აირჩიეთ „გაგრძელება“.
 	Check the scanner is on and connected, then choose Try again.	შეამოწმეთ, რომ სკანერი ჩართული და მიერთებულია, შემდეგ აირჩიეთ „ხელახლა ცდა“.
-	CheckBox	CheckBox
+	CheckBox	მოსანიშნი ველი
 	Checkbox	მოსანიშნი ველი
 	Checked	მონიშნული
 	Checked when applied: 1 region found clear of the removed text. Text that exists only as pixels of an image is not searched.	შემოწმდა გამოყენებისას: 1 რეგიონში წაშლილი ტექსტი არ აღმოჩნდა. ტექსტი, რომელიც მხოლოდ გამოსახულების პიქსელებად არსებობს, არ იძებნება.
@@ -2559,18 +2559,18 @@ animation effects	On	ჩართული
 certificate	Public key	საჯარო გასაღები
 	pure black stays 100% K or gray 0 instead of a mix	სუფთა შავი რჩება 100% K ან ნაცრისფერი 0, ნაზავის ნაცვლად
 	Purple	იისფერი
-	PushButton	PushButton
+	PushButton	ღილაკი
 	Quality	ხარისხი
 	Query printer	პრინტერის გამოკითხვა
 	Query the printer first to see what it supports.	ჯერ გამოკითხეთ პრინტერი, რომ ნახოთ, რას უჭერს მხარს.
 	Quirks	თავისებურებები
 	Quit PdfCraft	PdfCraft-იდან გასვლა
 	Quit {app}	{app}-იდან გასვლა
-	Radio	Radio
+	Radio	გადამრთველი
 	Radio button	გადამრთველი
 	Radio Button Properties	გადამრთველის თვისებები
 	RAM {gb} GB	RAM {gb} GB
-	Raw:	Raw:
+	Raw:	დაუმუშავებელი:
 	re-encoded in the target space; JPEGs stay JPEG	ხელახლა კოდირებულია სამიზნე სივრცეში; JPEG-ები JPEG-ად რჩება
 	Re-OCR entire page	მთელი გვერდის ხელახლა OCR
 	Re-OCR this region	ამ არის ხელახლა OCR
@@ -4196,3 +4196,230 @@ calendar weekday	We	ოთხ
 	− Page {p}	− გვერდი {p}
 	−Bin	−Bin
 	−LOC	−LOC
+
+# Strings added upstream (sync 2026-11-08)
+	 ({n} left as they are)	 (დატოვებულია უცვლელად: {n})
+	; 1 image downsampled	; 1 გამოსახულებას შეუმცირდა გარჩევადობა
+	; 1 signed file kept its images	; 1 ხელმოწერილმა ფაილმა გამოსახულებები შეინარჩუნა
+	; converted to {level}, but not everything complies yet ({first}); see Apply PDF standards ▸ Save as PDF/A	; გარდაიქმნა {level}-ად, მაგრამ ჯერ ყველაფერი არ შეესაბამება ({first}); იხ. PDF სტანდარტების გამოყენება > შენახვა PDF/A-ად
+	; not PDF/A yet: {list} (open them in Apply PDF standards ▸ Save as PDF/A)	; ჯერ არ არის PDF/A: {list} (გახსენით ისინი აქ: PDF სტანდარტების გამოყენება > შენახვა PDF/A-ად)
+	; not saved as {level}: {why}	; {level}-ად არ შეინახა: {why}
+	; saved as {level}	; შეინახა {level}-ად
+	; the document is signed, so its images were left as they are	; დოკუმენტი ხელმოწერილია, ამიტომ მისი გამოსახულებები უცვლელად დარჩა
+	; {n} images downsampled	; გარჩევადობა შეუმცირდა გამოსახულებას: {n}
+	; {n} saved as PDF/A	; PDF/A-ად შეინახა: {n}
+	; {n} signed files kept their images	; გამოსახულებები შეინარჩუნა ხელმოწერილმა ფაილმა: {n}
+	Add searchable text	საძიებო ტექსტის დამატება
+	Adds invisible text over each word and reduces scan images above the Downsample to resolution to it, for a smaller file	ყოველ სიტყვაზე უხილავ ტექსტს ამატებს და „გარჩევადობის შემცირების“ მნიშვნელობაზე მაღალი გარჩევადობის სკანირებულ გამოსახულებებს ამ მნიშვნელობამდე ამცირებს, ფაილის შესამცირებლად
+	AI Assistant	AI ასისტენტი
+	Align center	ცენტრში სწორება
+	Also	ასევე
+	Annotation	ანოტაცია
+	Attachments panel	დანართების პანელი
+	Automatic text direction	ტექსტის ავტომატური მიმართულება
+	Background color & tint settings	ფონის ფერისა და ტონირების პარამეტრები
+	Background removal	ფონის მოცილება
+	Bookmarks panel	სანიშნეების პანელი
+	Centimetres	სანტიმეტრები
+	Certificate	სერტიფიკატი
+@plural	Cleaned up the scan on {n} page.|Cleaned up the scans on {n} pages.	სკანი გასუფთავდა გვერდზე: {n}.|სკანები გასუფთავდა გვერდებზე: {n}.
+	Cleans up the scanned pictures in place: recognized text, comments and links on the pages stay as they are.	სკანირებულ სურათებს ადგილზე ასუფთავებს: ამოცნობილი ტექსტი, კომენტარები და ბმულები გვერდებზე უცვლელი რჩება.
+	Clear guides	დამხმარე ხაზების გასუფთავება
+	Close window	ფანჯრის დახურვა
+	CMYK	CMYK
+	Compact	კომპაქტური
+	Compare panel	შედარების პანელი
+	Complete	დასრულება
+	Convert colours	ფერების გარდაქმნა
+	Convert to	გარდაქმნა:
+	Converts the result to PDF/A-2b for archiving and says what still keeps it from complying	შედეგს არქივისთვის PDF/A-2b-ად გარდაქმნის და გეუბნებათ, რა უშლის ხელს მის სრულ შესაბამისობას
+	Copy comment	კომენტარის კოპირება
+	Copy example	მაგალითის კოპირება
+	Couldn't enhance the scanned pages	დასკანერებული გვერდების გაუმჯობესება ვერ მოხერხდა
+	Create PDF	PDF-ის შექმნა
+	Cursor coordinates	კურსორის კოორდინატები
+	Custom Color	მორგებული ფერი
+	Dark Grey	მუქი ნაცრისფერი
+	Delete comments	კომენტარების წაშლა
+	Delete guide	დამხმარე ხაზის წაშლა
+	Delete object	ობიექტის წაშლა
+	Deleted page	წაშლილი გვერდი
+	Despeckle	ლაქების მოცილება
+	Document timestamp	დოკუმენტის დროის შტამპი
+	Domain	დომენი
+	Downsample images	გამოსახულებების გარჩევადობის შემცირება
+	Drag a guide out of a ruler onto a page; hold Shift as you drop it to put it on every page. Drag it back onto a ruler to remove it, or right-click it for its colour, thickness and label. Guides and the grid are never saved in the PDF.	გამოათრიეთ დამხმარე ხაზი სახაზავიდან გვერდზე; დაშვებისას დააჭირეთ Shift-ს, რომ ყველა გვერდზე დაემატოს. მოსაშორებლად გადაათრიეთ ის უკან სახაზავზე, ან ფერის, სისქისა და წარწერისთვის დაწკაპეთ მასზე მარჯვენა ღილაკით. დამხმარე ხაზები და ბადე PDF-ში არასოდეს ინახება.
+	Drag a guide to move it. Drag it back onto a ruler, or off the page, to remove it.	გადასაადგილებლად გადაათრიეთ დამხმარე ხაზი. მოსაშორებლად გადაათრიეთ ის უკან სახაზავზე ან გვერდის გარეთ.
+	Drag from a ruler onto a page to place a guide: from the top ruler for a horizontal one, from the left ruler for a vertical one. Hold Shift as you drop it to put it on every page.	დამხმარე ხაზის დასამატებლად გადაათრიეთ სახაზავიდან გვერდზე: ზედა სახაზავიდან — ჰორიზონტალურისთვის, მარცხენა სახაზავიდან — ვერტიკალურისთვის. დაშვებისას დააჭირეთ Shift-ს, რომ ყველა გვერდზე დაემატოს.
+	Duplex	ორმხრივი
+	Dynamic zoom	დინამიკური მასშტაბირება
+	Each set is a text file in	თითოეული ნაკრები ტექსტური ფაილია აქ:
+	Each set is a text file in the guide-set folder (Preferences ▸ Units and guides ▸ Open folder). Edit it in any text editor, send it to others, or drop theirs into the folder, then click Reload. Distances are measured from the edge you name, so a set fits other page sizes.	თითოეული ნაკრები ტექსტური ფაილია დამხმარე ხაზების ნაკრებების საქაღალდეში (პარამეტრები > ერთეულები და დამხმარე ხაზები > საქაღალდის გახსნა). დაარედაქტირეთ ის ნებისმიერ ტექსტურ რედაქტორში, გაუგზავნეთ სხვებს ან ჩააგდეთ მათი ფაილები საქაღალდეში, შემდეგ დაწკაპეთ „ხელახლა ჩატვირთვა“. მანძილები თქვენ მიერ მითითებული კიდიდან იზომება, ამიტომ ნაკრები გვერდის სხვა ზომებსაც ერგება.
+	Edge shadow removal	კიდეების ჩრდილის მოცილება
+	Edit in document	დოკუმენტში რედაქტირება
+	Edit mode	რედაქტირების რეჟიმი
+	Enhance	გაუმჯობესება
+	Enhance Scanned File	სკანირებული ფაილის გაუმჯობესება
+	Enhance scanned file…	სკანირებული ფაილის გაუმჯობესება…
+	Enhancing scans… image {d} of {t}	სკანების გაუმჯობესება… გამოსახულება {d} / {t}
+	Enhancing the scanned pages was cancelled	დასკანერებული გვერდების გაუმჯობესება გაუქმდა
+	Errors	შეცდომები
+	Evens out the paper so a grey or yellowed background turns white, and darkens faint strokes. 0 is off.	ქაღალდს ათანაბრებს, რომ ნაცრისფერი ან გაყვითლებული ფონი გათეთრდეს, და მკრთალ შტრიხებს ამუქებს. 0 — გამორთულია.
+	Example set file	ნაკრების ფაილის მაგალითი
+	Executive	Executive
+	Export to Excel	ექსპორტი Excel-ში
+	Eye strain background: {mode} (click to cycle, right-click for tint settings)	თვალის დამზოგავი ფონი: {mode} (დაწკაპეთ გადასართავად, მარჯვენა ღილაკით — ტონირების პარამეტრები)
+	Fast Web View	ვებში სწრაფი ნახვა
+	Field: {field}	ველი: {field}
+	Fill opacity	შევსების გაუმჭვირვალობა
+	Filters	ფილტრები
+	Finish	დასრულება
+	Finish composing text before applying this action.	ამ ქმედების გამოყენებამდე დაასრულეთ ტექსტის აკრეფა.
+	First page	პირველი გვერდი
+	Flatten curved page	მოხრილი გვერდის გასწორება
+	Font file	შრიფტის ფაილი
+	For scripts and AI agents	სკრიპტებისა და AI აგენტებისთვის
+	For the rulers, the grid, page sizes and margins. Clicking the corner between the rulers steps to the next unit.	სახაზავებისთვის, ბადისთვის, გვერდის ზომებისა და ველებისთვის. სახაზავებს შორის კუთხეზე დაწკაპება შემდეგ ერთეულზე გადართავს.
+	Go	გადასვლა
+	Grey	ნაცრისფერი
+	Grid lines	ბადის ხაზები
+	Grid offset from left edge	ბადის წანაცვლება მარცხენა კიდიდან
+	Grid offset from top edge	ბადის წანაცვლება ზედა კიდიდან
+	Guide properties	დამხმარე ხაზის თვისებები
+	Guide set “{name}” hidden	დამხმარე ხაზების ნაკრები „{name}“ დამალულია
+	Guide set “{name}” shown	დამხმარე ხაზების ნაკრები „{name}“ ნაჩვენებია
+	Guide sets	დამხმარე ხაზების ნაკრებები
+	Guide sets can't be saved in the web version	ვებვერსიაში დამხმარე ხაზების ნაკრებების შენახვა შეუძლებელია
+	guides	დამხმარე ხაზები
+	Guides with a colour or thickness of their own (right-click a guide, or set it in a guide-set file) keep it.	საკუთარი ფერის ან სისქის მქონე დამხმარე ხაზები (დაწკაპეთ დამხმარე ხაზზე მარჯვენა ღილაკით ან მიუთითეთ ნაკრების ფაილში) მას ინარჩუნებს.
+	Hand tool	ხელის ხელსაწყო
+	Height between lines	ჰორიზონტალურ ხაზებს შორის მანძილი
+	Hide guide sets	დამხმარე ხაზების ნაკრებების დამალვა
+	Include the grid settings	ბადის პარამეტრების ჩართვა
+	Ink	მელანი
+	Instruction	ინსტრუქცია
+	Intent	განზრახვა
+	Keep	შენარჩუნება
+	Larger text	უფრო დიდი ტექსტი
+	Layers panel	შრეების პანელი
+	Left to right (LTR)	მარცხნიდან მარჯვნივ (LTR)
+	Letter	Letter
+	Lightens shadows along the edges of the scan, such as a book's gutter or a copier's dark border	ანათებს ჩრდილებს სკანის კიდეებზე, მაგალითად, წიგნის შიდა ველს ან ასლის გადამღების მუქ ჩარჩოს
+	Logo	ლოგო
+	Look	იერსახე
+	Marks	ნიშნები
+	Millimetres	მილიმეტრები
+	Network	ქსელი
+	No guide set has the shortcut {n}	მალსახმობი {n} არცერთ დამხმარე ხაზების ნაკრებს არ აქვს
+	No saved sets yet	შენახული ნაკრებები ჯერ არ არის
+	No saved sets yet. Right-click a ruler ▸ Save guides as a set…, or put a set file in the folder.	შენახული ნაკრებები ჯერ არ არის. დაწკაპეთ სახაზავზე მარჯვენა ღილაკით > დამხმარე ხაზების ნაკრებად შენახვა… ან ჩადეთ ნაკრების ფაილი საქაღალდეში.
+	No scanned pages were cleaned up.	არცერთი დასკანერებული გვერდი არ გასუფთავებულა.
+	Normal	ჩვეულებრივი
+	Not checked	არ შემოწმებულა
+	Nothing	არაფერი
+	Office documents	Office დოკუმენტები
+	On every page	ყველა გვერდზე
+	Open Units and guides	ერთეულებისა და დამხმარე ხაზების გახსნა
+	Page Background & Tint	გვერდის ფონი და ტონირება
+	Page background: {mode} (click to cycle, right-click for tint settings)	გვერდის ფონი: {mode} (დაწკაპეთ გადასართავად, მარჯვენა ღილაკით — ტონირების პარამეტრები)
+	Page information	გვერდის ინფორმაცია
+	Page thumbnails panel	გვერდების ესკიზების პანელი
+	Page {p}	გვერდი {p}
+	Paused	შეჩერებულია
+	PdfCraft's own	PdfCraft-ის საკუთარი
+	PIN	PIN
+	Pixels	პიქსელები
+	Preset	პრესეტი
+	Preset Swatches	ფერის ნიმუშების პრესეტები
+	printer marks	საბეჭდი ნიშნები
+	Provider	მომწოდებელი
+	Public domain	საზოგადოებრივი საკუთრება
+	Pure Black	სუფთა შავი
+	Quality:	ხარისხი:
+	Quit	გასვლა
+	Rating	შეფასება
+	Read out loud	ხმამაღლა წაკითხვა
+	Recipients	მიმღებები
+	Reduce	შემცირება
+	Remove white margins	თეთრი ველების მოცილება
+	Removes isolated dark specks such as dust and scanner noise. The only filter black and white scans take.	შლის ცალკეულ მუქ ლაქებს, როგორიცაა მტვერი და სკანერის ხმაური. ერთადერთი ფილტრი, რომელსაც შავ-თეთრი სკანები იღებს.
+	Replace all	ყველას ჩანაცვლება
+	Replace this document's guides with the set's, to move and change them	ამ დოკუმენტის დამხმარე ხაზების ჩანაცვლება ნაკრების ხაზებით, მათი გადასაადგილებლად და შესაცვლელად
+	Replace with	ჩანაცვლება შემდეგით
+	Restore defaults	ნაგულისხმევის აღდგენა
+	Retry	ხელახლა ცდა
+	RGB	RGB
+	Right to left (RTL)	მარჯვნიდან მარცხნივ (RTL)
+	Right-click a guide for a colour, Properties… (colour, thickness, label, every page) and Delete. Double-click opens Properties too.	დამხმარე ხაზზე მარჯვენა ღილაკით დაწკაპებით გამოჩნდება ფერი, თვისებები… (ფერი, სისქე, წარწერა, ყველა გვერდი) და წაშლა. თვისებებს ორმაგი დაწკაპებაც ხსნის.
+	Right-click a ruler ▸ Save guides as a set… keeps the guides, the unit and, if you like, the grid under a name and a shortcut. {first} … {last} shows and hides a set over any document; Edit in document turns it back into guides you can move.	სახაზავზე მარჯვენა ღილაკით დაწკაპება > დამხმარე ხაზების ნაკრებად შენახვა… ინახავს დამხმარე ხაზებს, ერთეულს და, სურვილისამებრ, ბადეს სახელითა და მალსახმობით. {first} … {last} ნაკრებს ნებისმიერ დოკუმენტზე აჩენს და მალავს; „დოკუმენტში რედაქტირება“ მას ისევ გადასაადგილებელ დამხმარე ხაზებად აქცევს.
+	Right-to-left text	მარჯვნიდან მარცხნივ ტექსტი
+	Rotate comment	კომენტარის შემობრუნება
+	Rulers, guides and grid	სახაზავები, დამხმარე ხაზები და ბადე
+	Same as interface	როგორც ინტერფეისი
+	Save guides as a set	დამხმარე ხაზების ნაკრებად შენახვა
+	Save guides as a set…	დამხმარე ხაზების ნაკრებად შენახვა…
+	Saved guide set to {path}	დამხმარე ხაზების ნაკრები შეინახა აქ: {path}
+	Saves the guides, the unit and, if ticked, the grid as one set: a text file in the guide-set folder that can be edited, copied and shared.	ინახავს დამხმარე ხაზებს, ერთეულს და, თუ მონიშნულია, ბადეს ერთ ნაკრებად: ტექსტურ ფაილად დამხმარე ხაზების ნაკრებების საქაღალდეში, რომლის რედაქტირება, კოპირება და გაზიარებაც შეიძლება.
+	Saving	შენახვა
+	Scanned pages are already being enhanced	დასკანერებული გვერდები უკვე უმჯობესდება
+	scanned text	დასკანერებული ტექსტი
+	Scanner	სკანერი
+	Scroll the page	გვერდის გადახვევა
+	Search panel	ძიების პანელი
+	Searchable Image	საძიებო გამოსახულება
+	Secured	დაცული
+	Select tool	მონიშვნის ხელსაწყო
+	Send	გაგზავნა
+	Sepia	სეპია
+	Service	სერვისი
+	Sheets	ფურცლები
+	Shortcut	მალსახმობი
+	Show art, trim and bleed boxes	ნახატის, საბოლოო ზომისა და ჭრისპირა არის ჩარჩოების ჩვენება
+	Show grid	ბადის ჩვენება
+	Show guides	დამხმარე ხაზების ჩვენება
+	Show line weights	ხაზის სისქეების ჩვენება
+	Show/Hide	ჩვენება/დამალვა
+	Signature valid	ხელმოწერა ვალიდურია
+	Signers	ხელმომწერები
+	Snap targets	მიბმის სამიზნეები
+	Snap to grid	ბადეზე მიბმა
+	Spacing, offset, subdivisions, colour and thickness are in Preferences ▸ Units and guides.	ბიჯი, წანაცვლება, დაყოფები, ფერი და სისქე მოცემულია აქ: პარამეტრები > ერთეულები და დამხმარე ხაზები.
+document scrollbar width	Standard	სტანდარტული
+	Stop	შეწყვეტა
+	Straighten a page that is curved, folded or photographed at an angle, so its lines of text run straight	მოხრილი, დაკეცილი ან კუთხით გადაღებული გვერდის გასწორება, რომ ტექსტის სტრიქონები სწორად გაჰყვეს
+	Stroke colour	კონტურის ფერი
+	Swap width and height	სიგანისა და სიმაღლის გაცვლა
+	System font	სისტემის შრიფტი
+	Text direction	ტექსტის მიმართულება
+	Text rendering	ტექსტის რენდერირება
+	Text style	ტექსტის სტილი
+	The document changed while its text was being recognized, so nothing was added. Run Recognize text again.	ტექსტის ამოცნობისას დოკუმენტი შეიცვალა, ამიტომ არაფერი დაემატა. ხელახლა გაუშვით „ტექსტის ამოცნობა“.
+	The edited text is set in {font} instead of its own font.	რედაქტირებული ტექსტი საკუთარი შრიფტის ნაცვლად {font}-ითაა აწყობილი.
+	the page flattening model is not installed (reinstall PdfCraft, or set PDFCRAFT_MODELS to the folder that holds it)	გვერდის გასწორების მოდელი დაყენებული არ არის (ხელახლა დააყენეთ PdfCraft ან მიუთითეთ PDFCRAFT_MODELS-ში საქაღალდე, სადაც ის არის)
+	The text's own font can't show {chars}, so the edited text is set in {font}.	ტექსტის საკუთარ შრიფტს არ შეუძლია {chars}-ის ჩვენება, ამიტომ რედაქტირებული ტექსტი {font}-ითაა აწყობილი.
+	thick	სქელი
+	This document has no guides to save	ამ დოკუმენტს შესანახი დამხმარე ხაზები არ აქვს
+	Tint Strength	ტონირების სიძლიერე
+	Top left	ზედა მარცხენა
+	Total area coverage	საერთო დაფარვა
+	Try again	ხელახლა ცდა
+	Units and guides	ერთეულები და დამხმარე ხაზები
+	unknown signer	უცნობი ხელმომწერი
+	US Letter	US Letter
+	USB	USB
+	Use the default	ნაგულისხმევის გამოყენება
+	Use the default look	ნაგულისხმევი იერსახის გამოყენება
+	Verify PDF/UA	PDF/UA-ს შემოწმება
+	Verify PDF/X	PDF/X-ის შემოწმება
+	Vertex	წვერო
+	View ▸ Grid ({grid}) draws a grid over the pages; View ▸ Snap to grid ({snap}) makes a dragged guide snap to it.	ხედი > ბადე ({grid}) გვერდებზე ბადეს ხატავს; ხედი > ბადეზე მიბმა ({snap}) გადათრეულ დამხმარე ხაზს ბადეზე მიაბამს.
+	View ▸ Guides ({guides}) hides and shows them; View ▸ Clear guides removes this document's guides. Guides are never saved in the PDF.	ხედი > დამხმარე ხაზები ({guides}) მათ მალავს და აჩენს; ხედი > დამხმარე ხაზების გასუფთავება ამ დოკუმენტის დამხმარე ხაზებს შლის. დამხმარე ხაზები PDF-ში არასოდეს ინახება.
+	View ▸ Rulers ({rulers}) shows a ruler above and beside the pages. Click the corner between them to step to the next unit, or right-click a ruler to choose one.	ხედი > სახაზავები ({rulers}) გვერდების ზემოთ და გვერდით სახაზავს აჩვენებს. შემდეგ ერთეულზე გადასართავად დაწკაპეთ მათ შორის კუთხეზე, ან ასარჩევად დაწკაპეთ სახაზავზე მარჯვენა ღილაკით.
+	Warm Sepia	თბილი სეპია
+document scrollbar width	Wide	ფართო
+	Width between lines	ვერტიკალურ ხაზებს შორის მანძილი
+	With the control channel on, ui.state lists every guide (in the set format, and where it lies on screen) and the sets with their files and errors. ui.set document-guides <set as JSON or TOML> replaces the document's guides, guide-set <name>:on|off|toggle shows a set, guide-set-file <set> saves one, and guides, grid and snap-to-grid take on or off.	მართვის არხის ჩართვისას ui.state ჩამოთვლის ყველა დამხმარე ხაზს (ნაკრების ფორმატში და იმას, თუ სად მდებარეობს ეკრანზე) და ნაკრებებს მათი ფაილებითა და შეცდომებით. ui.set document-guides <set as JSON or TOML> დოკუმენტის დამხმარე ხაზებს ანაცვლებს, guide-set <name>:on|off|toggle ნაკრებს აჩენს, guide-set-file <set> ერთს ინახავს, ხოლო guides, grid და snap-to-grid იღებს on-ს ან off-ს.
+	XMP metadata	XMP მეტამონაცემები
+	{first} … {last} shows and hides the set with that shortcut. Set files can be edited in any text editor and shared with others; click Reload after changing them.	{first} … {last} ამ მალსახმობის მქონე ნაკრებს აჩენს და მალავს. ნაკრების ფაილების რედაქტირება ნებისმიერ ტექსტურ რედაქტორშია შესაძლებელი და მათი სხვებისთვის გაზიარებაც შეიძლება; შეცვლის შემდეგ დაწკაპეთ „ხელახლა ჩატვირთვა“.
+@plural	{n} image was left as it was (page {p}: {why}).|{n} images were left as they were (page {p}: {why}, …).	გამოსახულება დარჩა უცვლელად: {n} (გვერდი {p}: {why}).|გამოსახულება დარჩა უცვლელად: {n} (გვერდი {p}: {why}, …).
+@plural	{n} page is not a scan.|{n} pages are not scans.	გვერდი, რომელიც სკანი არ არის: {n}.|გვერდი, რომელიც სკანი არ არის: {n}.
