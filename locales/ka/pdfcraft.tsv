@@ -1253,7 +1253,7 @@ key	Esc	Esc
 	Explain	ახსნა
 	Explorer selection exceeds the {size} MiB memory limit.	Explorer-ის მონიშნული {size} MiB მეხსიერების ლიმიტს აჭარბებს.
 	Explorer selection is limited to {count} files.	Explorer-ის მონიშნული შეზღუდულია {count} ფაილით.
-	Export	ექსპორტი
+	Export	ექსპორტირება
 	Export & Convert	ექსპორტი და გარდაქმნა
 	Export a PDF	PDF-ის ექსპორტი
 	Export all comments to data file…	ყველა კომენტარის ექსპორტი მონაცემთა ფაილში…
@@ -1295,7 +1295,7 @@ key	Esc	Esc
 	Exported {name}	ექსპორტირებულია: {name}
 	Exported {n} images	ექსპორტირებული გამოსახულებები: {n}
 	Exporting… {d} of {t}	ექსპორტირდება… {d} / {t}
-	Export…	ექსპორტი…
+	Export…	ექსპორტირება…
 	Extend the docked toolbar along the entire side. Choose a side above to enable.	მიმაგრებული ხელსაწყოთა ზოლის მთელ მხარეზე გაშლა. ჩასართავად ზემოთ აირჩიეთ მხარე.
 	Extended Graphics States	გრაფიკის გაფართოებული მდგომარეობები
 	Extract	ამოღება
@@ -2096,7 +2096,7 @@ calendar weekday	Mo	ორშ
 	No plugins installed yet. Install a .wasm plug-in to extend PdfCraft.	პლაგინები ჯერ დაინსტალირებული არ არის. PdfCraft-ის გასაფართოებლად დააინსტალირეთ .wasm პლაგინი.
 	No plugins installed. A plugin is a single .wasm file; install one above.	პლაგინები დაინსტალირებული არ არის. პლაგინი ერთი .wasm ფაილია; დააინსტალირეთ ზემოთ.
 	No preview	გადახედვა არ არის
-	No printers were found. Check that the printer is installed and the print spooler is running, then open Print again.	პრინტერები ვერ მოიძებნა. შეამოწმეთ, რომ პრინტერი დაინსტალირებულია და ბეჭდვის რიგის სერვისი გაშვებულია, შემდეგ კვლავ გახსენით „დაბეჭდვა“.
+	No printers were found. Check that the printer is installed and the print spooler is running, then open Print again.	პრინტერები ვერ მოიძებნა. შეამოწმეთ, რომ პრინტერი დაინსტალირებულია და ბეჭდვის რიგის სერვისი გაშვებულია, შემდეგ კვლავ გახსენით „ბეჭდვა“.
 	No problems found: the document conforms to {level}.	პრობლემები არ მოიძებნა: დოკუმენტი შეესაბამება {level}-ს.
 	No raw file yet	raw ფაილი ჯერ არ არის
 	No recent files	ბოლოს გახსნილი ფაილები არ არის
@@ -2532,14 +2532,14 @@ animation effects	On	ჩართული
 	Previous view	წინა ხედი
 	Primary language	ძირითადი ენა
 	Primary only	მხოლოდ ძირითადი
-	Print	დაბეჭდვა
-	Print ({key})	დაბეჭდვა ({key})
-	Print (⌘P)	დაბეჭდვა (⌘P)
+	Print	ბეჭდვა
+	Print ({key})	ბეჭდვა ({key})
+	Print (⌘P)	ბეჭდვა (⌘P)
 	Print area…	ბეჭდვის არე…
-	Print as image	დაბეჭდვა გამოსახულებად
+	Print as image	ბეჭდვა გამოსახულებად
 	Print in grayscale	ბეჭდვა რუხ ტონებში
 	Print page border	გვერდის ჩარჩოს ბეჭდვა
-	Print pages	გვერდების დაბეჭდვა
+	Print pages	გვერდების ბეჭდვა
 	Print production	საბეჭდი წარმოება
 	Print single-sided. Keep the sheets in order, cut at the marks, then stack the piles left to right, top to bottom.	დაბეჭდეთ ცალმხრივად. შეინარჩუნეთ ფურცლების რიგი, დაჭერით ნიშნებზე, შემდეგ დააწყვეთ დასტები მარცხნიდან მარჯვნივ, ზემოდან ქვემოთ.
 	Print, NextPage, PrevPage, FirstPage or LastPage	Print, NextPage, PrevPage, FirstPage ან LastPage
@@ -2557,7 +2557,7 @@ animation effects	On	ჩართული
 	Printing	ბეჭდვა
 	Printing allowed	ბეჭდვა დაშვებულია
 	Printing condition:	ბეჭდვის პირობა:
-	Print…	დაბეჭდვა…
+	Print…	ბეჭდვა…
 	Privacy	კონფიდენციალურობა
 	Private data of other applications	სხვა აპლიკაციების პირადი მონაცემები
 	Producer	PDF-ის მწარმოებელი
@@ -3047,7 +3047,7 @@ calendar weekday	Sa	შაბ
 	Select text on one page to use this action	ამ ქმედების გამოსაყენებლად მონიშნეთ ტექსტი ერთ გვერდზე
 	Select text, a text box or an image first	ჯერ მონიშნეთ ტექსტი, ტექსტური ბლოკი ან გამოსახულება
 	Select the items to remove from this document.	აირჩიეთ ამ დოკუმენტიდან წასაშლელი ელემენტები.
-	Select the {n} pages with a match, for Extract, Print or Delete	დამთხვევის მქონე {n} გვერდის მონიშვნა ამოღების, დაბეჭდვის ან წაშლისთვის
+	Select the {n} pages with a match, for Extract, Print or Delete	დამთხვევის მქონე {n} გვერდის მონიშვნა ამოღების, ბეჭდვის ან წაშლისთვის
 	Select Tool	მონიშვნის ხელსაწყო
 	Select tools to display on your Home page for quick access.	აირჩიეთ ხელსაწყოები, რომლებიც სწრაფი წვდომისთვის საწყის ეკრანზე გამოჩნდება.
 	Select Trigger:	აირჩიეთ ტრიგერი:
