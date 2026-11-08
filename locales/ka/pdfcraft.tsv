@@ -217,6 +217,7 @@
 	Add to Trusted Certificates	სანდო სერტიფიკატებში დამატება
 	Add to trusted certificates	სანდო სერტიფიკატებში დამატება
 	Add tools to hotbar	ხელსაწყოების დამატება სწრაფი წვდომის ზოლზე
+	Add Tools to Hotbar	ხელსაწყოების დამატება სწრაფი წვდომის ზოლზე
 	Add underline	ხაზგასმის დამატება
 	Add watermark	ჭვირნიშნის დამატება
 	Add watermark…	ჭვირნიშნის დამატება…
@@ -380,6 +381,7 @@ calendar date	August	აგვისტო
 	Auto-rotate	ავტომატური შემობრუნება
 	Auto-rotate pages	გვერდების ავტოშემობრუნება
 	Auto-size text to fit redaction region	ტექსტის ზომის ავტომორგება დაფარვის არეზე
+	Automatic	ავტომატური
 	Automatic (historical model)	ავტომატური (ისტორიული მოდელი)
 	Automatic AcroForm scripts are disabled until safe execution isolation is available; saved field values were preserved. Explicit button and console scripts are still available.	AcroForm-ის ავტომატური სკრიპტები გამორთულია, სანამ შესრულების უსაფრთხო იზოლაცია არ იქნება ხელმისაწვდომი; ველების შენახული მნიშვნელობები შენარჩუნდა. ღილაკისა და კონსოლის აშკარად გაშვებული სკრიპტები კვლავ ხელმისაწვდომია.
 	Automatically	ავტომატურად
@@ -422,6 +424,7 @@ certificate	Basic constraints	ძირითადი შეზღუდვე�
 	Black	შავი
 	Black & White Document	შავ-თეთრი დოკუმენტი
 	Black and white	შავ-თეთრი
+	Black and white (binarize)	შავ-თეთრი (ბინარიზაცია)
 	Black on white	შავი თეთრზე
 	Blank page	ცარიელი გვერდი
 	Bleed marks	ჭრისპირა არის ნიშნები
@@ -455,6 +458,7 @@ certificate	Basic constraints	ძირითადი შეზღუდვე�
 	Bring your own model (off by default)	საკუთარი მოდელის გამოყენება (ნაგულისხმევად გამორთულია)
 	Browser's print dialog	ბრაუზერის ბეჭდვის დიალოგი
 	Browse…	არჩევა…
+	Built-in	ჩაშენებული
 	Bulleted list	ბურთულებიანი სია
 	Butt	ბრტყელი
 	Button	ღილაკი
@@ -476,6 +480,7 @@ certificate	Basic constraints	ძირითადი შეზღუდვე�
 	Can't save as {level}; nothing was changed:	{level}-ად შენახვა შეუძლებელია; არაფერი შეცვლილა:
 	Cancel	გაუქმება
 	Cancel drawing	ხატვის გაუქმება
+	Cancel re-read	ხელახლა წაკითხვის გაუქმება
 	Cancel reverse sides	უკანა მხარეების გაუქმება
 	Canceling…	უქმდება…
 	Cancelled	გაუქმებული
@@ -547,6 +552,7 @@ certificate	Basic constraints	ძირითადი შეზღუდვე�
 	Check Box Style:	მოსანიშნი ველის სტილი:
 	Check for accessibility	ხელმისაწვდომობის შემოწმება
 	Check for accessibility…	ხელმისაწვდომობის შემოწმება…
+	Check for updates when PdfCraft starts	განახლებების შემოწმება PdfCraft-ის გაშვებისას
 	Check for updates…	განახლებების შემოწმება…
 	Check spelling	მართლწერის შემოწმება
 	Check spelling while typing	მართლწერის შემოწმება აკრეფისას
@@ -675,6 +681,7 @@ certificate	Basic constraints	ძირითადი შეზღუდვე�
 	Comb of	უჯრებად დაყოფა:
 	Comb of characters	სიმბოლოების უჯრებად დაყოფა
 	Combine	გაერთიანება
+	Combine engines	ძრავების გაერთიანება
 	Combine files	ფაილების გაერთიანება
 	Combine files in PdfCraft…	ფაილების გაერთიანება PdfCraft-ში…
 	Combine files…	ფაილების გაერთიანება…
@@ -1187,6 +1194,7 @@ key	End	End
 	End entity	საბოლოო სუბიექტი
 	Endpoint	ბოლო წერტილი
 	Endpoints	ბოლო წერტილები
+	Engine	ძრავა
 	ENGINE · STRATEGY	ძრავა · სტრატეგია
 	English	English
 	Enhance camera image	კამერის გამოსახულების გაუმჯობესება
@@ -1232,6 +1240,7 @@ key	Esc	Esc
 	Exclude tagged tables	ტეგირებული ცხრილების გამორიცხვა
 	Exclusions use PDF tags. Untagged tables and code remain included. Image exclusion also removes invisible text.	გამორიცხვა PDF-ის ტეგებს ეყრდნობა. არატეგირებული ცხრილები და კოდი დათვლაში რჩება. გამოსახულებების გამორიცხვა უხილავ ტექსტსაც აკლებს.
 	Execute a menu item	მენიუს ბრძანების შესრულება
+	Exit	გასვლა
 	Expand	გაშლა
 	Expand all	ყველას ჩამოშლა
 	Expand all bookmarks	ყველა სანიშნის ჩამოშლა
@@ -1421,6 +1430,7 @@ calendar date	February	თებერვალი
 	Flip on short edge	გადაბრუნება მოკლე კიდეზე
 	Flip Vertical	ვერტიკალურად არეკვლა
 	Flip vertical	ვერტიკალურად არეკვლა
+	Float	მცურავი
 	Float (drag anywhere)	თავისუფალი (გადაათრიეთ ნებისმიერ ადგილას)
 	Float panel	მცურავი პანელი
 	Folder	საქაღალდე
@@ -1658,6 +1668,7 @@ certificate	Intended usage	დანიშნულება
 	Invert	ინვერსია
 	Invert colors	ფერების ინვერსია
 	Invert everything	ყველაფრის ინვერსია
+	Invert middle-button drag	შუა ღილაკით გადათრევის მიმართულების შებრუნება
 	Invert tones	ტონების ინვერსია
 	Inverted page background	ინვერსიული გვერდის ფონი
 	Inverted text	ინვერსიული ტექსტი
@@ -1747,6 +1758,7 @@ certificate	Key usage	გასაღების გამოყენება
 	Layer options	შრის პარამეტრები
 	Layers	შრეები
 	Layers Panel and Page	შრეების პანელი და გვერდი
+	Layout & Sizing	განლაგება და ზომა
 	Layout and Magnification	განლაგება და მასშტაბი
 	Lbl and LBody	Lbl და LBody
 	Lbl and LBody must be children of LI	Lbl და LBody უნდა იყოს LI-ის შვილები
@@ -2372,6 +2384,7 @@ animation effects	On	ჩართული
 	Panel layout could not be restored: {error}	პანელების განლაგების აღდგენა ვერ მოხერხდა: {error}
 	Panel move was not applied: {error}	პანელის გადატანა არ გამოყენებულა: {error}
 	Panels	პანელები
+	Panning or auto-scrolling with the middle (wheel) button moves the page the other way.	შუა ღილაკით (ბორბლით) ხედის გადაადგილება ან ავტომატური გადახვევა გვერდს საპირისპირო მიმართულებით ამოძრავებს.
 	Paper & Ink	ქაღალდი და მელანი
 	Paper size	ფურცლის ზომა
 	Paper:	ქაღალდი:
@@ -2388,6 +2401,7 @@ animation effects	On	ჩართული
 	Paste	ჩასმა
 	Paste after	ჩასმა შემდეგ
 	Paste an OpenRouter key	OpenRouter-ის გასაღების ჩასმა
+	Paste bookmarks	სანიშნეების ჩასმა
 	Paste comments	კომენტარების ჩასმა
 	Paste field	ველის ჩასმა
 	Paste fields	ველების ჩასმა
@@ -2425,6 +2439,8 @@ animation effects	On	ჩართული
 	PdfCraft web page	PdfCraft-ის ვებგვერდი
 	PdfCraft works offline. No telemetry, no account, and no cloud processing unless you add a provider.	PdfCraft ხაზგარეშე მუშაობს. არანაირი ტელემეტრია, ანგარიში ან ღრუბლოვანი დამუშავება, თუ თავად არ დაამატებთ მომწოდებელს.
 	PdfCraft {v} is available.	ხელმისაწვდომია PdfCraft {v}.
+	PdfCraft's checks found no problems for {level}. This is not a validator result.	PdfCraft-ის შემოწმებებმა {level}-ისთვის პრობლემები ვერ აღმოაჩინა. ეს ვალიდატორის შედეგი არ არის.
+	PdfCraft's checks now find no problems for {level}. This is not a validator result. Save to keep the changes.	PdfCraft-ის შემოწმებები {level}-ისთვის პრობლემებს აღარ პოულობს. ეს ვალიდატორის შედეგი არ არის. ცვლილებების შესანარჩუნებლად შეინახეთ.
 	People may need more time to respond. Check that nothing has a time limit.	ადამიანებს პასუხისთვის შეიძლება მეტი დრო დასჭირდეთ. შეამოწმეთ, რომ არაფერს აქვს დროის ლიმიტი.
 	Percentage	პროცენტული
 	Perimeter	პერიმეტრი
@@ -2574,6 +2590,8 @@ certificate	Public key	საჯარო გასაღები
 	re-encoded in the target space; JPEGs stay JPEG	ხელახლა კოდირებულია სამიზნე სივრცეში; JPEG-ები JPEG-ად რჩება
 	Re-OCR entire page	მთელი გვერდის ხელახლა OCR
 	Re-OCR this region	ამ არის ხელახლა OCR
+	Re-reading the page…	გვერდის ხელახლა წაკითხვა…
+	Re-reading the region…	არის ხელახლა წაკითხვა…
 	Re-type Password	გაიმეორეთ პაროლი
 	Read	წაკითხვა
 	Read and comment	წაკითხვა და კომენტირება
@@ -2692,6 +2710,7 @@ certificate	Public key	საჯარო გასაღები
 	Remove printer marks	საბეჭდი ნიშნების წაშლა
 	Remove redaction marks	დაფარვის ნიშნების მოხსნა
 	Remove saved {what}	შენახული {what} წაშლა
+	Remove scan speckle	სკანირების ლაქების მოცილება
 	Remove security	დაცვის მოხსნა
 	Remove security?	მოიხსნას დაცვა?
 	Remove Signature	ხელმოწერის წაშლა
@@ -3290,8 +3309,10 @@ action wizard	Start	დაწყება
 	Stopped before the end.	შეჩერდა ბოლომდე მისვლამდე.
 	Stopped: too many files took too long to read.	შეჩერდა: ძალიან ბევრი ფაილის წაკითხვას ზედმეტად დიდი დრო დასჭირდა.
 	Store JPEG images as JPEG XL (smaller, can be undone; needs a reader that supports JPEG XL)	JPEG გამოსახულებების JPEG XL-ად შენახვა (უფრო მცირე, შექცევადია; საჭიროებს JPEG XL-ის მხარდამჭერ წამკითხველს)
+	Straighten pages scanned sideways or upside down	გვერდულად ან თავდაყირა დასკანერებული გვერდების გასწორება
 	Straighten scanned page	დასკანერებული გვერდის გასწორება
 	Straighten skewed scans	დახრილი სკანების გასწორება
+	Straighten skewed text lines	დახრილი ტექსტის სტრიქონების გასწორება
 	Straighten the page	გვერდის გასწორება
 	Straightens skewed text lines before reading	კითხვამდე ასწორებს ტექსტის დახრილ სტრიქონებს
 	Strength: {s}	სიძლიერე: {s}
@@ -3363,6 +3384,7 @@ certificate	Subject	საგანი
 	Take a snapshot	მომენტალური ასლის შექმნა
 	Take this paper size off the list	ამ ფურცლის ზომის სიიდან ამოღება
 	Task	ამოცანა
+	Tesseract	Tesseract
 	Test voice	ხმის მოსმენა
 	Text	ტექსტი
 	Text (plain)	ტექსტი (უბრალო)
@@ -3551,6 +3573,7 @@ calendar weekday	Th	ხუთ
 	The provider's page didn't come back in time. Try again.	მომწოდებლის გვერდი დროულად არ დაბრუნდა. სცადეთ ხელახლა.
 	The raw text was truncated to what fits.	დაუმუშავებელი ტექსტი შემოკლდა იმდენზე, რამდენიც ეტევა.
 	The re-read found no text; the existing words are unchanged	ხელახლა წაკითხვამ ტექსტი ვერ იპოვა; არსებული სიტყვები უცვლელია
+	The re-read was cancelled; the words are unchanged	ხელახლა წაკითხვა გაუქმდა; სიტყვები უცვლელია
 	The redaction does not fit page {page}; no pages were marked.	დაფარვა {page} გვერდზე არ ეტევა; არცერთი გვერდი არ მარკირებულა.
 	The redirect URI must be http://127.0.0.1 or http://localhost with a port.	გადამისამართების URI უნდა იყოს http://127.0.0.1 ან http://localhost პორტით.
 	The region was read again; its words were replaced (undo in the panel)	არე ხელახლა წაიკითხა; მისი სიტყვები ჩანაცვლდა (დაბრუნება პანელშია)
