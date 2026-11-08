@@ -408,14 +408,14 @@ theme	Appearance	იერსახე
 	Exclusion	გამორიცხვა
 	Exit	გასვლა
 	Expand	გაშლა
-	Export	ექსპორტი
+	Export	ექსპორტირება
 	Export As	ექსპორტი სხვა ფორმატით
 	Export As…	ექსპორტი სხვა ფორმატით…
 	Export PDF	PDF ექსპორტი
 	Export to	ექსპორტი ფორმატში
 	Exported to {path}	ექსპორტირებულია: {path}
 	Exported {path}	ექსპორტირებულია: {path}
-	Export…	ექსპორტი…
+	Export…	ექსპორტირება…
 	Exposure	ექსპოზიცია
 	Expression	გამოსახულება
 	Extract	ამოღება
@@ -886,11 +886,11 @@ theme	Appearance	იერსახე
 	Previous Change	წინა ცვლილება
 	Previous Page	წინა გვერდი
 	Previous page	წინა გვერდი
-	Print	დაბეჭდვა
+	Print	ბეჭდვა
 	Printer	პრინტერი
 	Printer:	პრინტერი:
 	Printing	ბეჭდვა
-	Print…	დაბეჭდვა…
+	Print…	ბეჭდვა…
 	Profile	პროფილი
 	Progressive	პროგრესული
 	Proof Setup	საცდელი ჩვენების პარამეტრები
@@ -1091,7 +1091,7 @@ theme	Appearance	იერსახე
 	Speed	სიჩქარე
 	Spelling	მართლწერა
 	Spherize	სფერიზება
-	Split	გაყოფა
+	Split	დაყოფა
 	Spot Color	სპოტ-ფერი
 	Spray Radius	შესხურების რადიუსი
 	Square	კვადრატი
