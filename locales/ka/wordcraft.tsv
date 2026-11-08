@@ -937,7 +937,7 @@ numerals	Context	კონტექსტური
 	Expand or Collapse Heading	სათაურის გაშლა ან ჩაკეცვა
 	Exponential	ექსპონენტა
 	Exponential series	ექსპონენციალური მწკრივი
-	Export	ექსპორტი
+	Export	ექსპორტირება
 	Export a copy to share (PDF, Word document)	ასლის ექსპორტირება გასაზიარებლად (PDF, Word დოკუმენტი)
 	Export Page as PNG	გვერდის PNG ფაილად ექსპორტირება
 	Export PDF	PDF ექსპორტი
@@ -1960,9 +1960,9 @@ template	Letter	წერილი
 	Previous Section	წინა სექცია
 	Previous Sentence	წინა წინადადება
 	Previous sentence	წინა წინადადება
-	Print	დაბეჭდვა
-	Print Documents	დოკუმენტების დაბეჭდვა
-	Print Documents…	დოკუმენტების დაბეჭდვა…
+	Print	ბეჭდვა
+	Print Documents	დოკუმენტების ბეჭდვა
+	Print Documents…	დოკუმენტების ბეჭდვა…
 	Print failed: the printing worker stopped.	ბეჭდვა ვერ მოხერხდა: ბეჭდვის პროცესი შეჩერდა.
 	Print failed: {error}	ბეჭდვა ვერ მოხერხდა: {error}
 	Print job submitted.	ბეჭდვის დავალება გაიგზავნა.
@@ -1972,7 +1972,7 @@ template	Letter	წერილი
 	Print Markup	მარკირების ბეჭდვა
 	Print settings	ბეჭდვის პარამეტრები
 	Print the page color	გვერდის ფერის ბეჭდვა
-	Print to PDF	PDF-ად დაბეჭდვა
+	Print to PDF	PDF-ად ბეჭდვა
 	Print\nLayout	ბეჭდვის\nგანლაგება
 	Printer	პრინტერი
 	Printer default	პრინტერის ნაგულისხმევი
@@ -2051,7 +2051,7 @@ template	Letter	წერილი
 	Redo	ხელახლა შესრულება
 	Reduce Hanging Indent	გამოწეული სტრიქონის შემცირება
 	Reference type:	ბმულის ტიპი:
-	References	ცნობარები
+	References	წყაროები
 	Reflection	არეკვლა
 	Refresh	განახლება
 	Refresh printers	პრინტერების განახლება
