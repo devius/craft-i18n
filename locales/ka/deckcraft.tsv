@@ -540,10 +540,10 @@
 	Exit	გასვლა
 	Exit Edit Points	წერტილების რედაქტირებიდან გასვლა
 	Expand	გაშლა
-	Export	ექსპორტი
+	Export	ექსპორტირება
 	Export the presentation as:	პრეზენტაციის ექსპორტი, როგორც:
 	Exported {path}	ექსპორტირებულია: {path}
-	Export…	ექსპორტი…
+	Export…	ექსპორტირება…
 	Extra Large (1920 px wide)	ძალიან დიდი (სიგანე 1920 px)
 	Eyedropper	პიპეტი
 	Eyedropper: click the slide (Esc cancels)	პიპეტი: დაწკაპეთ სლაიდზე (Esc აუქმებს)
@@ -1120,7 +1120,7 @@
 	Previous	წინა
 	Previous Page	წინა გვერდი
 	Previous Slide	წინა სლაიდი
-	Print	დაბეჭდვა
+	Print	ბეჭდვა
 	Print (220 ppi): excellent quality on most printers and screens	ბეჭდვა (220 ppi): შესანიშნავი ხარისხი პრინტერებისა და ეკრანების უმეტესობაზე
 	Print All Slides	ყველა სლაიდის დაბეჭდვა
 	Print Current Slide	მიმდინარე სლაიდის დაბეჭდვა
@@ -1129,7 +1129,7 @@
 	Print layout:	ბეჭდვის განლაგება:
 	Print range	ბეჭდვის დიაპაზონი
 	Print them for your audience	დაბეჭდეთ ისინი თქვენი აუდიტორიისთვის
-	Print…	დაბეჭდვა…
+	Print…	ბეჭდვა…
 	Product Information	ინფორმაცია პროდუქტის შესახებ
 	Program:	პროგრამა:
 	Promote	დაწინაურება
@@ -1430,9 +1430,9 @@
 	Spinner	სპინერი
 	Spiral Left	სპირალი მარცხნივ
 	Spiral Right	სპირალი მარჯვნივ
-	Split	გაყოფა
-	Split Cells	უჯრების დაყოფა
-	Split\nCells	უჯრების\nდაყოფა
+	Split	დაყოფა
+	Split Cells	უჯრების გაყოფა
+	Split\nCells	უჯრების\nგაყოფა
 	Spring	ზამბარა
 	Square	კვადრატი
 	Square Dot	კვადრატული წერტილები
