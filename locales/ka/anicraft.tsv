@@ -27,7 +27,7 @@
 	A recovery copy of your unsaved work. If AniCraft closes unexpectedly, the next start offers it back.	თქვენი შეუნახავი სამუშაოს სარეზერვო ასლი. თუ AniCraft მოულოდნელად დაიხურება, შემდეგ გაშვებაზე მის აღდგენას შემოგთავაზებთ.
 	A round eraser	მრგვალი საშლელი
 	A round or oval tip	მრგვალი ან ოვალური წვერი
-	A script runs only when all of it is in the ActionScript 3.0 subset AniCraft runs: timeline control (stop, play, go to a frame or label), mouse listeners, trace, and setting x, y, alpha, visible, rotation and scale on named instances. Until then it is kept as written and doesn't run.	სკრიპტი მხოლოდ მაშინ სრულდება, როცა მთლიანად ActionScript 3.0-ის იმ ქვესიმრავლეშია, რომელსაც AniCraft ასრულებს: დროის ხაზის მართვა (stop, play, კადრზე ან ჭდეზე გადასვლა), მაუსის მსმენელები, trace და სახელიან ინსტანსებზე x, y, alpha, visible, rotation და scale-ის დაყენება. მანამდე ის ისე ინახება, როგორც დაწერილია, და არ სრულდება.
+	A script runs only when all of it is in the ActionScript 3.0 subset AniCraft runs: timeline control (stop, play, go to a frame or label), mouse listeners, trace, and setting x, y, alpha, visible, rotation and scale on named instances. Until then it is kept as written and doesn't run.	სკრიპტი მხოლოდ მაშინ სრულდება, როცა მთლიანად ActionScript 3.0-ის იმ ქვესიმრავლეშია, რომელსაც AniCraft ასრულებს: ტაიმლაინის მართვა (stop, play, კადრზე ან ჭდეზე გადასვლა), მაუსის მსმენელები, trace და სახელიან ინსტანსებზე x, y, alpha, visible, rotation და scale-ის დაყენება. მანამდე ის ისე ინახება, როგორც დაწერილია, და არ სრულდება.
 	A sound keeps at least one point	ხმას სულ მცირე ერთი წერტილი რჩება
 	A square eraser	კვადრატული საშლელი
 	A square or flat tip	კვადრატული ან ბრტყელი წვერი
@@ -60,11 +60,11 @@
 	Add Motion Path Point	მოძრაობის ტრაექტორიის წერტილის დამატება
 	Add Shape Hint	ფორმის მინიშნების დამატება
 	Add to / remove from selection	მონიშნულში დამატება / მონიშნულიდან ამოღება
-	Added a camera. Drag on the stage to pan it, turn it with the round handle, zoom with the wheel. {undo} to undo.	კამერა დაემატა. კამერის გადასაადგილებლად ტილოზე გადაათრიეთ, მრგვალი სახელურით შემოაბრუნეთ, ბორბლით შეცვალეთ მასშტაბი. დასაბრუნებლად: {undo}.
+	Added a camera. Drag on the stage to pan it, turn it with the round handle, zoom with the wheel. {undo} to undo.	კამერა დაემატა. კამერის გადასაადგილებლად სცენაზე გადაათრიეთ, მრგვალი სახელურით შემოაბრუნეთ, ბორბლით შეცვალეთ მასშტაბი. დასაბრუნებლად: {undo}.
 	Added a point to the motion path. {undo} to undo.	მოძრაობის ტრაექტორიას წერტილი დაემატა. დასაბრუნებლად: {undo}.
 	Added a point. {undo} to undo.	წერტილი დაემატა. დასაბრუნებლად: {undo}.
 	Added shape hint {letter}: drag it onto an edge here, then onto the matching edge on the tween's last keyframe.	დაემატა ფორმის მინიშნება {letter}: გადაათრიეთ აქ კიდეზე, შემდეგ კი შესაბამის კიდეზე ინტერპოლაციის ბოლო საკვანძო კადრში.
-	Adds it at the centre of the view, on the active layer (Enter, or drag it onto the stage)	ამატებს ხედის ცენტრში, აქტიურ შრეზე (Enter, ან გადაათრიეთ ტილოზე)
+	Adds it at the centre of the view, on the active layer (Enter, or drag it onto the stage)	ამატებს ხედის ცენტრში, აქტიურ შრეზე (Enter, ან გადაათრიეთ სცენაზე)
 	Adjust Color	ფერის კორექცია
 	Adjust colour	ფერის კორექცია
 	After	მომდევნო
@@ -75,9 +75,9 @@
 	Align left	მარცხნივ სწორება
 	Align on Multiple Frames	სწორება რამდენიმე კადრზე
 	Align right	მარჯვნივ სწორება
-	Align to Stage On / Off	ტილოსთან სწორება: ჩართვა / გამორთვა
-	Align to the stage instead of the selection's bounds (a single shape always aligns to the stage)	სწორება ტილოსთან და არა მონიშნულის საზღვრებთან (ცალკეული ფიგურა ყოველთვის ტილოსთან სწორდება)
-	Align: to stage	სწორება: ტილოსთან
+	Align to Stage On / Off	სცენასთან სწორება: ჩართვა / გამორთვა
+	Align to the stage instead of the selection's bounds (a single shape always aligns to the stage)	სწორება სცენასთან და არა მონიშნულის საზღვრებთან (ცალკეული ფიგურა ყოველთვის სცენასთან სწორდება)
+	Align: to stage	სწორება: სცენასთან
 	Align: to the selection	სწორება: მონიშნულთან
 	Allow Smoothing	დაგლუვების დაშვება
 	Allow smoothing	დაგლუვების დაშვება
@@ -112,7 +112,7 @@
 	Arrow keys	ისრიანი კლავიშები
 	Artwork on Multiple Frames	ნახატი რამდენიმე კადრზე
 	Ascending: click for descending	ზრდადობით: დაწკაპეთ კლებადობით დასალაგებლად
-	At the centre of the view, on the active layer (Enter; or drag onto the stage)	ხედის ცენტრში, აქტიურ შრეზე (Enter; ან გადაათრიეთ ტილოზე)
+	At the centre of the view, on the active layer (Enter; or drag onto the stage)	ხედის ცენტრში, აქტიურ შრეზე (Enter; ან გადაათრიეთ სცენაზე)
 	Auto	ავტომატური
 	Autosave	ავტოშენახვა
 	Autosave after this many changes	ავტოშენახვა ამდენი ცვლილების შემდეგ
@@ -126,7 +126,7 @@
 @plural	Autosaved {when} · {n} frame · {scenes} scenes|Autosaved {when} · {n} frames · {scenes} scenes	ავტომატურად შენახულია {when} · {n} კადრი · {scenes} სცენა|ავტომატურად შენახულია {when} · {n} კადრი · {scenes} სცენა
 @plural	Autosaved {when} · {n} frame|Autosaved {when} · {n} frames	ავტომატურად შენახულია {when} · {n} კადრი|ავტომატურად შენახულია {when} · {n} კადრი
 	Back to the default ({keys})	ნაგულისხმევზე დაბრუნება ({keys})
-	Back to the stage as it is: centred, 100 %, no turn, no tint	ტილოს თავდაპირველ მდგომარეობაზე დაბრუნება: ცენტრში, 100 %, შემობრუნებისა და ტონირების გარეშე
+	Back to the stage as it is: centred, 100 %, no turn, no tint	სცენის თავდაპირველ მდგომარეობაზე დაბრუნება: ცენტრში, 100 %, შემობრუნებისა და ტონირების გარეშე
 	Back to the straight path the X and Y curves trace	დაბრუნება სწორ ტრაექტორიაზე, რომელსაც X და Y მრუდები ხაზავს
 	Back to the theme's colours	თემის ფერებზე დაბრუნება
 	Back to this symbol	ამ სიმბოლოზე დაბრუნება
@@ -136,7 +136,7 @@
 	Bend	მოხრა
 	Bend Segment	სეგმენტის მოხრა
 	Bevel	წაკვეთილი
-	Bevel highlight colour	წაკვეთილის ნათელი მხარის ფერი
+	Bevel highlight colour	წაკვეთილის შუქის ფერი
 	Bevel offset	წაკვეთილის წანაცვლება
 	Bevel shadow colour	წაკვეთილის ჩრდილის ფერი
 	Bitmap	ბიტმაპი
@@ -223,7 +223,7 @@
 	Close large gaps	დიდი ღრეჩოების დახურვა
 	Close medium gaps	საშუალო ღრეჩოების დახურვა
 	Close small gaps	მცირე ღრეჩოების დახურვა
-	Code in a scripting language (such as an Animate document's ActionScript), kept with the document. ActionScript 3.0 runs when it uses only timeline control, mouse listeners, trace and instance properties	სკრიპტულ ენაზე დაწერილი კოდი (მაგალითად, Animate-ის დოკუმენტის ActionScript), რომელიც დოკუმენტთან ერთად ინახება. ActionScript 3.0 სრულდება, როცა მხოლოდ დროის ხაზის მართვას, მაუსის მსმენელებს, trace-ს და ინსტანსის თვისებებს იყენებს
+	Code in a scripting language (such as an Animate document's ActionScript), kept with the document. ActionScript 3.0 runs when it uses only timeline control, mouse listeners, trace and instance properties	სკრიპტულ ენაზე დაწერილი კოდი (მაგალითად, Animate-ის დოკუმენტის ActionScript), რომელიც დოკუმენტთან ერთად ინახება. ActionScript 3.0 სრულდება, როცა მხოლოდ ტაიმლაინის მართვას, მაუსის მსმენელებს, trace-ს და ინსტანსის თვისებებს იყენებს
 	Collapse All Folders	ყველა საქაღალდის აკეცვა
 	Colour	ფერი
 	Colour of the frames after the playhead	დაკვრის კურსორის შემდეგი კადრების ფერი
@@ -346,23 +346,23 @@
 	Drag bones or instances with the Selection tool to pose; a pose at another frame keys it, and poses tween.	პოზის მისაცემად გადაათრიეთ ძვლები ან ინსტანსები მონიშვნის ხელსაწყოთი; სხვა კადრზე მიცემული პოზა საკვანძო კადრს ქმნის, პოზებს შორის კი ინტერპოლაცია ხდება.
 	Drag from one symbol instance to another to join them with a bone (they move to an armature layer); start on a bone's end to continue the chain. Click a bone to select it. Pose the armature by dragging bones or instances with the Selection tool.	გადაათრიეთ ერთი სიმბოლოს ინსტანსიდან მეორემდე მათ ძვლით დასაკავშირებლად (ისინი ჩონჩხის შრეზე გადავა); ჯაჭვის გასაგრძელებლად დაიწყეთ ძვლის ბოლოდან. ძვლის მოსანიშნად დაწკაპეთ მასზე. ჩონჩხს პოზა მიეცით მონიშვნის ხელსაწყოთი ძვლების ან ინსტანსების გადათრევით.
 	Drag from the centre to draw a star.	ვარსკვლავის დასახატად გადაათრიეთ ცენტრიდან.
-	Drag on the stage to pan the camera, drag the round handle to turn it, and use the wheel to zoom (each drag is one undo step). Picking the tool adds a camera if the scene has none.	კამერის გადასაადგილებლად ტილოზე გადაათრიეთ, შესაბრუნებლად მრგვალი სახელური გადაათრიეთ, მასშტაბისთვის ბორბალი გამოიყენეთ (ყოველი გადათრევა დაბრუნების ერთი ნაბიჯია). თუ სცენას კამერა არ აქვს, ხელსაწყოს არჩევა მას დაამატებს.
+	Drag on the stage to pan the camera, drag the round handle to turn it, and use the wheel to zoom (each drag is one undo step). Picking the tool adds a camera if the scene has none.	კამერის გადასაადგილებლად სცენაზე გადაათრიეთ, შესაბრუნებლად მრგვალი სახელური გადაათრიეთ, მასშტაბისთვის ბორბალი გამოიყენეთ (ყოველი გადათრევა დაბრუნების ერთი ნაბიჯია). თუ სცენას კამერა არ აქვს, ხელსაწყოს არჩევა მას დაამატებს.
 	Drag to choose how many frames onion skin shows before and after the playhead	გადაათრიეთ, რომ აირჩიოთ, ხახვის ფენებმა დაკვრის კურსორამდე და მის შემდეგ რამდენი კადრი აჩვენოს
 	Drag to choose the frames onion skin shows (anchored: they stay when the playhead moves)	გადაათრიეთ, რომ აირჩიოთ კადრები, რომლებსაც ხახვის ფენები აჩვენებს (დამაგრებული: დაკვრის კურსორის მოძრაობისას ადგილზე რჩება)
 	Drag to draw a line. Shift snaps to 45°.	ხაზის დასახატად გადაათრიეთ. Shift 45°-ით ებმის.
 	Drag to draw a rectangle. Shift draws a square.	მართკუთხედის დასახატად გადაათრიეთ. Shift კვადრატს ხატავს.
 	Drag to draw an oval. Shift draws a circle.	ოვალის დასახატად გადაათრიეთ. Shift წრეს ხატავს.
 	Drag to draw freehand. The options bar sets Smooth, Straighten or Ink.	თავისუფლად სახატავად გადაათრიეთ. პარამეტრების ზოლში აირჩევა დაგლუვება, გასწორება ან მელანი.
-	Drag to erase lines and fills drawn with Object Drawing off (drawing objects and symbols are kept). [ and ] change the size; the options set the shape and erase mode, and the Faucet deletes a whole fill or line with a click. Double-click the tool to erase everything on the stage.	გადაათრიეთ ობიექტური ხატვის გამორთვით დახატული ხაზებისა და შევსებების წასაშლელად (სახატავი ობიექტები და სიმბოლოები რჩება). [ და ] ზომას ცვლის; პარამეტრები ფორმასა და წაშლის რეჟიმს ადგენს, ონკანი კი ერთი დაწკაპებით მთლიან შევსებას ან ხაზს შლის. ტილოზე ყველაფრის წასაშლელად ხელსაწყოზე ორჯერ დაწკაპეთ.
+	Drag to erase lines and fills drawn with Object Drawing off (drawing objects and symbols are kept). [ and ] change the size; the options set the shape and erase mode, and the Faucet deletes a whole fill or line with a click. Double-click the tool to erase everything on the stage.	გადაათრიეთ ობიექტებად ხატვის გამორთვით დახატული ხაზებისა და შევსებების წასაშლელად (სახატავი ობიექტები და სიმბოლოები რჩება). [ და ] ზომას ცვლის; პარამეტრები ფორმასა და წაშლის რეჟიმს ადგენს, ონკანი კი ერთი დაწკაპებით მთლიან შევსებას ან ხაზს შლის. სცენაზე ყველაფრის წასაშლელად ხელსაწყოზე ორჯერ დაწკაპეთ.
 	Drag to paint filled shapes in the fill colour (a click paints a dab). [ and ] change the size; the options set the shape, smoothing and paint mode.	გადაათრიეთ შევსების ფერით შევსებული ფიგურების დასახატად (დაწკაპება ერთ ლაქას ხატავს). [ და ] ზომას ცვლის; პარამეტრები ფორმას, დაგლუვებასა და ხატვის რეჟიმს ადგენს.
-	Drag to pan the stage. Space works with any tool.	ტილოს გადასაადგილებლად გადაათრიეთ. Space ნებისმიერ ხელსაწყოსთან მუშაობს.
+	Drag to pan the stage. Space works with any tool.	სცენის გადასაადგილებლად გადაათრიეთ. Space ნებისმიერ ხელსაწყოსთან მუშაობს.
 	Dragged points and selections snap to points, lines and fill edges within 10 pixels (the magnet under the tools)	გადათრეული წერტილები და მონიშნული ობიექტები 10 პიქსელის ფარგლებში წერტილებს, ხაზებსა და შევსების კიდეებს ებმის (მაგნიტი ხელსაწყოების ქვემოთ)
 	Draw onion frames as outlines only	ხახვის ფენების კადრების მხოლოდ კონტურებად ჩვენება
 	Drawing	ხატვა
 	Drawing on {adapter}, straight into the window.	ხატვა {adapter}-ზე, პირდაპირ ფანჯარაში.
 	Drawing on {adapter}, then copied to the window (slower: the window's graphics device can't be shared).	ხატვა {adapter}-ზე, შემდეგ ფანჯარაში კოპირება (უფრო ნელია: ფანჯრის გრაფიკული მოწყობილობის გაზიარება შეუძლებელია).
 	Drawing, image or sound	ნახატი, გამოსახულება ან ხმა
-	Draws the stage on the graphics card, and on the CPU when there is no card that can. The picture is the same either way.	ტილოს ხატავს ვიდეობარათზე, ხოლო თუ შესაფერისი ბარათი არ არის — CPU-ზე. გამოსახულება ორივე შემთხვევაში ერთნაირია.
+	Draws the stage on the graphics card, and on the CPU when there is no card that can. The picture is the same either way.	სცენას ხატავს ვიდეობარათზე, ხოლო თუ შესაფერისი ბარათი არ არის — CPU-ზე. გამოსახულება ორივე შემთხვევაში ერთნაირია.
 	Drop	დასმა
 	Drop Shadow	ჩრდილი
 	Duplicate	დუბლირება
@@ -434,7 +434,7 @@
 	Events	მოვლენები
 	Every	ინტერვალი
 	Every edit renders before the next frame. Lowest latency; can stutter on very heavy scenes.	ყოველი ცვლილება შემდეგ კადრამდე რენდერდება. ყველაზე მცირე დაყოვნება; ძალიან მძიმე სცენებზე შეიძლება შეფერხდეს.
-	Every frame of the timeline	დროის ხაზის ყველა კადრი
+	Every frame of the timeline	ტაიმლაინის ყველა კადრი
 	Every shortcut is back to the defaults.	ყველა მალსახმობი ნაგულისხმევზე დაბრუნდა.
 	Exit	გასვლა
 	Expand All Folders	ყველა საქაღალდის გაშლა
@@ -468,7 +468,7 @@
 	Fade by Distance	მიმქრალება დაშორების მიხედვით
 	Fade in	თანდათან გაძლიერება
 	Fade left to right	გადასვლა მარცხნიდან მარჯვნივ
-	Fade out	ჩაქრობა
+	Fade out	თანდათან ჩაქრობა
 	Fade right to left	გადასვლა მარჯვნიდან მარცხნივ
 	Falls from full volume to silence while it plays	დაკვრისას სრული ხმიდან თანდათან სიჩუმემდე ქრება
 	Faucet	ონკანი
@@ -496,8 +496,8 @@
 	Fit	ჩატევა
 	Fit in Window	ფანჯარაში ჩატევა
 	Fit in window	ფანჯარაში ჩატევა
-	Fit Stage in Window	ტილოს ფანჯარაში ჩატევა
-	Fit stage in window	ტილოს ფანჯარაში ჩატევა
+	Fit Stage in Window	სცენის ფანჯარაში ჩატევა
+	Fit stage in window	სცენის ფანჯარაში ჩატევა
 	Fits smooth curves to the stroke, keeping sharp corners.	ხაზს გლუვ მრუდებად აქცევს და მკვეთრ კუთხეებს ინარჩუნებს.
 	fixed	ფიქსირებული
 	Flip Horizontal	ჰორიზონტალურად არეკვლა
@@ -505,7 +505,7 @@
 	Folder	საქაღალდე
 @plural	Folder · {n} item|Folder · {n} items	საქაღალდე · {n} ელემენტი|საქაღალდე · {n} ელემენტი
 @plural	Folder · {n} layer|Folder · {n} layers	საქაღალდე · {n} შრე|საქაღალდე · {n} შრე
-	Folders and guide layers don't run actions. Pick another layer in the timeline.	საქაღალდეები და დამხმარე შრეები მოქმედებებს არ ასრულებს. აირჩიეთ სხვა შრე დროის ხაზზე.
+	Folders and guide layers don't run actions. Pick another layer in the timeline.	საქაღალდეები და დამხმარე შრეები მოქმედებებს არ ასრულებს. აირჩიეთ სხვა შრე ტაიმლაინზე.
 	Folders hold layers, not frames. Hiding or locking the folder hides or locks everything in it; move layers in under it with Up and Down.	საქაღალდე შრეებს შეიცავს და არა კადრებს. საქაღალდის დამალვა ან ჩაკეტვა მასში არსებულ ყველაფერს მალავს ან კეტავს; შრეები მის ქვეშ აწევითა და ჩამოწევით გადაიტანეთ.
 	Follows the hand closely with little smoothing.	ხელს ზუსტად მიჰყვება, მცირე დაგლუვებით.
 	Font	შრიფტი
@@ -534,12 +534,12 @@
 	frame {number}	კადრი {number}
 	Frames	კადრები
 	Frames farther from the playhead are fainter	რაც უფრო შორსაა კადრი დაკვრის კურსორიდან, მით უფრო მკრთალია
-	Frames here don't run (graphic and button timelines, guide layers); the script is kept with the document.	აქ კადრები არ სრულდება (გრაფიკისა და ღილაკის დროის ხაზები, დამხმარე შრეები); სკრიპტი დოკუმენტთან ერთად ინახება.
+	Frames here don't run (graphic and button timelines, guide layers); the script is kept with the document.	აქ კადრები არ სრულდება (გრაფიკისა და ღილაკის ტაიმლაინები, დამხმარე შრეები); სკრიპტი დოკუმენტთან ერთად ინახება.
 	Frames of {name}	{name}: კადრები
 	Free Transform	თავისუფალი გარდაქმნა
 	Full	სრული
 	Full volume on both channels	სრული ხმა ორივე არხზე
-	Gap length	ღრეჩოს სიგრძე
+	Gap length	შუალედის სიგრძე
 	Gap size	ღრეჩოს ზომა
 	Give every property's segment at this frame this ease	ამ კადრზე ყველა თვისების მონაკვეთისთვის ამ შენელების მინიჭება
 	Glow	ნათება
@@ -570,12 +570,12 @@
 	Hide object	ობიექტის დამალვა
 	High	მაღალი
 	High contrast	მაღალი კონტრასტი
-	Highlight	ნათელი მხარე
+	Highlight	შუქი
 	History	ისტორია
 	Horizontal Center	ჰორიზონტალური ცენტრი
 	Hover a stroke to see its width points. Drag a point's handle to widen or narrow the stroke there (Alt: one side only), drag its dot to slide it along, or drag anywhere on the stroke to add a point. Click a point and press Delete to remove it.	მიიტანეთ კურსორი კონტურზე, რომ მისი სიგანის წერტილები დაინახოთ. კონტურის იმ ადგილას გასაგანიერებლად ან შესავიწროებლად გადაათრიეთ წერტილის სახელური (Alt: მხოლოდ ერთი მხარე), გასწვრივ გადასაადგილებლად — მისი წერტილი, ხოლო ახალი წერტილის დასამატებლად — კონტურის ნებისმიერი ადგილი. წასაშლელად დაწკაპეთ წერტილს და დააჭირეთ Delete-ს.
 	How corners turn: sharp (Miter), rounded, or cut across (Bevel)	კუთხეების ფორმა: მახვილი, მომრგვალებული ან წაკვეთილი
-	How far behind the stage this layer is: when the camera pans, a deeper layer moves less (parallax). Negative is in front.	რამდენად შორსაა ეს შრე ტილოს უკან: კამერის პანორამირებისას უფრო ღრმა შრე ნაკლებად მოძრაობს (პარალაქსი). უარყოფითი მნიშვნელობა წინ არის.
+	How far behind the stage this layer is: when the camera pans, a deeper layer moves less (parallax). Negative is in front.	რამდენად შორსაა ეს შრე სცენის უკან: კამერის პანორამირებისას უფრო ღრმა შრე ნაკლებად მოძრაობს (პარალაქსი). უარყოფითი მნიშვნელობა წინ არის.
 	How much the stroke is smoothed: 0 follows the hand closely	რამდენად გლუვდება ხაზი: 0 ხელს ზუსტად მიჰყვება
 	How open ends finish: flat at the end (None), rounded, or squared off past it	ღია ბოლოების ფორმა: ბოლოში ბრტყელი, მომრგვალებული ან ბოლოს მიღმა კვადრატული
 	How the stroke's width varies along it. Shape it by hand with the Width tool (U).	როგორ იცვლება კონტურის სიგანე მის გასწვრივ. ხელით მოარგეთ სიგანის ხელსაწყოთი (U).
@@ -588,8 +588,8 @@
 	Import	იმპორტი
 	Import to library (WAV, OGG or MP3 sound; PNG or JPEG image)	ბიბლიოთეკაში იმპორტი (WAV, OGG ან MP3 ხმა; PNG ან JPEG გამოსახულება)
 	Import to Library…	ბიბლიოთეკაში იმპორტი…
-	Import to stage (SVG, PNG or JPEG; WAV, OGG or MP3 onto a new layer)	ტილოზე იმპორტი (SVG, PNG ან JPEG; WAV, OGG ან MP3 — ახალ შრეზე)
-	Import to Stage…	ტილოზე იმპორტი…
+	Import to stage (SVG, PNG or JPEG; WAV, OGG or MP3 onto a new layer)	სცენაზე იმპორტი (SVG, PNG ან JPEG; WAV, OGG ან MP3 — ახალ შრეზე)
+	Import to Stage…	სცენაზე იმპორტი…
 	Ink	მელანი
 	Ink Bottle	მელნის ბოთლი
 	Inner	შიდა
@@ -615,7 +615,7 @@
 	It is an independent project, not affiliated with or endorsed by Adobe. Bundled fonts and Rust crates keep their own permissive licences, listed below.	ეს დამოუკიდებელი პროექტია, Adobe-სთან არ არის დაკავშირებული და მის მიერ არ არის მოწონებული. ჩაშენებული შრიფტები და Rust crate-ები საკუთარ თავისუფალ ლიცენზიებს ინარჩუნებს, რომლებიც ქვემოთაა ჩამოთვლილი.
 	it is larger than {size} MB	{size} MB-ზე დიდია
 	Italic	დახრილი
-	Its actions run on the timeline it is on: “this” is the main timeline.	მისი მოქმედებები სრულდება იმ დროის ხაზზე, რომელზეც ის მდებარეობს: „this“ მთავარი დროის ხაზია.
+	Its actions run on the timeline it is on: “this” is the main timeline.	მისი მოქმედებები სრულდება იმ ტაიმლაინზე, რომელზეც ის მდებარეობს: „this“ მთავარი ტაიმლაინია.
 	Join	შეერთება
 	Joint Limits	სახსრის ზღვრები
 	Joint maximum angle	სახსრის მაქსიმალური კუთხე
@@ -624,10 +624,10 @@
 	Keep	შენარჩუნება
 	Keep a recovery copy of unsaved work	შეუნახავი სამუშაოს სარეზერვო ასლის შენახვა
 	Keep the markers on their frames instead of moving them with the playhead	მარკერების თავიანთ კადრებზე დატოვება დაკვრის კურსორთან ერთად გადაადგილების ნაცვლად
-	Keeps step with the timeline it is on (looping options below)	სინქრონულად მიჰყვება იმ დროის ხაზს, რომელზეც მდებარეობს (ციკლის პარამეტრები ქვემოთაა)
+	Keeps step with the timeline it is on (looping options below)	სინქრონულად მიჰყვება იმ ტაიმლაინს, რომელზეც მდებარეობს (ციკლის პარამეტრები ქვემოთაა)
 	Kept the autosaved work. File › Recover Autosaved Documents… brings it back.	ავტომატურად შენახული სამუშაო შენარჩუნდა. ფაილი › ავტომატურად შენახული დოკუმენტების აღდგენა… მას დააბრუნებს.
-	Kept with the document as written. ActionScript 3.0 that controls the timeline runs in Test Movie and the HTML canvas export.	დოკუმენტთან ერთად ინახება ისე, როგორც დაწერილია. დროის ხაზის მართვის ActionScript 3.0 სრულდება ფილმის შემოწმებისას და HTML canvas-ის ექსპორტში.
-	Kept with the document, but outside the ActionScript 3.0 subset AniCraft runs (or on a timeline that doesn't run scripts). The first Output lines say why; the Actions panel shows each problem in place.	დოკუმენტთან ერთად ინახება, მაგრამ სცდება ActionScript 3.0-ის იმ ქვესიმრავლეს, რომელსაც AniCraft ასრულებს (ან დროის ხაზზეა, რომელიც სკრიპტებს არ ასრულებს). მიზეზს გამოტანის პირველი სტრიქონები გეტყვით; მოქმედებების პანელი თითოეულ პრობლემას თავის ადგილას აჩვენებს.
+	Kept with the document as written. ActionScript 3.0 that controls the timeline runs in Test Movie and the HTML canvas export.	დოკუმენტთან ერთად ინახება ისე, როგორც დაწერილია. ტაიმლაინის მართვის ActionScript 3.0 სრულდება ფილმის შემოწმებისას და HTML canvas-ის ექსპორტში.
+	Kept with the document, but outside the ActionScript 3.0 subset AniCraft runs (or on a timeline that doesn't run scripts). The first Output lines say why; the Actions panel shows each problem in place.	დოკუმენტთან ერთად ინახება, მაგრამ სცდება ActionScript 3.0-ის იმ ქვესიმრავლეს, რომელსაც AniCraft ასრულებს (ან ტაიმლაინზეა, რომელიც სკრიპტებს არ ასრულებს). მიზეზს გამოტანის პირველი სტრიქონები გეტყვით; მოქმედებების პანელი თითოეულ პრობლემას თავის ადგილას აჩვენებს.
 	Keyboard Shortcuts	კლავიატურის მალსახმობები
 	Keyboard shortcuts (this editor)	კლავიატურის მალსახმობები (ეს რედაქტორი)
 	keyed	საკვანძო კადრით
@@ -656,7 +656,7 @@ left channel	L	L
 	Left channel volume	მარცხენა არხის ხმის დონე
 	Legal compliance	სამართლებრივი შესაბამისობა
 	Length of each dash	თითოეული ტირის სიგრძე
-	Length of each gap	თითოეული ღრეჩოს სიგრძე
+	Length of each gap	თითოეული შუალედის სიგრძე
 	Letter spacing	ასოებს შორის დაშორება
 	Letters	ასოები
 	Library	ბიბლიოთეკა
@@ -692,9 +692,9 @@ left channel	L	L
 	Lottie animation	Lottie ანიმაცია
 	Low	დაბალი
 	macOS	macOS
-	Main timeline frame	მთავარი დროის ხაზის კადრი
-	Make Corner	კუთხოვნად ქცევა
-	Make Smooth	გლუვად ქცევა
+	Main timeline frame	მთავარი ტაიმლაინის კადრი
+	Make Corner	კუთხედ გარდაქმნა
+	Make Smooth	გლუვად გარდაქმნა
 	Manage Plug-ins…	პლაგინების მართვა…
 	Markers	მარკერები
 	Mask	ნიღაბი
@@ -757,14 +757,14 @@ left channel	L	L
 	Movie clip “{name}”	ანიმაციური კლიპი „{name}“
 	Movie clip: {name}	ანიმაციური კლიპი: {name}
 	moving between fields	ველებს შორის გადაადგილება
-	Moving the object on the stage inside the span adds keys here	ამ მონაკვეთში ობიექტის ტილოზე გადაადგილება აქ საკვანძო კადრებს ამატებს
+	Moving the object on the stage inside the span adds keys here	ამ მონაკვეთში ობიექტის სცენაზე გადაადგილება აქ ნიშნებს ამატებს
 	MP3	MP3
 	Multiply	გამრავლება
-	Mute	ხმის გათიშვა
-	Mute layer	შრის ხმის გათიშვა
-	Mute this layer's sounds (in playback and every export)	ამ შრის ხმების გათიშვა (დაკვრისას და ყველა ექსპორტში)
-	Mute {name}	ხმის გათიშვა: {name}
-	Mute/Unmute Layer	შრის ხმის გათიშვა/ჩართვა
+	Mute	დადუმება
+	Mute layer	შრის დადუმება
+	Mute this layer's sounds (in playback and every export)	ამ შრის ხმების დადუმება (დაკვრისას და ყველა ექსპორტში)
+	Mute {name}	დადუმება: {name}
+	Mute/Unmute Layer	შრის დადუმება/დადუმების მოხსნა
 	Name	სახელი
 	Name it to address it from actions (letters, digits and _). Its events work without a name.	დაარქვით სახელი, რომ მოქმედებებიდან მიმართოთ (ასოები, ციფრები და _). მისი მოვლენები სახელის გარეშეც მუშაობს.
 	Never saved	არასოდეს შენახულა
@@ -801,15 +801,15 @@ left channel	L	L
 	not saved yet (File › Save)	ჯერ არ არის შენახული (ფაილი › შენახვა)
 	not used	არ გამოიყენება
 	nothing (not a key)	არაფერი (ეს კლავიში არ არის)
-	Nothing erased: {why}. The eraser works on lines and fills drawn with Object Drawing off; drawing objects and symbols are kept.	არაფერი წაშლილა: {why}. საშლელი მუშაობს ხაზებსა და შევსებებზე, რომლებიც ობიექტური ხატვის გამორთვით არის დახატული; ხატვის ობიექტები და სიმბოლოები ხელუხლებელი რჩება.
+	Nothing erased: {why}. The eraser works on lines and fills drawn with Object Drawing off; drawing objects and symbols are kept.	არაფერი წაშლილა: {why}. საშლელი მუშაობს ხაზებსა და შევსებებზე, რომლებიც ობიექტებად ხატვის გამორთვით არის დახატული; ხატვის ობიექტები და სიმბოლოები ხელუხლებელი რჩება.
 	nothing to erase there	იქ წასაშლელი არაფერია
 	Nothing to erase: the visible, unlocked layers are empty at this frame.	წასაშლელი არაფერია: ხილული, ჩაუკეტავი შრეები ამ კადრზე ცარიელია.
 	Nothing to paint behind there: Paint Behind only paints empty areas.	იქ უკან დასახატი არაფერია: „ხატვა უკან“ მხოლოდ ცარიელ არეებს ღებავს.
 	NOTICE	NOTICE
 	Nudge selection 1 px	მონიშნულის მცირედ გადაწევა 1 px-ით
 	Nudge selection 10 px	მონიშნულის მცირედ გადაწევა 10 px-ით
-	Object Drawing	ობიექტური ხატვა
-	Object drawing	ობიექტური ხატვა
+	Object Drawing	ობიექტებად ხატვა
+	Object drawing	ობიექტებად ხატვა
 	of {frames}	/ {frames}
 	Offset	წანაცვლება
 	Ogg Vorbis	Ogg Vorbis
@@ -868,8 +868,8 @@ left channel	L	L
 	Paints only empty areas, behind the lines and fills on the layer.	ღებავს მხოლოდ ცარიელ არეებს, შრის ხაზებისა და შევსებების უკან.
 	Paints over fills and empty areas, leaving lines alone.	ღებავს შევსებებსა და ცარიელ არეებს, ხაზებს არ ეხება.
 	Paints over lines and fills on the layer.	ღებავს შრის ხაზებსა და შევსებებს.
-	Pan with any tool	პანორამა ნებისმიერი ხელსაწყოთი
-	Panels are docked: Tools, Stage, Timeline, Properties, Library	პანელები მიმაგრებულია: ხელსაწყოები, ტილო, დროის ხაზი, თვისებები, ბიბლიოთეკა
+	Pan with any tool	პანორამირება ნებისმიერი ხელსაწყოთი
+	Panels are docked: Tools, Stage, Timeline, Properties, Library	პანელები მიმაგრებულია: ხელსაწყოები, სცენა, ტაიმლაინი, თვისებები, ბიბლიოთეკა
 	panning with any tool	ნებისმიერი ხელსაწყოთი პანორამირება
 	Paste Frames	კადრების ჩასმა
 	Paste in Center	ცენტრში ჩასმა
@@ -886,13 +886,13 @@ left channel	L	L
 	Pencil	ფანქარი
 	Pencil Stroke	ფანქრის შტრიხი
 	Performance & budgets	წარმადობა და ლიმიტები
-	Pick a key that has another key after it	აირჩიეთ საკვანძო კადრი, რომელსაც მომდევნო საკვანძო კადრი აქვს
+	Pick a key that has another key after it	აირჩიეთ ნიშანი, რომელსაც მომდევნო ნიშანი აქვს
 	Picked the bitmap fill.	აღებულია ბიტმაპით შევსება.
 	Picked the fill {color}.	აღებულია შევსება {color}.
 	Picked the line {color}, {width} px.	აღებულია ხაზი {color}, {width} px.
 	Picked the linear gradient.	აღებულია წრფივი გრადიენტი.
 	Picked the radial gradient.	აღებულია რადიალური გრადიენტი.
-	Picked with the Eyedropper. It stays where it was on the stage (lock fill). Pick a colour to fill with a solid colour again.	აღებულია პიპეტით. ტილოზე იქვე რჩება, სადაც იყო (შევსების ჩაკეტვა). ერთფეროვანი შევსებისთვის ისევ ფერი აირჩიეთ.
+	Picked with the Eyedropper. It stays where it was on the stage (lock fill). Pick a colour to fill with a solid colour again.	აღებულია პიპეტით. სცენაზე იქვე რჩება, სადაც იყო (შევსების ჩაკეტვა). ერთფეროვანი შევსებისთვის ისევ ფერი აირჩიეთ.
 	Picked {color} into the fill colour.	შევსების ფერად აღებულია {color}.
 	Picked {color} into the stroke colour.	კონტურის ფერად აღებულია {color}.
 	Pin	სამაგრი
@@ -905,10 +905,10 @@ left channel	L	L
 	Pinned	დამაგრებულია
 	Pinned point {anchor} to frame {frame}: the object passes it then. {undo} to undo.	წერტილი {anchor} დამაგრდა {frame}-ე კადრზე: ობიექტი მას სწორედ მაშინ გაივლის. დასაბრუნებლად: {undo}.
 	Pinned to Frame {frame}	დამაგრებულია {frame}-ე კადრზე
-	Place on Stage	ტილოზე განთავსება
-	Place on stage	ტილოზე განთავსება
-	Place on Timeline	დროის ხაზზე განთავსება
-	Place on timeline	დროის ხაზზე განთავსება
+	Place on Stage	სცენაზე განთავსება
+	Place on stage	სცენაზე განთავსება
+	Place on Timeline	ტაიმლაინზე განთავსება
+	Place on timeline	ტაიმლაინზე განთავსება
 	Place on {layer}	განთავსება შრეზე {layer}
 	Place Sound	ხმის განთავსება
 	Play	დაკვრა
@@ -923,9 +923,9 @@ left channel	L	L
 	playing	დაკვრა
 	Playing without sound: {e}	ხმის გარეშე უკრავს: {e}
 	Plays again and again: to the end of the movie (event) or of this span (stream)	უკრავს ისევ და ისევ: ფილმის ბოლომდე (მოვლენა) ან ამ მონაკვეთის ბოლომდე (ნაკადი)
-	Plays in full from this keyframe, independent of the timeline	სრულად უკრავს ამ საკვანძო კადრიდან, დროის ხაზისგან დამოუკიდებლად
-	Plays its own timeline on a loop, from when it appears	საკუთარ დროის ხაზს ციკლურად უკრავს გამოჩენის მომენტიდან
-@plural	Plays its {n}-frame timeline on a loop from when it appears.|Plays its {n}-frame timeline on a loop from when it appears.	თავის {n}-კადრიან დროის ხაზს ციკლურად უკრავს გამოჩენის მომენტიდან.|თავის {n}-კადრიან დროის ხაზს ციკლურად უკრავს გამოჩენის მომენტიდან.
+	Plays in full from this keyframe, independent of the timeline	სრულად უკრავს ამ საკვანძო კადრიდან, ტაიმლაინისგან დამოუკიდებლად
+	Plays its own timeline on a loop, from when it appears	საკუთარ ტაიმლაინს ციკლურად უკრავს გამოჩენის მომენტიდან
+@plural	Plays its {n}-frame timeline on a loop from when it appears.|Plays its {n}-frame timeline on a loop from when it appears.	თავის {n}-კადრიან ტაიმლაინს ციკლურად უკრავს გამოჩენის მომენტიდან.|თავის {n}-კადრიან ტაიმლაინს ციკლურად უკრავს გამოჩენის მომენტიდან.
 	Plays on the left channel only	უკრავს მხოლოდ მარცხენა არხზე
 	Plays on the right channel only	უკრავს მხოლოდ მარჯვენა არხზე
 	Plays the sound on its own	ხმას ცალკე უკრავს
@@ -945,7 +945,7 @@ left channel	L	L
 	Pointer out	კურსორის გასვლა
 	Pointer over	კურსორის მიტანა
 	Points	წერტილები
-	Points of the motion path pinned to frames: the object passes each one exactly then, and the X and Y keyframes there are its place. The ends are always pinned. Moving the object on the stage at a frame pins a point there; with the Subselection tool (A), right-click a point to pin or unpin it.	კადრებზე დამაგრებული მოძრაობის ტრაექტორიის წერტილები: ობიექტი თითოეულს ზუსტად იმ კადრზე გაივლის, იქ არსებული X და Y საკვანძო კადრები კი მის ადგილს განსაზღვრავს. ბოლოები ყოველთვის დამაგრებულია. ობიექტის ტილოზე გადაადგილება რომელიმე კადრზე იქ წერტილს ამაგრებს; ნაწილობრივი მონიშვნის ხელსაწყოთი (A) დაწკაპეთ წერტილზე მარჯვენა ღილაკით მის დასამაგრებლად ან მოსახსნელად.
+	Points of the motion path pinned to frames: the object passes each one exactly then, and the X and Y keyframes there are its place. The ends are always pinned. Moving the object on the stage at a frame pins a point there; with the Subselection tool (A), right-click a point to pin or unpin it.	კადრებზე დამაგრებული მოძრაობის ტრაექტორიის წერტილები: ობიექტი თითოეულს ზუსტად იმ კადრზე გაივლის, იქ არსებული X და Y საკვანძო კადრები კი მის ადგილს განსაზღვრავს. ბოლოები ყოველთვის დამაგრებულია. ობიექტის სცენაზე გადაადგილება რომელიმე კადრზე იქ წერტილს ამაგრებს; ნაწილობრივი მონიშვნის ხელსაწყოთი (A) დაწკაპეთ წერტილზე მარჯვენა ღილაკით მის დასამაგრებლად ან მოსახსნელად.
 	PolyStar	მრავალკუთხედი-ვარსკვლავი
 	Pose Armature	ჩონჩხის პოზირება
 	Pose Bone	ძვლის პოზირება
@@ -959,10 +959,10 @@ left channel	L	L
 	Press the new keys for {action}. Esc cancels.	დააჭირეთ ახალ კლავიშებს მოქმედებისთვის „{action}“. Esc აუქმებს.
 	Pressed and released on it	დაჭერა და აშვება მასზე
 	Preview	წინასწარი ნახვა
-	Preview on the stage	წინასწარი ნახვა ტილოზე
+	Preview on the stage	წინასწარი ნახვა სცენაზე
 	Preview Through Camera	წინასწარი ნახვა კამერიდან
 	Preview through camera	წინასწარი ნახვა კამერიდან
-	Preview through camera is on; add a camera (the camera button on the timeline, or the Camera tool) to look through it.	წინასწარი ნახვა კამერიდან ჩართულია; დაამატეთ კამერა (კამერის ღილაკი დროის ხაზზე ან კამერის ხელსაწყო), რომ მისით დაინახოთ.
+	Preview through camera is on; add a camera (the camera button on the timeline, or the Camera tool) to look through it.	წინასწარი ნახვა კამერიდან ჩართულია; დაამატეთ კამერა (კამერის ღილაკი ტაიმლაინზე ან კამერის ხელსაწყო), რომ მისით დაინახოთ.
 	Previewing through the camera: artwork edits are paused. Turn off View › Preview Through Camera to edit.	კამერიდან წინასწარი ნახვისას ნახატის რედაქტირება შეჩერებულია. რედაქტირებისთვის გამორთეთ ხედი › წინასწარი ნახვა კამერიდან.
 	Previous Frame	წინა კადრი
 	Previous frame	წინა კადრი
@@ -982,7 +982,7 @@ left channel	L	L
 	Property keyframe	თვისების საკვანძო კადრი
 	Put every shortcut back to the defaults	ყველა მალსახმობის ნაგულისხმევზე დაბრუნება
 	Put on {layer} at frame {frame}	განთავსება შრეზე {layer}, {frame}-ე კადრზე
-	Puts it on the active layer's keyframe at the playhead (Enter, or drag it onto the stage)	ათავსებს აქტიური შრის საკვანძო კადრზე დაკვრის კურსორთან (Enter, ან გადაათრიეთ ტილოზე)
+	Puts it on the active layer's keyframe at the playhead (Enter, or drag it onto the stage)	ათავსებს აქტიური შრის საკვანძო კადრზე დაკვრის კურსორთან (Enter, ან გადაათრიეთ სცენაზე)
 	Quality	ხარისხი
 	Quit	გასვლა
 	Quit AniCraft	AniCraft-იდან გასვლა
@@ -1039,7 +1039,7 @@ right channel	R	R
 	Removed the press event — {undo} to undo	დაჭერის მოვლენა წაიშალა — დასაბრუნებლად: {undo}
 	Removed the release event — {undo} to undo	აშვების მოვლენა წაიშალა — დასაბრუნებლად: {undo}
 	Removed the script — {undo} to undo	სკრიპტი წაიშალა — დასაბრუნებლად: {undo}
-	Removed the width point. {undo} to undo.	სისქის წერტილი წაიშალა. დასაბრუნებლად: {undo}.
+	Removed the width point. {undo} to undo.	სიგანის წერტილი წაიშალა. დასაბრუნებლად: {undo}.
 	Removed {name}	წაიშალა: {name}
 @plural	Removed {n} frame — {undo} to undo|Removed {n} frames — {undo} to undo	მოცილდა {n} კადრი — დასაბრუნებლად: {undo}|მოცილდა {n} კადრი — დასაბრუნებლად: {undo}
 	Removes the bone and the bones below it; their instances stay where they are, on a layer of their own	შლის ძვალს და მის ქვემოთ მყოფ ძვლებს; მათი ინსტანსები ადგილზე რჩება, საკუთარ შრეზე
@@ -1064,7 +1064,7 @@ right channel	R	R
 	Reset {action}	ჩამოყრა: {action}
 @plural	Reset {n} changed shortcut to the defaults?|Reset {n} changed shortcuts to the defaults?	ჩამოვყაროთ {n} შეცვლილი მალსახმობი ნაგულისხმევზე?|ჩამოვყაროთ {n} შეცვლილი მალსახმობი ნაგულისხმევზე?
 	Resize the right-hand panels	მარჯვენა პანელების ზომის შეცვლა
-	Resize the timeline	დროის ხაზის ზომის შეცვლა
+	Resize the timeline	ტაიმლაინის ზომის შეცვლა
 	Restart from frame 1 with the document as it is now ({key})	თავიდან დაწყება პირველი კადრიდან, დოკუმენტის ამჟამინდელი მდგომარეობით ({key})
 	Restore	აღდგენა
 	Restore Autosaved Document	ავტომატურად შენახული დოკუმენტის აღდგენა
@@ -1110,8 +1110,8 @@ right channel	R	R
 	Screenshots	ეკრანის ანაბეჭდები
 	Script	სკრიპტი
 	Script language	სკრიპტის ენა
-	Scroll the timeline	დროის ხაზის გადახვევა
-	Scroll the timeline (or Shift+wheel anywhere over it)	დროის ხაზის გადახვევა (ან Shift+ბორბალი მასზე ნებისმიერ ადგილას)
+	Scroll the timeline	ტაიმლაინის გადახვევა
+	Scroll the timeline (or Shift+wheel anywhere over it)	ტაიმლაინის გადახვევა (ან Shift+ბორბალი მასზე ნებისმიერ ადგილას)
 	Search	ძიება
 	Search the Library	ბიბლიოთეკაში ძიება
 	Seconds	წამი
@@ -1123,11 +1123,11 @@ right channel	R	R
 	Select Connected	დაკავშირებულის მონიშვნა
 	Select Elements	ელემენტების მონიშვნა
 	Select Layer	შრის მონიშვნა
-	Select one button or movie clip instance on the stage	მონიშნეთ ტილოზე ღილაკის ან ანიმაციური კლიპის ერთი ინსტანსი
-	Select one button or movie clip instance on the stage to give it events (a graphic can't have them: set its symbol's Type in Properties).	მოვლენების მისანიჭებლად მონიშნეთ ტილოზე ღილაკის ან ანიმაციური კლიპის ერთი ინსტანსი (გრაფიკას ისინი არ აქვს: შეცვალეთ მისი სიმბოლოს ტიპი თვისებებში).
+	Select one button or movie clip instance on the stage	მონიშნეთ სცენაზე ღილაკის ან ანიმაციური კლიპის ერთი ინსტანსი
+	Select one button or movie clip instance on the stage to give it events (a graphic can't have them: set its symbol's Type in Properties).	მოვლენების მისანიჭებლად მონიშნეთ სცენაზე ღილაკის ან ანიმაციური კლიპის ერთი ინსტანსი (გრაფიკას ისინი არ აქვს: შეცვალეთ მისი სიმბოლოს ტიპი თვისებებში).
 	Select Parts	ნაწილების მონიშვნა
 	Select some artwork first	ჯერ მონიშნეთ ნახატი
-	Select the object to see its path on the stage. Drag the path to bend it and its ends to move them; {drag} the path or the object to move the whole path. With the Subselection tool (A), drag points and handles, double-click the path to add a point (or Alt-click it with the Pen), Delete removes points, and right-click makes them smooth or corners.	მონიშნეთ ობიექტი, რომ ტილოზე მისი ტრაექტორია დაინახოთ. ტრაექტორიის მოსახრელად გადაათრიეთ იგი, ბოლოების გადასაადგილებლად კი — ბოლოები; მთელი ტრაექტორიის გადასაადგილებლად გამოიყენეთ {drag} ტრაექტორიაზე ან ობიექტზე. ნაწილობრივი მონიშვნის ხელსაწყოთი (A) გადაათრიეთ წერტილები და სახელურები, წერტილის დასამატებლად ორჯერ დაწკაპეთ ტრაექტორიაზე (ან კალმით Alt-ით დაწკაპეთ), Delete შლის წერტილებს, მარჯვენა ღილაკით დაწკაპება კი მათ გლუვ ან კუთხოვან წერტილებად აქცევს.
+	Select the object to see its path on the stage. Drag the path to bend it and its ends to move them; {drag} the path or the object to move the whole path. With the Subselection tool (A), drag points and handles, double-click the path to add a point (or Alt-click it with the Pen), Delete removes points, and right-click makes them smooth or corners.	მონიშნეთ ობიექტი, რომ სცენაზე მისი ტრაექტორია დაინახოთ. ტრაექტორიის მოსახრელად გადაათრიეთ იგი, ბოლოების გადასაადგილებლად კი — ბოლოები; მთელი ტრაექტორიის გადასაადგილებლად გამოიყენეთ {drag} ტრაექტორიაზე ან ობიექტზე. ნაწილობრივი მონიშვნის ხელსაწყოთი (A) გადაათრიეთ წერტილები და სახელურები, წერტილის დასამატებლად ორჯერ დაწკაპეთ ტრაექტორიაზე (ან კალმით Alt-ით დაწკაპეთ), Delete შლის წერტილებს, მარჯვენა ღილაკით დაწკაპება კი მათ გლუვ ან კუთხოვან წერტილებად აქცევს.
 	Select Unused Items	გამოუყენებელი ელემენტების მონიშვნა
 @plural	Selected {n} element on the frames between the markers|Selected {n} elements on the frames between the markers	მარკერებს შორის კადრებზე მოინიშნა {n} ელემენტი|მარკერებს შორის კადრებზე მოინიშნა {n} ელემენტი
 	Selection	მონიშნული
@@ -1154,7 +1154,7 @@ right channel	R	R
 	Show only the effect, not the artwork	მხოლოდ ეფექტის ჩვენება, ნახატის გარეშე
 	Show the keyframes between the markers at full strength, and select and move their artwork together	მარკერებს შორის საკვანძო კადრების სრული სიმკვეთრით ჩვენება და მათი ნახატის ერთად მონიშვნა და გადაადგილება
 	Show the markers on the frame ruler even when onion skin is off	მარკერების ჩვენება კადრების სახაზავზე, მაშინაც კი, როცა ხახვის ფენები გამორთულია
-	Show the stage as the movie shows it (View › Preview Through Camera)	ტილოს ჩვენება ისე, როგორც ფილმში ჩანს (ხედი › წინასწარი ნახვა კამერიდან)
+	Show the stage as the movie shows it (View › Preview Through Camera)	სცენის ჩვენება ისე, როგორც ფილმში ჩანს (ხედი › წინასწარი ნახვა კამერიდან)
 	Show the whole sound	მთელი ხმის ჩვენება
 	Show this line in the script	ამ სტრიქონის ჩვენება სკრიპტში
 	Show {name}	ჩვენება: {name}
@@ -1188,16 +1188,16 @@ right channel	R	R
 	Space between the dots	დაშორება წერტილებს შორის
 	Spacing	ინტერვალი
 	Square	კვადრატული
-	Stage	ტილო
-	Stage colour	ტილოს ფერი
-	Stage height	ტილოს სიმაღლე
-	Stage Rendering	ტილოს რენდერირება
-	Stage size	ტილოს ზომა
-	Stage width	ტილოს სიგანე
-	Stage · previewing through the camera · {tool} tool · frame {frame}	ტილო · წინასწარი ნახვა კამერიდან · „{tool}“ ხელსაწყო · კადრი {frame}
-	Stage · {tool} tool · frame {frame}	ტილო · „{tool}“ ხელსაწყო · კადრი {frame}
-@plural	Stage · {tool} tool · frame {frame} · {n} element selected {on_layers}|Stage · {tool} tool · frame {frame} · {n} elements selected {on_layers}	ტილო · „{tool}“ ხელსაწყო · კადრი {frame} · მონიშნულია {n} ელემენტი {on_layers}|ტილო · „{tool}“ ხელსაწყო · კადრი {frame} · მონიშნულია {n} ელემენტი {on_layers}
-@plural	Stage · {tool} tool · frame {frame} · {n} element selected|Stage · {tool} tool · frame {frame} · {n} elements selected	ტილო · „{tool}“ ხელსაწყო · კადრი {frame} · მონიშნულია {n} ელემენტი|ტილო · „{tool}“ ხელსაწყო · კადრი {frame} · მონიშნულია {n} ელემენტი
+	Stage	სცენა
+	Stage colour	სცენის ფერი
+	Stage height	სცენის სიმაღლე
+	Stage Rendering	სცენის რენდერირება
+	Stage size	სცენის ზომა
+	Stage width	სცენის სიგანე
+	Stage · previewing through the camera · {tool} tool · frame {frame}	სცენა · წინასწარი ნახვა კამერიდან · „{tool}“ ხელსაწყო · კადრი {frame}
+	Stage · {tool} tool · frame {frame}	სცენა · „{tool}“ ხელსაწყო · კადრი {frame}
+@plural	Stage · {tool} tool · frame {frame} · {n} element selected {on_layers}|Stage · {tool} tool · frame {frame} · {n} elements selected {on_layers}	სცენა · „{tool}“ ხელსაწყო · კადრი {frame} · მონიშნულია {n} ელემენტი {on_layers}|სცენა · „{tool}“ ხელსაწყო · კადრი {frame} · მონიშნულია {n} ელემენტი {on_layers}
+@plural	Stage · {tool} tool · frame {frame} · {n} element selected|Stage · {tool} tool · frame {frame} · {n} elements selected	სცენა · „{tool}“ ხელსაწყო · კადრი {frame} · მონიშნულია {n} ელემენტი|სცენა · „{tool}“ ხელსაწყო · კადრი {frame} · მონიშნულია {n} ელემენტი
 	Star points	ვარსკვლავის წვეროები
 	Start	დაწყება
 	Start a bone on a symbol instance (convert artwork with F8), then drag to the instance it moves.	დაიწყეთ ძვალი სიმბოლოს ინსტანსზე (ნახატი სიმბოლოდ გარდაქმენით F8-ით), შემდეგ გადაათრიეთ იმ ინსტანსამდე, რომელსაც ის ამოძრავებს.
@@ -1248,28 +1248,28 @@ right channel	R	R
 	Text	ტექსტი
 	Text alignment	ტექსტის სწორება
 	Text colour	ტექსტის ფერი
-	Text on the stage	ტექსტი ტილოზე
+	Text on the stage	ტექსტი სცენაზე
 	Text width	ტექსტის სიგანე
 	Text: {text}	ტექსტი: {text}
 	That autosaved copy is gone	ის ავტომატურად შენახული ასლი აღარ არსებობს
 	That bone is pinned (or hangs from a pinned bone): unpin it in Properties to drag it.	ეს ძვალი დამაგრებულია (ან დამაგრებულ ძვალზეა ჩამოკიდებული): გადასათრევად მოხსენით დამაგრება თვისებებში.
 	the browser could not read it	ბრაუზერმა ვერ წაიკითხა
 	the browser's storage for this site is full (documents with large images or sounds may not fit)	ამ საიტისთვის ბრაუზერის საცავი სავსეა (დიდი სურათების ან ხმების მქონე დოკუმენტები შეიძლება ვერ დაეტიოს)
-	The camera layer is hidden: the movie shows the stage as it is.	კამერის შრე დამალულია: ფილმი ტილოს ისე აჩვენებს, როგორც არის.
+	The camera layer is hidden: the movie shows the stage as it is.	კამერის შრე დამალულია: ფილმი სცენას ისე აჩვენებს, როგორც არის.
 	The class scripts create this symbol by (its linkage), extending {base}. Kept with the document; scripts don't run yet	კლასი, რომლითაც სკრიპტები ამ სიმბოლოს ქმნიან (მისი დაკავშირება); მემკვიდრეობს კლასს {base}. დოკუმენტთან ერთად ინახება; სკრიპტები ჯერ არ სრულდება
 	The class scripts create this symbol by (its linkage). Kept with the document; scripts don't run yet	კლასი, რომლითაც სკრიპტები ამ სიმბოლოს ქმნიან (მისი დაკავშირება). დოკუმენტთან ერთად ინახება; სკრიპტები ჯერ არ სრულდება
-	The class scripts run the main timeline as (the document class). Kept with the document; scripts don't run yet	კლასი, რომლითაც სკრიპტები მთავარ დროის ხაზს უშვებენ (დოკუმენტის კლასი). დოკუმენტთან ერთად ინახება; სკრიპტები ჯერ არ სრულდება
+	The class scripts run the main timeline as (the document class). Kept with the document; scripts don't run yet	კლასი, რომლითაც სკრიპტები მთავარ ტაიმლაინს უშვებენ (დოკუმენტის კლასი). დოკუმენტთან ერთად ინახება; სკრიპტები ჯერ არ სრულდება
 	the command palette	ბრძანებების პალიტრა
 	The data font shows numbers, timecode, rulers and shortcuts; only monospaced families are listed so digits stay aligned.	მონაცემების შრიფტით ჩანს რიცხვები, ტაიმკოდი, სახაზავები და მალსახმობები; სიაში მხოლოდ ფიქსირებული სიგანის შრიფტებია, რომ ციფრები ერთმანეთის ქვეშ სწორად დალაგდეს.
 	The direction the shadow falls (the light comes from the opposite side)	მიმართულება, საითაც ჩრდილი ეცემა (სინათლე საპირისპირო მხრიდან მოდის)
 	The ends of a motion path are always pinned, to the first and last position keys	მოძრაობის ტრაექტორიის ბოლოები ყოველთვის დამაგრებულია პოზიციის პირველ და ბოლო საკვანძო კადრზე
 	The ends of a motion path are where the motion starts and ends: drag them to move them	მოძრაობის ტრაექტორიის ბოლოებში მოძრაობა იწყება და მთავრდება: გადასაადგილებლად გადაათრიეთ ისინი
 	The file was saved after this copy, so it opens as a new document and Save asks for a name.	ფაილი ამ ასლის შემდეგ შეინახა, ამიტომ ის ახალ დოკუმენტად გაიხსნება და შენახვისას სახელს მოგთხოვთ.
-	The GPU stage drew a picture the window can't show.	ტილოს GPU-რენდერმა დახატა გამოსახულება, რომელსაც ფანჯარა ვერ აჩვენებს.
-	The graphics card can't draw the stage, so the CPU does: {why}	ვიდეობარათი ტილოს ვერ ხატავს, ამიტომ ამას CPU აკეთებს: {why}
+	The GPU stage drew a picture the window can't show.	სცენის GPU-რენდერმა დახატა გამოსახულება, რომელსაც ფანჯარა ვერ აჩვენებს.
+	The graphics card can't draw the stage, so the CPU does: {why}	ვიდეობარათი სცენას ვერ ხატავს, ამიტომ ამას CPU აკეთებს: {why}
 	The joint's turn from where the bone was drawn, measured from the bone it hangs from	სახსრის შემობრუნება იმ მიმართულებიდან, როგორც ძვალი დაიხატა; ითვლება იმ ძვლიდან, რომელზეც ის ჩამოკიდებულია
 	The Library folder the new symbol goes into (the next conversion offers it again)	ბიბლიოთეკის საქაღალდე, სადაც ახალი სიმბოლო მოხვდება (შემდეგი გარდაქმნისას ისევ შემოგთავაზებთ)
-	The movie shows what the frame on the stage shows. Layer depth (in Frame, per layer) moves far layers less.	ფილმი აჩვენებს იმას, რასაც ტილოზე კადრი აჩვენებს. შრის სიღრმე (კადრში, თითო შრეზე) შორეულ შრეებს ნაკლებად ამოძრავებს.
+	The movie shows what the frame on the stage shows. Layer depth (in Frame, per layer) moves far layers less.	ფილმი აჩვენებს იმას, რასაც სცენაზე კადრი აჩვენებს. შრის სიღრმე (კადრში, თითო შრეზე) შორეულ შრეებს ნაკლებად ამოძრავებს.
 	The movie: point and click its buttons	ფილმი: დაწკაპეთ მის ღილაკებზე
 	The name actions use to address it (letters, digits and _)	სახელი, რომლითაც მოქმედებები მას მიმართავს (ასოები, ციფრები და _)
 	The object doesn't move yet	ობიექტი ჯერ არ მოძრაობს
@@ -1284,13 +1284,13 @@ right channel	R	R
 	The pointer goes down on it	მასზე თაგვის ღილაკს დააჭირეს
 	The pointer moves off it	კურსორი მას გასცდა
 	The pointer moves onto it	კურსორი მასზე გადავიდა
-	The reference renderer: slower on large stages. Exports always use it.	საცნობარო რენდერერი: დიდ ტილოებზე უფრო ნელია. ექსპორტი ყოველთვის მას იყენებს.
+	The reference renderer: slower on large stages. Exports always use it.	საცნობარო რენდერერი: დიდ სცენებზე უფრო ნელია. ექსპორტი ყოველთვის მას იყენებს.
 	The selected elements differ here; it shows the first one's. A change applies to all of them	მონიშნული ელემენტები აქ განსხვავდება; ნაჩვენებია პირველის მნიშვნელობა. ცვლილება ყველა მათგანზე გავრცელდება
 	the shortcut editor	მალსახმობების რედაქტორი
 	the sound device has no usable format ({error})	ხმის მოწყობილობას გამოსადეგი ფორმატი არ აქვს ({error})
 	the sound device wants {format} samples, which AniCraft doesn't write yet	ხმის მოწყობილობა ითხოვს {format} სემპლებს, რომლებსაც AniCraft ჯერ ვერ წერს
 	The standard dark look: graphite panels, colour where it means something.	სტანდარტული მუქი იერსახე: გრაფიტისფერი პანელები, ფერი მხოლოდ იქ, სადაც რამეს ნიშნავს.
-	The timeline always leaves room before frame 1 for the playhead; this adds more. It stays the same at every zoom.	დროის ხაზი პირველი კადრის წინ ყოველთვის ტოვებს ადგილს დაკვრის კურსორისთვის; ეს პარამეტრი მეტს ამატებს. ნებისმიერ მასშტაბზე ერთნაირი რჩება.
+	The timeline always leaves room before frame 1 for the playhead; this adds more. It stays the same at every zoom.	ტაიმლაინი პირველი კადრის წინ ყოველთვის ტოვებს ადგილს დაკვრის კურსორისთვის; ეს პარამეტრი მეტს ამატებს. ნებისმიერ მასშტაბზე ერთნაირი რჩება.
 	The volume of this layer's sounds, and of the sounds in the symbols on it	ამ შრის ხმების და მასზე მდგარ სიმბოლოებში არსებული ხმების დონე
 	the web version of AniCraft has no sound output yet	AniCraft-ის ვებვერსიას ჯერ ხმის გამოტანა არ აქვს
 	Theme	თემა
@@ -1298,8 +1298,8 @@ right channel	R	R
 	this action	ეს მოქმედება
 	this browser keeps no storage for the site (private browsing?)	ეს ბრაუზერი საიტისთვის საცავს არ ინახავს (პირადი რეჟიმი?)
 	this browser's storage for this site	ამ საიტისთვის ამ ბრაუზერის საცავი
-	This build has the interface in English only. Builds with translations list their languages here.	ამ ანაწყობში ინტერფეისი მხოლოდ ინგლისურადაა. თარგმანებიან ანაწყობებში აქ მათი ენები ჩანს.
-	this build of AniCraft has no sound output	AniCraft-ის ამ ანაწყობს ხმის გამოტანა არ აქვს
+	This build has the interface in English only. Builds with translations list their languages here.	ამ ვერსიაში ინტერფეისი მხოლოდ ინგლისურადაა. თარგმანებიან ვერსიებში აქ მათი ენები ჩანს.
+	this build of AniCraft has no sound output	AniCraft-ის ამ ვერსიას ხმის გამოტანა არ აქვს
 	This cannot be undone.	ამის დაბრუნება შეუძლებელია.
 	This pattern has more dashes and gaps than these two; they stay as they are	ამ ნიმუშს ამ ორზე მეტი ტირე და შუალედი აქვს; ისინი უცვლელი რჩება
 	This scene	ეს სცენა
@@ -1307,12 +1307,12 @@ right channel	R	R
 	This span is empty. Draw or place an object, then create a motion tween.	ეს მონაკვეთი ცარიელია. დახატეთ ან განათავსეთ ობიექტი, შემდეგ შექმენით მოძრაობის ინტერპოლაცია.
 	Tied to the frames: plays over this span and follows the playhead (lip sync)	კადრებზეა მიბმული: ამ მონაკვეთზე ჟღერს და დაკვრის კურსორს მიჰყვება (ტუჩების სინქრონიზაცია)
 	Time at the playhead	დრო დაკვრის კურსორთან
-	Timeline	დროის ხაზი
+	Timeline	ტაიმლაინი
 	Times it plays	დაკვრების რაოდენობა
 	Times it plays in a row	ზედიზედ დაკვრების რაოდენობა
 	Tint	ტონირება
 	Tint frames before the playhead and after it in their colours; off, they keep their own colours	დაკვრის კურსორის წინა და მომდევნო კადრები თავ-თავისი ფერით ტონირდება; გამორთვისას ისინი საკუთარ ფერებს ინარჩუნებენ
-	To stage	ტილოსთან
+	To stage	სცენასთან
 	Tool	ხელსაწყო
 	Tools	ხელსაწყოები
 	Top	ზემოთ
@@ -1332,7 +1332,7 @@ right channel	R	R
 	Tween to the next keyframe instead	ამის ნაცვლად ინტერპოლაცია მომდევნო საკვანძო კადრამდე
 	Type	ტიპი
 	Type a command, tool or setting…	აკრიფეთ ბრძანება, ხელსაწყო ან პარამეტრი…
-	Type on the stage (or double-click the text)	აკრიფეთ ტილოზე (ან ორჯერ დაწკაპეთ ტექსტზე)
+	Type on the stage (or double-click the text)	აკრიფეთ სცენაზე (ან ორჯერ დაწკაპეთ ტექსტზე)
 	Type text	ტექსტის აკრეფა
 	Typefaces: {fonts}	შრიფტები: {fonts}
 	Ubuntu (fallback) + JetBrains Mono	Ubuntu (სარეზერვო) + JetBrains Mono
@@ -1342,7 +1342,7 @@ right channel	R	R
 	Undo {action}	დაბრუნება: {action}
 	undo {steps} · {size} MB	დაბრუნება: {steps} ნაბიჯი · {size} MB
 	Uniform	ერთგვაროვანი
-	Unmute this layer's sounds	ამ შრის ხმების ჩართვა
+	Unmute this layer's sounds	ამ შრის ხმების დადუმების მოხსნა
 	Unpin	დამაგრების მოხსნა
 	Unpin from Frame {frame}	დამაგრების მოხსნა კადრიდან {frame}
 	Unpin Motion Path Point	მოძრაობის ტრაექტორიის წერტილის დამაგრების მოხსნა
@@ -1416,8 +1416,8 @@ right channel	R	R
 	{filter} colour stop {stop} at {at}% (fixed)	{filter}: ფერის გადასვლის წერტილი {stop}, {at}%-ზე (ფიქსირებული)
 	{filter} distance	{filter}: მანძილი
 	{filter} gradient: add a colour stop	{filter}, გრადიენტი: ფერის გადასვლის წერტილის დამატება
-	{filter} highlight colour	{filter}: ნათელი მხარის ფერი
-	{filter} knockout	{filter}: გამოჭრა
+	{filter} highlight colour	{filter}: შუქის ფერი
+	{filter} knockout	{filter}: ამოგდება
 	{filter} quality {quality}	{filter}: ხარისხი {quality}
 	{filter} shadow colour	{filter}: ჩრდილის ფერი
 	{filter} stop colour	{filter}: წერტილის ფერი
@@ -1433,7 +1433,7 @@ right channel	R	R
 	{level} % at {time} · drag to move, right-click to delete	{level} % — {time} · გადაათრიეთ გადასაადგილებლად, მარჯვენა დაწკაპებით წაშლა
 	{name} (button)	{name} (ღილაკი)
 	{name} (graphic)	{name} (გრაფიკა)
-	{name} (main timeline)	{name} (მთავარი დროის ხაზი)
+	{name} (main timeline)	{name} (მთავარი ტაიმლაინი)
 	{name} (movie clip)	{name} (ანიმაციური კლიპი)
 	{name} (scene {number} of {count})	{name} (სცენა {number} / {count})
 	{name} ({kind})	{name} ({kind})
