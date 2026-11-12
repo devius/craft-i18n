@@ -57,18 +57,24 @@
 	Adjustments	კორექცია
 	Advanced settings	დამატებითი პარამეტრები
 	Aligned: the offset set by the first stroke is kept. V + click sets a new source.	სწორებული: პირველი შტრიხით დაყენებული წანაცვლება ნარჩუნდება. V + დაწკაპება ახალ წყაროს აყენებს.
+	Alignment	სწორება
 	Alignment and culling	სწორება და გამოტოვება
+	All	ყველა
 	All layers	ყველა შრე
+	Alpha	ალფა
 	Alphas	ალფები
 	Also bound to {item} ({menu})	ასევე მიბმულია: {item} ({menu})
 	Alt + LMB drag	Alt + მარცხენა ღილაკით გადატანა
+	Always	ყოველთვის
 	Amber	ქარვისფერი
 	Ambient	გარემოს განათება
 	Ambient Occlusion	გარემოს დაჩრდილვა
 	Ambient occlusion	გარემოს დაჩრდილვა
+	Amount	რაოდენობა
 	Anchor point	საყრდენი წერტილი
 	Anchor: {name}	საყრდენი: {name}
 	Anchor: {name} ({channel})	საყრდენი: {name} ({channel})
+	Angle	კუთხე
 	Angle (degrees)	კუთხე (გრადუსი)
 	Angle fade from	მილევის საწყისი კუთხე
 	Angle fade to	მილევის საბოლოო კუთხე
@@ -82,6 +88,7 @@
 	ao	AO
 	AO intensity	AO-ს ინტენსივობა
 	Aperture	დიაფრაგმა
+	Apply	გამოყენება
 	Apply Diffusion	დიფუზიის გამოყენება
 	ArtCraft website...	ArtCraft-ის ვებსაიტი...
 	Assets	რესურსები
@@ -115,17 +122,22 @@
 	BBox	გაბარიტული ყუთი
 	Bent Normals	მოხრილი ნორმალები
 	Bevel	წაკვეთილი
+	Black	შავი
 	Blending	შერევა
 	Blending mode of the displayed channel	ნაჩვენები არხის შერევის რეჟიმი
+	Blue	ლურჯი
+	Blur	გაბუნდოვნება
 	Blur and sharpen	გაბუნდოვნება და გამკვეთრება
 	Blur Directional	მიმართულებითი გაბუნდოვნება
 	Bounces	არეკვლები
 	Bricks	აგური
+	Brightness	სიკაშკაშე
 	Brush	ფუნჯი
 	Brush name	ფუნჯის სახელი
 	Brush size	ფუნჯის ზომა
 	Brush size down / up	ფუნჯის ზომის შემცირება / გაზრდა
 	Brushed lines	შლიფის ხაზები
+	Brushes	ფუნჯები
 	BSphere	გაბარიტული სფერო
 	Built-in (read-only): duplicate it to edit	ჩაშენებული (მხოლოდ წაკითხვადი): ჩასასწორებლად შექმენით მისი დუბლიკატი
 	Built-in templates are read-only: duplicate one to edit it	ჩაშენებული შაბლონები მხოლოდ წაკითხვადია: ჩასასწორებლად შექმენით დუბლიკატი
@@ -137,15 +149,19 @@
 	Cage: {name}	გარსი: {name}
 	Camera	კამერა
 	Camera settings	კამერის პარამეტრები
+	Cancel	გაუქმება
 	Cancel the stroke	შტრიხის გაუქმება
 	Cavities	ღრმულები
 	Cell size (texels at 2K)	უჯრის ზომა (ტექსელი, 2K-ზე)
 	Cells	უჯრები
+	Channel	არხი
 	Channel source: uniform value, procedural, image or anchor	არხის წყარო: ერთგვაროვანი მნიშვნელობა, პროცედურული, გამოსახულება ან საყრდენი
+	Channels	არხები
 	Check All	ყველას მონიშვნა
 	Check for Updates...	განახლებების შემოწმება...
 	Checker	ჭადრაკული
 	Clamp	შეზღუდვა
+	Clear	გასუფთავება
 	Clear mask	ნიღბის გასუფთავება
 	Clear recent projects	ბოლო პროექტების სიის გასუფთავება
 	Click a mesh part to show or hide the selected layer on it.	დაწკაპეთ ბადის ნაწილზე, რომ მასზე არჩეული შრე აჩვენოთ ან დამალოთ.
@@ -154,6 +170,7 @@
 	Click, then press the new shortcut (Esc cancels)	დაწკაპეთ, შემდეგ დააჭირეთ ახალ მალსახმობს (Esc აუქმებს)
 	Click: turn this channel on or off. Alt+click: this channel only	დაწკაპება: ამ არხის ჩართვა ან გამორთვა. Alt+დაწკაპება: მხოლოდ ეს არხი
 	Clone	კლონირება
+	Close	დახურვა
 	Closed path	შეკრული ტრაექტორია
 	Cloud	ღრუბელი
 	Clouds	ღრუბლები
@@ -164,6 +181,8 @@
 	Coat roughness	ლაქის უხეშობა
 	Coat weight	ლაქის წილი
 	color	ფერი
+	Color	ფერი
+	Color Balance	ფერთა ბალანსი
 	Color burn	ფერით ჩამუქება
 	Color dodge	ფერით გაღიავება
 	Color Generator	ფერის გენერატორი
@@ -173,6 +192,7 @@
 	Color Source	ფერის წყარო
 	Color space	ფერთა სივრცე
 	Color to replace	ჩასანაცვლებელი ფერი
+	Colors	ფერები
 	Colors near the first shift towards the second, keeping their shading.	პირველთან ახლოს მყოფი ფერები მეორისკენ იცვლება და დაჩრდილვას ინარჩუნებს.
 	Colors read as gray. Add a levels or blur effect above to shape the result.	ფერები ნაცრისფრად აღიქმება. შედეგის მოსარგებად ზემოთ დაამატეთ დონეების ან გაბუნდოვნების ეფექტი.
 	Combine with the layer's height	შრის სიმაღლესთან გაერთიანება
@@ -185,6 +205,7 @@
 	Contained center: fill polygons whose center is in the rectangle	ცენტრი შიგნით: იმ პოლიგონების შევსება, რომელთა ცენტრი მართკუთხედშია
 	Content effects	შიგთავსის ეფექტები
 	Continue with the sample project	სანიმუშო პროექტით გაგრძელება
+	Contrast	კონტრასტი
 	Contrast/Luminosity	კონტრასტი/სიკაშკაშე
 	Converted maps	გარდაქმნილი რუკები
 	Cooked at {size} px	გამოთვლილია {size} px-ზე
@@ -211,6 +232,7 @@
 	Count	რაოდენობა
 	Count per stamp	რაოდენობა თითო ანაბეჭდზე
 	Crate	ყუთი
+	Create	შექმნა
 	Create smart material	ჭკვიანი მასალის შექმნა
 	Ctrl+right-drag in a view sets the size and hardness, Ctrl+left-drag the flow and angle.	ხედში Ctrl+მარჯვენა ღილაკით გადატანა ზომასა და სიხისტეს ცვლის, Ctrl+მარცხენით — ნაკადსა და კუთხეს.
 	Cube	კუბი
@@ -222,21 +244,26 @@
 	Cyan / red	ცისფერი / წითელი
 	Cylinder	ცილინდრი
 	Cylindrical projection	ცილინდრული პროექცია
+	Dark	ბნელი
 	Dark to light: the content's luminance picks a color along these stops.	მუქიდან ღიამდე: შიგთავსის სიკაშკაშე ამ წერტილებს შორის ფერს ირჩევს.
 	Darken (Min)	ჩამუქება (მინიმუმი)
 	Data folder	მონაცემთა საქაღალდე
 	Decal	სტიკერი
 	Decal projection	სტიკერის პროექცია
+	Default	ნაგულისხმევი
 	Default camera	ნაგულისხმევი კამერა
 	Delete the selected template	არჩეული შაბლონის წაშლა
 	Delete this camera	ამ კამერის წაშლა
 	Deleted template "{name}"	შაბლონი „{name}“ წაიშალა
 	Denoise	ხმაურის მოცილება
+	Depth	სიღრმე
 	Depth of field	ველის სიღრმე
 	Depth of field (viewport and Rendering mode)	ველის სიღრმე (ხედვის არე და რენდერირების რეჟიმი)
 	Depth of the sharp plane along the view (0: the orbit center)	მკვეთრი სიბრტყის სიღრმე ხედის მიმართულებით (0: ორბიტის ცენტრი)
 	Detail sizes	დეტალების ზომები
+	Details	დეტალები
 	Details saved to {file}	დეტალები შენახულია: {file}
+	Difference	სხვაობა
 	Dilation + default background color	გაფართოება + ფონის ნაგულისხმევი ფერი
 	Dilation + transparent	გაფართოება + გამჭვირვალე
 	Dilation infinite	უსასრულო გაფართოება
@@ -246,6 +273,7 @@
 	Disable	გამორთვა
 	Dismiss	უგულებელყოფა
 	Displacement (height channel)	წანაცვლება (სიმაღლის არხი)
+	Display	ეკრანი
 	Display material	ჩვენების მასალა
 	Display next channel	შემდეგი არხის ჩვენება
 	Display next mesh map	ბადის შემდეგი რუკის ჩვენება
@@ -254,6 +282,7 @@
 	Display Settings	ჩვენების პარამეტრები
 	Distance	მანძილი
 	Distance-Based	მანძილზე დაფუძნებული
+	Distort	დამახინჯება
 	Distribution	განაწილება
 	Divide	გაყოფა
 	Document resolution	დოკუმენტის გარჩევადობა
@@ -280,6 +309,7 @@
 	Edge Protection	კიდეების დაცვა
 	Edges	წიბოები
 	Edges and cavities	წიბოები და ღრმულები
+	Edit	რედაქტირება
 	Edit keyboard shortcuts...	კლავიატურის მალსახმობების რედაქტირება...
 	Edit quick mask	სწრაფი ნიღბის რედაქტირება
 	Editing quick mask: paint where painting is allowed (U to finish)	სწრაფი ნიღბის რედაქტირება: დახატეთ, სადაც ხატვა დაშვებულია (დასრულება — U)
@@ -299,7 +329,10 @@
 	Environment settings	გარემოს პარამეტრები
 	Environment: {name}	გარემო: {name}
 	Environments	გარემოები
+	Eraser	საშლელი
+	Exclusion	გამორიცხვა
 	Expand or collapse the folder	საქაღალდის გაშლა ან აკეცვა
+	Export	ექსპორტირება
 	Export mesh	ბადის ექსპორტირება
 	Export Mesh...	ბადის ექსპორტირება...
 	Export template	ექსპორტის შაბლონი
@@ -314,14 +347,17 @@
 	Fabric weave	ქსოვილის წნული
 	Face Normals Based	წახნაგების ნორმალებზე დაფუძნებული
 	Field of view (deg)	ხედვის კუთხე (გრად.)
+	File	ფაილი
 	File ID	ფაილის ID
 	File name without extension; variables insert names	ფაილის სახელი გაფართოების გარეშე; ცვლადები სახელებს ჩასვამს
 	File type	ფაილის ტიპი
+	Fill	შევსება
 	Fill layer	შევსების შრე
 	Fill mode	შევსების რეჟიმი
 	Fill only polygons the camera sees (3D view)	მხოლოდ კამერისთვის ხილული პოლიგონების შევსება (3D ხედი)
 	Fill the closed path (lasso)	შეკრული ტრაექტორიის შევსება (ლასო)
 	Fill the path (close it first)	ტრაექტორიის შევსება (ჯერ შეკარით)
+	Filter	ფილტრი
 	Filter the remaining noise while keeping edges and texture detail	დარჩენილი ხმაურის ფილტრაცია კიდეებისა და ტექსტურის დეტალების შენარჩუნებით
 	Filters	ფილტრები
 	Fine noise	წვრილი ხმაური
@@ -335,6 +371,7 @@
 	Focus distance	ფოკუსური მანძილი
 	Focus: show only the active texture set	ფოკუსი: მხოლოდ აქტიური ტექსტურების ნაკრების ჩვენება
 	Fold or unfold these effects	ამ ეფექტების ჩაკეცვა ან გაშლა
+	Folder	საქაღალდე
 	Folders	საქაღალდეები
 	Follow Newest Map	უახლესი რუკის მიყოლა
 	Follow path	ტრაექტორიის მიყოლა
@@ -343,7 +380,9 @@
 	Free and open source (MIT OR Apache-2.0), written in Rust.	უფასო და ღია კოდის (MIT OR Apache-2.0), დაწერილია Rust-ზე.
 	From template	შაბლონიდან
 	From template / project	შაბლონიდან / პროექტიდან
+	Full	სრული
 	Full Scene	მთელი სცენა
+	Gamma	გამა
 	General export parameters	ექსპორტის ზოგადი პარამეტრები
 	General properties	ზოგადი თვისებები
 	Generate from Mesh	ბადიდან გენერაცია
@@ -355,6 +394,7 @@
 	gloss	სიპრიალე
 	Glossiness	სიპრიალე
 	Glossiness from roughness	სიპრიალე უხეშობიდან
+	Glow	ნათება
 	glTF binary with textures	glTF ბინარული ტექსტურებით
 	Go to camera 1	კამერა 1-ზე გადასვლა
 	Go to camera 2	კამერა 2-ზე გადასვლა
@@ -366,10 +406,14 @@
 	Go to camera 8	კამერა 8-ზე გადასვლა
 	Go to camera 9	კამერა 9-ზე გადასვლა
 	GPU error: {error}	GPU-ის შეცდომა: {error}
+	Gradient	გრადიენტი
 	Gradient Map	გრადიენტული რუკა
 	Gravity	გრავიტაცია
+	Gray	ნაცრისფერი
 	Gray + A	ნაცრისფერი + A
 	Gray 50%	ნაცრისფერი 50%
+	Grayscale	ნაცრისფერი ტონები
+	Green	მწვანე
 	Ground Plane	მიწის სიბრტყე
 	Ground Plane Offset	მიწის სიბრტყის წანაცვლება
 	Group layer(s)	შრეების დაჯგუფება
@@ -380,17 +424,21 @@
 	Hardness	სიხისტე
 	HDR environments	HDR გარემოები
 	height	სიმაღლე
+	Height	სიმაღლე
 	Height offset	სიმაღლის წანაცვლება
 	Height to normal strength	სიმაღლიდან ნორმალის სიძლიერე
+	Help	დახმარება
 	Hide all	ყველას დამალვა
 	Hide UI	ინტერფეისის დამალვა
 	Hide while painting	ხატვისას დამალვა
+	High	მაღალი
 	High Definition Mesh (HP)	მაღალი დეტალიზაციის ბადე (HP)
 	High Pass	მაღალსიხშირული ფილტრი
 	High Poly Mesh Suffix	მაღალპოლიგონური ბადის სუფიქსი
 	High Poly Scene	მაღალპოლიგონური სცენა
 	High poly: {name}	მაღალპოლიგონური: {name}
 	High-Poly Parameters	მაღალპოლიგონური ბადის პარამეტრები
+	Highlights	ღია ტონები
 	Histogram Range	ჰისტოგრამის დიაპაზონი
 	Histogram Scan	ჰისტოგრამის სკანირება
 	Histogram Shift	ჰისტოგრამის წანაცვლება
@@ -403,11 +451,13 @@
 	How far light travels under the surface, as a fraction of the mesh size (where the Scattering weight channel is painted)	რა მანძილზე ვრცელდება სინათლე ზედაპირქვეშ, ბადის ზომის წილად (იქ, სადაც გაბნევის წილის არხია დახატული)
 	How strongly transmissive surfaces bend light (where the Transmission channel is painted): water 1.33, glass 1.5, diamond 2.42	რამდენად ძლიერად ტეხენ სინათლეს გამტარი ზედაპირები (იქ, სადაც გამტარობის არხია დახატული): წყალი 1.33, მინა 1.5, ალმასი 2.42
 	HSL Perceptive	HSL აღქმითი
+	Hue Shift	ფერის ტონის წანაცვლება
 	Hue shift (degrees)	ფერის ტონის წანაცვლება (გრადუსი)
 	ID	ID
 	Ignore Backface	უკანა მხარის იგნორირება
 	Ignore Backface Suffix	უკანა მხარის იგნორირების სუფიქსი
 	Image: {name}	გამოსახულება: {name}
+	Images	გამოსახულებები
 	Import a template (.json)	შაბლონის იმპორტირება (.json)
 	Import an image (File > Import resources) to project it onto the mesh.	ბადეზე დასაპროეცირებლად შემოიტანეთ გამოსახულება (ფაილი > რესურსების იმპორტირება).
 	Import baked maps	გამომცხვარი რუკების იმპორტი
@@ -433,6 +483,7 @@
 	Intersection: fill polygons the rectangle touches	გადაკვეთა: იმ პოლიგონების შევსება, რომლებსაც მართკუთხედი ეხება
 	Inverse divide	შებრუნებული გაყოფა
 	Inverse Subtract	შებრუნებული გამოკლება
+	Invert	ინვერსია
 	Invert mask	ნიღბის ინვერსია
 	Invert mask background	ნიღბის ფონის ინვერსია
 	Invert mask value	ნიღბის მნიშვნელობის ინვერსია
@@ -444,19 +495,25 @@
 	Key light (shadow-casting light, direct only)	ძირითადი სინათლე (ჩრდილის მიმცემი, მხოლოდ პირდაპირი)
 	Keyboard	კლავიატურა
 	Keyboard shortcuts	კლავიატურის მალსახმობები
+	Language	ენა
 	Layer mask	შრის ნიღაბი
 	Layer memory: {mb} MB	შრეების მეხსიერება: {mb} MB
+	Layers	შრეები
 	Lazy mouse	მაუსის დაყოვნება
 	Lazy mouse distance	მაუსის დაყოვნების მანძილი
 	Leather grain	ტყავის ფაქტურა
 	Lens size: how quickly things blur away from the focus distance	ობიექტივის ზომა: რამდენად სწრაფად ბუნდოვანდება საგნები ფოკუსური მანძილიდან მოშორებით
+	Level	დონე
 	Levels	დონეები
 	Lifetime (steps)	სიცოცხლის ხანგრძლივობა (ნაბიჯი)
+	Light	ღია
 	Light / direction	სინათლე / მიმართულება
 	Light azimuth (degrees)	სინათლის აზიმუტი (გრადუსი)
 	Light elevation (degrees)	სინათლის სიმაღლე (გრადუსი)
 	Light intensity	სინათლის ინტენსივობა
 	Lighten (Max)	გაღიავება (მაქსიმუმი)
+	Lightness	სიღიავე
+	Linear	წრფივი
 	Linear burn	წრფივი ჩამუქება
 	Linear dodge (Add)	წრფივი გაღიავება (დამატება)
 	Linear light	წრფივი სინათლე
@@ -467,13 +524,16 @@
 	Loaded UI layout {path}	ინტერფეისის განლაგება ჩაიტვირთა: {path}
 	Lock Output Size	გამოტანის ზომის ჩაკეტვა
 	Log	ჟურნალი
+	Low	დაბალი
 	Low Poly Mesh Suffix	დაბალპოლიგონური ბადის სუფიქსი
+	Luminosity	ნათება
 	Made by the ArtCraft team and community.	შექმნილია ArtCraft-ის გუნდისა და საზოგადოების მიერ.
 	Magenta / green	მეწამული / მწვანე
 	Main shader	მთავარი შეიდერი
 	Manipulator size	მანიპულატორის ზომა
 	Manual	ხელით
 	Marble veins	მარმარილოს ძარღვები
+	Mask	ნიღაბი
 	Mask Editor: Edge wear	ნიღბის რედაქტორი: კიდეების ცვეთა
 	Mask effects	ნიღბის ეფექტები
 	Mask value (gray)	ნიღბის მნიშვნელობა (ნაცრისფერი)
@@ -495,6 +555,7 @@
 	Max project size on open	პროექტის მაქსიმალური ზომა გახსნისას
 	Max RAM while saving	მაქსიმალური RAM შენახვისას
 	Max Rear Distance	უკანა მაქსიმალური მანძილი
+	Maximize	გაშლა
 	Maximum	მაქსიმუმი
 	Maximum decompressed project data. Increase this limit to open larger projects.	პროექტის გაუკუმშავი მონაცემების მაქსიმალური მოცულობა. უფრო დიდი პროექტების გასახსნელად გაზარდეთ ეს ზღვარი.
 	Medium dark	საშუალოდ ბნელი
@@ -510,8 +571,12 @@
 	Meshes	ბადეები
 	metal	ლითონი
 	Metallic	მეტალიკური
+	Method	მეთოდი
+	Midtones	შუალედური ტონები
 	min	მინ
 	Min Occluder Distance	დამჩრდილავის მინიმალური მანძილი
+	Minimize	ჩაკეცვა
+	Minimum	მინიმუმი
 	Minimum size (%)	მინიმალური ზომა (%)
 	Mirror symmetry	სარკული სიმეტრია
 	missing	ვერ მოიძებნა
@@ -519,14 +584,18 @@
 	missing source	წყარო ვერ მოიძებნა
 	Mixed AO	შერეული AO
 	MMB drag / Alt + MMB	შუა ღილაკით გადატანა / Alt + შუა ღილაკი
+	Mode	რეჟიმი
 	More in Assets > Alphas: click one, or drag it here	მეტი: რესურსები > ალფები — დაწკაპეთ ერთ-ერთზე ან გადმოიტანეთ აქ
 	Mosaic	მოზაიკა
 	Move down	ჩამოწევა
 	Move up	აწევა
 	Moves the surface by the height channel on a finer copy of the mesh, at the height to normal strength (viewport only: painting follows the base surface)	ზედაპირს სიმაღლის არხით აადგილებს ბადის უფრო დეტალურ ასლზე, სიმაღლიდან ნორმალის სიძლიერით (მხოლოდ ხედვის არეში: ხატვა საბაზისო ზედაპირს მიჰყვება)
+	Multiply	გამრავლება
 	My brushes	ჩემი ფუნჯები
 	My smart materials	ჩემი ჭკვიანი მასალები
+	Name	სახელი
 	Name each file after its texture set, like Body_normal.png	თითოეულ ფაილს დაარქვით მისი ტექსტურების ნაკრების სახელი, მაგალითად Body_normal.png
+	Never	არასოდეს
 	New project	ახალი პროექტი
 	New project...	ახალი პროექტი...
 	New template	ახალი შაბლონი
@@ -541,6 +610,7 @@
 	Noise amount	ხმაურის რაოდენობა
 	Noise scale	ხმაურის მასშტაბი
 	none	არცერთი
+	None	არცერთი
 	Normal	ნორმალი
 	Normal DirectX	ნორმალი DirectX
 	Normal from height	ნორმალი სიმაღლიდან
@@ -561,12 +631,16 @@
 	Not saved: {error}	არ შენახულა: {error}
 	nrm	ნორმ.
 	off	გამორთული
+	Off	გამორთული
+	Offset	წანაცვლება
 	Offset right	წანაცვლება მარჯვნივ
 	Offset up	წანაცვლება ზემოთ
 	Offset {axis}	წანაცვლება {axis}
 	Offsets the textures by the height channel, at the height to normal strength	ტექსტურებს სიმაღლის არხით წაანაცვლებს, სიმაღლიდან ნორმალის სიძლიერით
+	On	ჩართული
 	Only Same Mesh Name	მხოლოდ იგივე სახელის ბადე
 	op	გაუმჭვ.
+	Opacity	გაუმჭვირვალობა
 	Open in MaterialCraft	MaterialCraft-ში გახსნა
 	Open sample project...	სანიმუშო პროექტის გახსნა...
 	Open...	გახსნა...
@@ -581,6 +655,7 @@
 	Output Size	გამოტანის ზომა
 	Output template	გამოტანის შაბლონი
 	Output templates	გამოტანის შაბლონები
+	Overlay	გადაფარვა
 	Overlay opacity	ზედდების გაუმჭვირვალობა
 	Padding	კიდეების შევსება
 	Paint	ხატვა
@@ -592,6 +667,7 @@
 	Paint Skew Correction	დახრის კორექციის დახატვა
 	Paint with the current tool	მიმდინარე ხელსაწყოთი ხატვა
 	Painted layer pixels {pixels} MB, composited channels {composites} MB, compositing cache {cache} MB	დახატული შრეების პიქსელები {pixels} MB, კომპოზიტური არხები {composites} MB, კომპოზიტინგის ქეში {cache} MB
+	Painting	ხატვა
 	Painting is paused while a bake is shown. Cancel the bake or wait for it to finish.	ხატვა შეჩერებულია, სანამ გამოცხობა ჩანს. გააუქმეთ გამოცხობა ან დაელოდეთ მის დასრულებას.
 	Pan	პანორამა
 	Parallax occlusion (height channel)	პარალაქსური დაჩრდილვა (სიმაღლის არხი)
@@ -604,6 +680,7 @@
 	Paste as instance	ინსტანსად ჩასმა
 	Paste effect	ეფექტის ჩასმა
 	Paste layer(s)	შრეების ჩასმა
+	Path	ტრაექტორია
 	Path trace on the processor instead of the graphics card (slower)	ტრაექტორიების ტრასირება პროცესორზე ვიდეობარათის ნაცვლად (უფრო ნელი)
 	Path: click adds a point, click the curve inserts one, drag moves it, Enter applies, Esc cancels	ტრაექტორია: დაწკაპება წერტილს ამატებს, მრუდზე დაწკაპება მასში წერტილს ჩასვამს, გადატანა წერტილს გადააადგილებს, Enter გამოიყენებს, Esc გააუქმებს
 	Paths stay editable: pick one to move its points or change its brush and material, and the sublayer repaints at once. Add paths with the Path tool.	ტრაექტორიები რედაქტირებადი რჩება: აირჩიეთ ერთ-ერთი, რომ მისი წერტილები გადაადგილოთ ან ფუნჯი და მასალა შეცვალოთ, და ქვეშრე მაშინვე ხელახლა დაიხატება. ტრაექტორიები ტრაექტორიის ხელსაწყოთი დაამატეთ.
@@ -615,6 +692,7 @@
 	Pick color	ფერის არჩევა
 	Pick focus in the viewport	ფოკუსის არჩევა ხედვის არეში
 	Pin light	წერტილოვანი სინათლე
+	Pink	ვარდისფერი
 	Place as decal	სტიკერად განთავსება
 	Place on the surface	ზედაპირზე განთავსება
 	Place path points on the mesh	ტრაექტორიის წერტილების განთავსება ბადეზე
@@ -623,9 +701,11 @@
 	PNG image	PNG გამოსახულება
 	Polygon fill	პოლიგონის შევსება
 	Pores	ფორები
+	Position	პოზიცია
 	Position gradient	პოზიციის გრადიენტი
 	Position jitter	პოზიციის ცვალებადობა
 	Posterize	პოსტერიზაცია
+	Preset	პრესეტი
 	Press a key...	დააჭირეთ კლავიშს...
 	Procedurals	პროცედურულები
 	Project	პროექტი
@@ -635,12 +715,15 @@
 	Project template	პროექტის შაბლონი
 	Projection	პროექცია
 	Projects and meshes	პროექტები და ბადეები
+	Properties	თვისებები
 	Quarter	მეოთხედი
 	Quick mask	სწრაფი ნიღაბი
 	Quit	გასვლა
 	Radial settings	რადიალური სიმეტრიის პარამეტრები
 	Radial symmetry	რადიალური სიმეტრია
+	Radius	რადიუსი
 	Radius (texels at 2K)	რადიუსი (ტექსელი, 2K-ზე)
+	Random	შემთხვევითი
 	Range	დიაპაზონი
 	Raw curvature	დაუმუშავებელი სიმრუდე
 	Re-cook	ხელახლა გამოთვლა
@@ -649,11 +732,13 @@
 	Recent projects	ბოლო პროექტები
 	Records the stack up to this layer. Fill effects in masks (and fill layers) above can read it as a source.	იმახსოვრებს დასტას ამ შრემდე. ზემოთ მყოფ ნიღბებში შევსების ეფექტებს (და შევსების შრეებს) შეუძლიათ მისი წყაროდ წაკითხვა.
 	Rectangle fill	მართკუთხედით შევსება
+	Redo	ხელახლა შესრულება
 	Reimport mesh	ბადის ხელახლა იმპორტირება
 	Relative to Bounding Box	გაბარიტული ყუთის მიმართ
 	Relative to Low Mesh	დაბალპოლიგონური ბადის მიმართ
 	Relative to Min/Max	მინიმუმის/მაქსიმუმის მიმართ
 	Relative to Ray Distances	სხივების მანძილების მიმართ
+	Remove	წაშლა
 	Remove Cage	გარსის წაშლა
 	Remove channel	არხის წაშლა
 	Remove effect	ეფექტის წაშლა
@@ -677,21 +762,25 @@
 	Rendering on CPU: {n} / {max} samples, {s} s	რენდერირება CPU-ზე: {n} / {max} სემპლი, {s} წმ
 	Rendering on GPU: {n} / {max} samples, {s} s	რენდერირება GPU-ზე: {n} / {max} სემპლი, {s} წმ
 	Rendering, path traced	რენდერირება, ტრაექტორიების ტრასირებით
+	Replace	ჩანაცვლება
 	Replace Color	ფერის ჩანაცვლება
 	Replacement color	ჩამნაცვლებელი ფერი
 	Report a bug...	შეცდომის შეტყობინება...
 	Rescan the library folder	ბიბლიოთეკის საქაღალდის ხელახლა სკანირება
+	Reset	ჩამოყრა
 	Reset all	ყველაფრის ჩამოყრა
 	Reset Painted Cage	დახატული გარსის ჩამოყრა
 	Reset to defaults	ნაგულისხმევზე ჩამოყრა
 	Reset to {shortcut}	{shortcut}-ზე ჩამოყრა
 	Reset UI	ინტერფეისის ჩამოყრა
 	Resizing	ზომის შეცვლა
+	Restore	აღდგენა
 	Restore Defaults	ნაგულისხმევის აღდგენა
 	Restore every default shortcut	ყველა ნაგულისხმევი მალსახმობის აღდგენა
 	Return to Painting Mode	ხატვის რეჟიმში დაბრუნება
 	Return to this step	ამ ნაბიჯზე დაბრუნება
 	Right-click a layer > Create smart material	მარჯვენა დაწკაპება შრეზე > ჭკვიანი მასალის შექმნა
+	Rotation	შემობრუნება
 	Rotation (degrees)	შემობრუნება (გრადუსი)
 	rough	უხეშ.
 	Roughness	უხეშობა
@@ -700,6 +789,8 @@
 	Rounded cube	მომრგვალებული კუბი
 	Samples	სემპლები
 	Sampling Radius	სემპლინგის რადიუსი
+	Saturation	გაჯერება
+	Save	შენახვა
 	Save a copy...	ასლის შენახვა...
 	Save as...	შენახვა როგორც...
 	Save current brush	მიმდინარე ფუნჯის შენახვა
@@ -722,8 +813,10 @@
 	Scatter radius	გაბნევის რადიუსი
 	Scattering weight	გაბნევის წილი
 	Scratches	ნაკაწრები
+	Screen	ეკრანი
 	Screenshot of the viewport	ხედვის არის ეკრანის ანაბეჭდი
 	Seams Intensity	ნაკერების ინტენსივობა
+	Search	ძიება
 	Search all assets	ყველა რესურსში ძიება
 	Search commands or keys	ბრძანების ან კლავიშის ძიება
 	Secondary Rays	მეორადი სხივები
@@ -738,9 +831,12 @@
 	Selection mode	მონიშვნის რეჟიმი
 	Self Intersection	თვითგადაკვეთა
 	Self Occlusion	თვითდაჩრდილვა
+	Settings	პარამეტრები
 	Settings...	პარამეტრები...
 	Shader instance	შეიდერის ინსტანსი
 	Shader Settings	შეიდერის პარამეტრები
+	Shadows	ჩრდილები
+	Sharpen	გამკვეთრება
 	sheen	ბზინვ.
 	Sheen color	ბზინვარების ფერი
 	sheen color	ბზინვ. ფერი
@@ -767,6 +863,7 @@
 	Show UV wireframe in the 2D view	UV კარკასის ჩვენება 2D ხედში
 	Show wireframe in the 3D view	კარკასის ჩვენება 3D ხედში
 	Signed addition (AddSub)	ნიშნიანი შეკრება (AddSub)
+	Size	ზომა
 	Size in screen space	ზომა ეკრანის სივრცეში
 	Size jitter	ზომის ცვალებადობა
 	Size of the textures the viewport shows: lower uses less GPU memory with large texture sets. Painting and export keep full resolution.	ხედვის არეში ნაჩვენები ტექსტურების ზომა: დაბალი დიდი ტექსტურების ნაკრებებისას ნაკლებ GPU მეხსიერებას იყენებს. ხატვა და ექსპორტი სრულ გარჩევადობას ინარჩუნებს.
@@ -780,7 +877,10 @@
 	Smooth	გლუვი
 	Smudge	გადღაბნა
 	Soft light	რბილი ღია
+	Softness	სირბილე
+	Source	წყარო
 	Source  U {u}  V {v}	წყარო  U {u}  V {v}
+	Spacing	ინტერვალი
 	spec	სარკ.
 	Specular	სარკისებრი
 	specular	სარკისებრი
@@ -789,12 +889,15 @@
 	Spherical projection	სფერული პროექცია
 	Spray	სპრეი
 	Spread Angle	გაშლის კუთხე
+	Square	კვადრატი
 	Stamp depth	ანაბეჭდის სიღრმე
+	Star	ვარსკვლავი
 	Start window	საწყისი ფანჯარა
 	Starting render...	რენდერის დაწყება...
 	Stencil	ტრაფარეტი
 	Steps	ნაბიჯები
 	Streaks	ნაღვენთები
+	Strength	სიძლიერე
 	Stripes	ზოლები
 	Stroke opacity	შტრიხის გაუმჭვირვალობა
 	Style	სტილი
@@ -803,6 +906,7 @@
 	Subsampling 4x4	ქვესემპლინგი 4x4
 	Subsampling 8x8	ქვესემპლინგი 8x8
 	Subsurface scattering	ქვეზედაპირული გაბნევა
+	Subtract	გამოკლება
 	Symmetry	სიმეტრია
 	Symmetry color display	სიმეტრიის ჩვენების ფერი
 	Symmetry settings	სიმეტრიის პარამეტრები
@@ -810,6 +914,7 @@
 	Tangent | Wrap	მხები | შემოხვევა
 	Template name	შაბლონის სახელი
 	Temporal anti-aliasing (refines the 3D view while it is still)	დროითი კიდეების გასწორება (3D ხედს აზუსტებს, სანამ ის უძრავია)
+	Text	ტექსტი
 	Texture resolution	ტექსტურის გარჩევადობა
 	Texture set channels	ტექსტურების ნაკრების არხები
 	Texture set resolution	ტექსტურების ნაკრების გარჩევადობა
@@ -835,12 +940,15 @@
 	The resize worker stopped	ზომის შეცვლის პროცესი შეჩერდა
 	Thickness	სისქე
 	Thin areas	თხელი უბნები
+	Threshold	ზღვარი
 	Tile	ფილებად
 	Tiles	ფილები
 	Tint	ტონირება
 	Title bar	სათაურის ზოლი
 	Toggle mask	ნიღბის გადართვა
+	Tolerance	დაშვება
 	Tone mapping	ტონალური ასახვა
+	Tools	ხელსაწყოები
 	Torus	ტორი
 	transm	გამტ.
 	Transmission	გამტარობა
@@ -854,7 +962,10 @@
 	UI layout: {error}	ინტერფეისის განლაგება: {error}
 	UI layouts	ინტერფეისის განლაგებები
 	UI {ms} ms	ინტერფეისი {ms} მწმ
+	Undo	დაბრუნება
+	Uniform	ერთგვაროვანი
 	Uniform value	ერთგვაროვანი მნიშვნელობა
+	Unsaved changes	შეუნახავი ცვლილებები
 	USD binary, textures alongside	USD ბინარული, ტექსტურები გვერდით
 	USD text, textures alongside	USD ტექსტური, ტექსტურები გვერდით
 	USDZ with textures	USDZ ტექსტურებით
@@ -872,8 +983,10 @@
 	UV tiles	UV ფილები
 	UV tiles (UDIM)	UV ფილები (UDIM)
 	UV transformations	UV გარდაქმნები
+	Value	მნიშვნელობა
 	Value Bounds Max	მნიშვნელობის ზედა ზღვარი
 	Value Bounds Min	მნიშვნელობის ქვედა ზღვარი
+	Version {version}	ვერსია {version}
 	Version: {version} ({gpu})	ვერსია: {version} ({gpu})
 	Vertex Color	წვეროს ფერი
 	View through this camera	ამ კამერიდან ხედი
@@ -881,6 +994,7 @@
 	Viewport	ხედვის არე
 	Viewport and brush (fixed)	ხედვის არე და ფუნჯი (ფიქსირებული)
 	Views	ხედები
+	Violet	იისფერი
 	Visible polygons only	მხოლოდ ხილული პოლიგონები
 	Vivid light	კაშკაშა სინათლე
 	Voronoi	ვორონოი
@@ -890,7 +1004,10 @@
 	WebGPU isn't available in this browser, so TextureCraft runs on WebGL2: Rendering mode path traces on the CPU (slower) and large texture sets show at reduced resolution. A current Chrome, Edge or Safari has WebGPU.	ამ ბრაუზერში WebGPU მიუწვდომელია, ამიტომ TextureCraft WebGL2-ზე მუშაობს: რენდერირების რეჟიმი ტრაექტორიების ტრასირებას CPU-ზე ასრულებს (უფრო ნელა), დიდი ტექსტურების ნაკრებები კი შემცირებული გარჩევადობით ჩანს. WebGPU აქვს Chrome-ის, Edge-ის ან Safari-ის მიმდინარე ვერსიას.
 	What the 3D view shows while the bake runs: the newest finished map, one finished map, or the material. Maps not baked yet show a neutral value.	რას აჩვენებს 3D ხედი გამოცხობის დროს: უახლეს დასრულებულ რუკას, ერთ დასრულებულ რუკას ან მასალას. ჯერ გამოუცხობელი რუკები ნეიტრალურ მნიშვნელობას აჩვენებს.
 	Wheel / Alt + RMB drag	ბორბალი / Alt + მარჯვენა ღილაკით გადატანა
+	White	თეთრი
+	Width	სიგანე
 	Width (texels at 2K)	სიგანე (ტექსელი, 2K-ზე)
+	Window	ფანჯარა
 	Wood grain	მერქნის ბოჭკო
 	Works in texture space, like the blur: it does not cross UV seams.	მუშაობს ტექსტურის სივრცეში, გაბუნდოვნების მსგავსად: UV ნაკერებს არ კვეთს.
 	World Space Normal	ნორმალი მსოფლიო სივრცეში
