@@ -14,6 +14,7 @@
 	"{layer}" can't be filled: select a paint layer or a layer's mask	„{layer}“ ვერ შეივსება: აირჩიეთ ხატვის შრე ან შრის ნიღაბი
 	"{layer}" has no paint yet: the filter changes what you paint on it.	„{layer}“ ჯერ არ არის დახატული: ფილტრი ცვლის იმას, რასაც მასზე დახატავთ.
 	0 turns autosave off. Copies go to {folder}	0 ავტოშენახვას გამორთავს. ასლები ინახება აქ: {folder}
+	1 effect	1 ეფექტი
 	2D view only	მხოლოდ 2D ხედი
 	32 bits (float)	32 ბიტი (მცურავი)
 	3D mesh	3D ბადე
@@ -72,6 +73,7 @@
 	Angle fade from	მილევის საწყისი კუთხე
 	Angle fade to	მილევის საბოლოო კუთხე
 	Angle jitter	კუთხის ცვალებადობა
+	Angle span	კუთხის დიაპაზონი
 	aniso	ანიზ.
 	aniso angle	ანიზ. კუთხე
 	Anisotropy angle	ანიზოტროპიის კუთხე
@@ -84,12 +86,14 @@
 	ArtCraft website...	ArtCraft-ის ვებსაიტი...
 	Assets	რესურსები
 	Attenuation	მილევა
+	Auto	ავტომატური
 	Auto Tonemapping	ავტომატური ტონალური ასახვა
 	Automatic (from the mesh UVs)	ავტომატური (ბადის UV-ებიდან)
 	Autosave every	ავტოშენახვა ყოველ
 	Autosaves, smart materials, presets, templates and UI layouts go to the data folder. A new folder applies on restart; files already saved stay where they are.	ავტოშენახვები, ჭკვიანი მასალები, პრესეტები, შაბლონები და ინტერფეისის განლაგებები მონაცემთა საქაღალდეში ინახება. ახალი საქაღალდე გადატვირთვის შემდეგ ამოქმედდება; უკვე შენახული ფაილები ადგილზე რჩება.
 	Average Normals	ნორმალების გასაშუალება
 	Axis	ღერძი
+	Axis position	ღერძის პოზიცია
 	Back to painting	ხატვაზე დაბრუნება
 	Backface culling	უკანა წახნაგების გამოტოვება
 	Bake an ID map (F8) to pick colors from the mesh.	ბადიდან ფერების ასარჩევად გამოაცხვეთ ID რუკა (F8).
@@ -179,6 +183,7 @@
 	Constant	მუდმივი
 	Constants	მუდმივები
 	Contained center: fill polygons whose center is in the rectangle	ცენტრი შიგნით: იმ პოლიგონების შევსება, რომელთა ცენტრი მართკუთხედშია
+	Content effects	შიგთავსის ეფექტები
 	Continue with the sample project	სანიმუშო პროექტით გაგრძელება
 	Contrast/Luminosity	კონტრასტი/სიკაშკაშე
 	Converted maps	გარდაქმნილი რუკები
@@ -192,6 +197,7 @@
 	Copy to all texture sets	ტექსტურების ყველა ნაკრებში კოპირება
 	Copy what the texture set shows	ტექსტურების ნაკრებში ნაჩვენების კოპირება
 	Coral	მარჯნისფერი
+	Cores kept for the UI	ინტერფეისისთვის დატოვებული ბირთვები
 	Cosine	კოსინუსი
 	Couldn't encode the render	რენდერის კოდირება ვერ მოხერხდა
 	Couldn't export textures: {error}	ტექსტურების ექსპორტირება ვერ მოხერხდა: {error}
@@ -202,6 +208,7 @@
 	Couldn't read the render back from the GPU	რენდერის GPU-დან წაკითხვა ვერ მოხერხდა
 	Couldn't save the render: {error}	რენდერის შენახვა ვერ მოხერხდა: {error}
 	Couldn't save {name}: {error}	{name}-ის შენახვა ვერ მოხერხდა: {error}
+	Count	რაოდენობა
 	Count per stamp	რაოდენობა თითო ანაბეჭდზე
 	Crate	ყუთი
 	Create smart material	ჭკვიანი მასალის შექმნა
@@ -254,6 +261,7 @@
 	Don't save	არ შეინახო
 	Done on CPU: {n} / {max} samples, {s} s	დასრულდა CPU-ზე: {n} / {max} სემპლი, {s} წმ
 	Done on GPU: {n} / {max} samples, {s} s	დასრულდა GPU-ზე: {n} / {max} სემპლი, {s} წმ
+	Double-click or press Enter to edit	ჩასასწორებლად ორჯერ დაწკაპეთ ან დააჭირეთ Enter-ს
 	Double-click to rename	სახელის შესაცვლელად ორჯერ დაწკაპეთ
 	Download as	ჩამოტვირთვა როგორც
 	Downloaded {name}	ჩამოიტვირთა {name}
@@ -282,6 +290,7 @@
 	Enable or disable the effect	ეფექტის ჩართვა ან გამორთვა
 	Enable quick mask	სწრაფი ნიღბის ჩართვა
 	Enable Seams	ნაკერების ჩართვა
+	Enter a finite number	შეიყვანეთ სასრული რიცხვი
 	Environment blur	გარემოს გაბუნდოვნება
 	Environment exposure (EV)	გარემოს ექსპოზიცია (EV)
 	Environment map	გარემოს რუკა
@@ -308,6 +317,7 @@
 	File ID	ფაილის ID
 	File name without extension; variables insert names	ფაილის სახელი გაფართოების გარეშე; ცვლადები სახელებს ჩასვამს
 	File type	ფაილის ტიპი
+	Fill layer	შევსების შრე
 	Fill mode	შევსების რეჟიმი
 	Fill only polygons the camera sees (3D view)	მხოლოდ კამერისთვის ხილული პოლიგონების შევსება (3D ხედი)
 	Fill the closed path (lasso)	შეკრული ტრაექტორიის შევსება (ლასო)
@@ -316,6 +326,7 @@
 	Filters	ფილტრები
 	Fine noise	წვრილი ხმაური
 	Fingerprints	თითის ანაბეჭდები
+	Fit the input range to the histogram	შემავალი დიაპაზონის ჰისტოგრამაზე მორგება
 	Flatten layer	შრის გაბრტყელება
 	Flips the image's green channel, for normal maps made with Y pointing down	აბრუნებს გამოსახულების მწვანე არხს — ნორმალების რუკებისთვის, რომლებშიც Y ქვემოთაა მიმართული
 	Flow	ნაკადი
@@ -323,6 +334,7 @@
 	Flow jitter	ნაკადის ცვალებადობა
 	Focus distance	ფოკუსური მანძილი
 	Focus: show only the active texture set	ფოკუსი: მხოლოდ აქტიური ტექსტურების ნაკრების ჩვენება
+	Fold or unfold these effects	ამ ეფექტების ჩაკეცვა ან გაშლა
 	Folders	საქაღალდეები
 	Follow Newest Map	უახლესი რუკის მიყოლა
 	Follow path	ტრაექტორიის მიყოლა
@@ -372,6 +384,7 @@
 	Height to normal strength	სიმაღლიდან ნორმალის სიძლიერე
 	Hide all	ყველას დამალვა
 	Hide UI	ინტერფეისის დამალვა
+	Hide while painting	ხატვისას დამალვა
 	High Definition Mesh (HP)	მაღალი დეტალიზაციის ბადე (HP)
 	High Pass	მაღალსიხშირული ფილტრი
 	High Poly Mesh Suffix	მაღალპოლიგონური ბადის სუფიქსი
@@ -422,6 +435,7 @@
 	Inverse Subtract	შებრუნებული გამოკლება
 	Invert mask	ნიღბის ინვერსია
 	Invert mask background	ნიღბის ფონის ინვერსია
+	Invert mask value	ნიღბის მნიშვნელობის ინვერსია
 	Invert quick mask	სწრაფი ნიღბის ინვერსია
 	Invert show/hide	ჩვენება/დამალვის ინვერსია
 	Jitters	ცვალებადობა
@@ -457,9 +471,11 @@
 	Made by the ArtCraft team and community.	შექმნილია ArtCraft-ის გუნდისა და საზოგადოების მიერ.
 	Magenta / green	მეწამული / მწვანე
 	Main shader	მთავარი შეიდერი
+	Manipulator size	მანიპულატორის ზომა
 	Manual	ხელით
 	Marble veins	მარმარილოს ძარღვები
 	Mask Editor: Edge wear	ნიღბის რედაქტორი: კიდეების ცვეთა
+	Mask effects	ნიღბის ეფექტები
 	Mask value (gray)	ნიღბის მნიშვნელობა (ნაცრისფერი)
 	Mask with height	ნიღაბი სიმაღლით
 	Match	დამთხვევა
@@ -476,8 +492,11 @@
 	MatFinish Sanded	MatFinish ზუმფარით გახეხილი
 	Max Frontal Distance	წინა მაქსიმალური მანძილი
 	Max Occluder Distance	დამჩრდილავის მაქსიმალური მანძილი
+	Max project size on open	პროექტის მაქსიმალური ზომა გახსნისას
+	Max RAM while saving	მაქსიმალური RAM შენახვისას
 	Max Rear Distance	უკანა მაქსიმალური მანძილი
 	Maximum	მაქსიმუმი
+	Maximum decompressed project data. Increase this limit to open larger projects.	პროექტის გაუკუმშავი მონაცემების მაქსიმალური მოცულობა. უფრო დიდი პროექტების გასახსნელად გაზარდეთ ეს ზღვარი.
 	Medium dark	საშუალოდ ბნელი
 	Medium light	საშუალოდ ღია
 	Mesh fill	ბადის შევსება
@@ -494,6 +513,7 @@
 	min	მინ
 	Min Occluder Distance	დამჩრდილავის მინიმალური მანძილი
 	Minimum size (%)	მინიმალური ზომა (%)
+	Mirror symmetry	სარკული სიმეტრია
 	missing	ვერ მოიძებნა
 	Missing (bake to create)	არ არსებობს (შესაქმნელად გამოაცხვეთ)
 	missing source	წყარო ვერ მოიძებნა
@@ -566,6 +586,7 @@
 	Paint	ხატვა
 	Paint Cage	გარსის დახატვა
 	Paint chips	ჩამოცვენილი საღებავი
+	Paint layer	ხატვის შრე
 	Paint on the mesh to edit the layer content.	შრის შიგთავსის შესაცვლელად დახატეთ ბადეზე.
 	Paint on the mesh to edit this mask. Use the Material tab's mask value for gray.	ამ ნიღბის შესაცვლელად დახატეთ ბადეზე. ნაცრისფრისთვის გამოიყენეთ მასალის ჩანართის ნიღბის მნიშვნელობა.
 	Paint Skew Correction	დახრის კორექციის დახატვა
@@ -584,6 +605,7 @@
 	Paste effect	ეფექტის ჩასმა
 	Paste layer(s)	შრეების ჩასმა
 	Path trace on the processor instead of the graphics card (slower)	ტრაექტორიების ტრასირება პროცესორზე ვიდეობარათის ნაცვლად (უფრო ნელი)
+	Path: click adds a point, click the curve inserts one, drag moves it, Enter applies, Esc cancels	ტრაექტორია: დაწკაპება წერტილს ამატებს, მრუდზე დაწკაპება მასში წერტილს ჩასვამს, გადატანა წერტილს გადააადგილებს, Enter გამოიყენებს, Esc გააუქმებს
 	Paths stay editable: pick one to move its points or change its brush and material, and the sublayer repaints at once. Add paths with the Path tool.	ტრაექტორიები რედაქტირებადი რჩება: აირჩიეთ ერთ-ერთი, რომ მისი წერტილები გადაადგილოთ ან ფუნჯი და მასალა შეცვალოთ, და ქვეშრე მაშინვე ხელახლა დაიხატება. ტრაექტორიები ტრაექტორიის ხელსაწყოთი დაამატეთ.
 	Pattern scale	პატერნის მასშტაბი
 	PBR - Metallic Roughness (TextureCraft)	PBR - მეტალიკური/უხეშობა (TextureCraft)
@@ -616,6 +638,8 @@
 	Quarter	მეოთხედი
 	Quick mask	სწრაფი ნიღაბი
 	Quit	გასვლა
+	Radial settings	რადიალური სიმეტრიის პარამეტრები
+	Radial symmetry	რადიალური სიმეტრია
 	Radius (texels at 2K)	რადიუსი (ტექსელი, 2K-ზე)
 	Range	დიაპაზონი
 	Raw curvature	დაუმუშავებელი სიმრუდე
@@ -637,6 +661,7 @@
 	Remove layer	შრის წაშლა
 	Remove layer(s)	შრეების წაშლა
 	Remove mask	ნიღბის წაშლა
+	Remove point	წერტილის წაშლა
 	Remove resolution override	გარჩევადობის გადაფარვის მოხსნა
 	Remove resource	რესურსის წაშლა
 	Remove Skew Correction	დახრის კორექციის წაშლა
@@ -658,6 +683,7 @@
 	Rescan the library folder	ბიბლიოთეკის საქაღალდის ხელახლა სკანირება
 	Reset all	ყველაფრის ჩამოყრა
 	Reset Painted Cage	დახატული გარსის ჩამოყრა
+	Reset to defaults	ნაგულისხმევზე ჩამოყრა
 	Reset to {shortcut}	{shortcut}-ზე ჩამოყრა
 	Reset UI	ინტერფეისის ჩამოყრა
 	Resizing	ზომის შეცვლა
@@ -687,6 +713,7 @@
 	Saved UI layout {path}	ინტერფეისის განლაგება შენახულია: {path}
 	Saved {path}	შენახულია: {path}
 	Saving UI layouts to files is available in the desktop app	ინტერფეისის განლაგებების ფაილებში შენახვა დესკტოპის აპშია ხელმისაწვდომი
+	Saving uses the other cores and at most this share of the free RAM. At least one core always works.	შენახვა იყენებს დანარჩენ ბირთვებს და თავისუფალი RAM-ის მაქსიმუმ ამ წილს. სულ მცირე ერთი ბირთვი ყოველთვის მუშაობს.
 	Scale	მასშტაბი
 	Scale / tiling	მასშტაბი / გამეორება
 	Scaling Divisor	მასშტაბის გამყოფი
@@ -705,6 +732,7 @@
 	Select a paint layer or a layer's mask to fill	შესავსებად აირჩიეთ ხატვის შრე ან შრის ნიღაბი
 	Select an output template	აირჩიეთ გამოტანის შაბლონი
 	Select source	წყაროს არჩევა
+	Select the layer content	შრის შიგთავსის არჩევა
 	Select the mask (Alt+click: show it in the viewport)	ნიღბის არჩევა (Alt+დაწკაპება: ხედვის არეში ჩვენება)
 	Select...	არჩევა...
 	Selection mode	მონიშვნის რეჟიმი
@@ -724,13 +752,18 @@
 	Shortcuts list...	მალსახმობების სია...
 	Show all	ყველას ჩვენება
 	Show at startup	გაშვებისას ჩვენება
+	Show axis	ღერძის ჩვენება
+	Show axis position manipulator	ღერძის პოზიციის მანიპულატორის ჩვენება
+	Show cursor	კურსორის ჩვენება
 	Show entire mesh	მთელი ბადის ჩვენება
 	Show for Selected Texture Set Only	მხოლოდ არჩეული ტექსტურების ნაკრებისთვის ჩვენება
+	Show intersection	გადაკვეთის ჩვენება
 	Show log...	ჟურნალის ჩვენება...
 	Show on all parts	ყველა ნაწილზე ჩვენება
 	Show or hide texture sets	ტექსტურების ნაკრებების ჩვენება ან დამალვა
 	Show or hide the layer	შრის ჩვენება ან დამალვა
 	Show or hide the texture set	ტექსტურების ნაკრების ჩვენება ან დამალვა
+	Show plane	სიბრტყის ჩვენება
 	Show UV wireframe in the 2D view	UV კარკასის ჩვენება 2D ხედში
 	Show wireframe in the 3D view	კარკასის ჩვენება 3D ხედში
 	Signed addition (AddSub)	ნიშნიანი შეკრება (AddSub)
@@ -770,6 +803,9 @@
 	Subsampling 4x4	ქვესემპლინგი 4x4
 	Subsampling 8x8	ქვესემპლინგი 8x8
 	Subsurface scattering	ქვეზედაპირული გაბნევა
+	Symmetry	სიმეტრია
+	Symmetry color display	სიმეტრიის ჩვენების ფერი
+	Symmetry settings	სიმეტრიის პარამეტრები
 	System title bar (applies on restart)	სისტემის სათაურის ზოლი (გადატვირთვის შემდეგ)
 	Tangent | Wrap	მხები | შემოხვევა
 	Template name	შაბლონის სახელი
@@ -861,6 +897,7 @@
 	Yellow / blue	ყვითელი / ლურჯი
 	Zoom	მასშტაბი
 	{action} (undone)	{action} (დაბრუნებულია)
+	{count} effects	{count} ეფექტი
 	{file}: add above the selected layer (or drag it into the layer stack or onto the viewport)	{file}: არჩეული შრის ზემოთ დამატება (ან გადაიტანეთ შრეების დასტაში ან ხედვის არეზე)
 	{name} copy	{name} ასლი
 	{n} bits	{n} ბიტი
