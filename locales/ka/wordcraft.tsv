@@ -2863,7 +2863,7 @@ preview	Title	სათაური
 	Warnings ({n})	გაფრთხილებები ({n})
 	Washout	გაუფერულება
 	Watermark	ჭვირნიშანი
-	No watermark	ჭვირნიშანი არ არის
+	No watermark	ჭვირნიშნის გარეშე
 	Picture watermark	სურათის ჭვირნიშანი
 	Text watermark	ტექსტის ჭვირნიშანი
 	Select Picture…	სურათის არჩევა…
@@ -2985,14 +2985,14 @@ preview	Title	სათაური
 	Built in	ჩაშენებული
 	Your own dictionary	თქვენი საკუთარი ლექსიკონი
 	System dictionary	სისტემის ლექსიკონი
-	Not available yet	ჯერ არ არის ხელმისაწვდომი
+	Not available yet	ჯერ მიუწვდომელია
 	Grammar built in	გრამატიკა ჩაშენებულია
 	Install spelling ({size})	მართლწერის დაინსტალირება ({size})
 	Its dictionary couldn't be read: {reason}	მისი ლექსიკონის წაკითხვა ვერ მოხერხდა: {reason}
 	Downloading is off. Clicking Add a language… or Install turns it on: WordCraft then downloads language packs and fonts from GitHub.	ჩამოტვირთვა გამორთულია. „ენის დამატება…“ ან „დაინსტალირება“ დაწკაპუნებით ის ირთვება: მაშინ WordCraft GitHub-იდან ჩამოტვირთავს ენის პაკეტებსა და შრიფტებს.
 	Search:	ძიება:
 	Dutch, Nederlands or nl	ნიდერლანდური, Nederlands ან nl
-	No languages to show yet.	ჩვენებისთვის ენები ჯერ არ არის.
+	No languages to show yet.	საჩვენებელი ენები ჯერ არ არის.
 	No language matches your search.	თქვენს ძიებას არც ერთი ენა არ ემთხვევა.
 	An installed Language pack is used after this folder.	დაინსტალირებული ენის პაკეტი გამოიყენება ამ საქაღალდის შემდეგ.
 	Dictionary files	ლექსიკონის ფაილები
@@ -3015,7 +3015,7 @@ preview	Title	სათაური
 	Lithuanian	ლიტვური
 	Latvian	ლატვიური
 	Macedonian	მაკედონიური
-	Norwegian (Nynorsk)	ნორვეგიული (ნინორსკი)
+	Norwegian (Nynorsk)	ნორვეგიული (ნიუნორსკი)
 	Slovak	სლოვაკური
 	Slovenian	სლოვენური
 	Albanian	ალბანური
@@ -3044,7 +3044,7 @@ preview	Title	სათაური
 	Cabo Verde	კაბო-ვერდე
 	Cyprus	კვიპროსი
 	Germany	გერმანია
-	Dominican Republic	დომინიკის რესპუბლიკა
+	Dominican Republic	დომინიკელთა რესპუბლიკა
 	Ecuador	ეკვადორი
 	Egypt	ეგვიპტე
 	Spain	ესპანეთი
