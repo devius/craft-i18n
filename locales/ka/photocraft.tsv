@@ -3180,8 +3180,8 @@ smartSvg	PhotoCraft (internal editor)	PhotoCraft (ჩაშენებული
 	previous reading kept; the last re-read failed: {reason}	შენარჩუნებულია წინა მონაცემები; ბოლო ხელახალი წაკითხვა ვერ მოხერხდა: {reason}
 	Prime105	ფიქსირებული 105 მმ
 	Prime35	ფიქსირებული 35 მმ
-	Print	დაბეჭდვა
-	Print One Copy	ერთი ასლის დაბეჭდვა
+	Print	ბეჭდვა
+	Print One Copy	ერთი ასლის ბეჭდვა
 	Print preview image	ამობეჭდვამდე ნახვის გამოსახულება
 	Print resolution	ბეჭდვის გარჩევადობა
 	Print Resolution:	ბეჭდვის გარჩევადობა:
@@ -3192,7 +3192,7 @@ smartSvg	PhotoCraft (internal editor)	PhotoCraft (ჩაშენებული
 	Printer Manages Colors	ფერებს მართავს პრინტერი
 	Printer Setup	პრინტერის პარამეტრები
 	Printing Marks	საბეჭდი ნიშნები
-	Print…	დაბეჭდვა…
+	Print…	ბეჭდვა…
 	Pro	Pro
 	Pro (Dark)	Pro (ბნელი)
 	Pro (Light Gray)	Pro (ღია ნაცრისფერი)
