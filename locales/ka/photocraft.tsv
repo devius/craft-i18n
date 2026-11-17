@@ -766,8 +766,8 @@ cameraRaw	Color	ფერი
 	Color Aware	ფერის გათვალისწინებით
 	Color Balance	ფერთა ბალანსი
 	Color Balance…	ფერთა ბალანსი…
-	Color Blindness - Deuteranopia-type	დალტონიზმი — დეიტერანოპიის ტიპი
-	Color Blindness - Protanopia-type	დალტონიზმი — პროტანოპიის ტიპი
+	Color Blindness - Deuteranopia-type	დალტონიზმი - დეიტერანოპიის ტიპი
+	Color Blindness - Protanopia-type	დალტონიზმი - პროტანოპიის ტიპი
 	Color Blindness — Deuteranopia-type	დალტონიზმი — დეიტერანოპიის ტიპი
 	Color Blindness — Protanopia-type	დალტონიზმი — პროტანოპიის ტიპი
 	Color Burn	ფერით ჩამუქება
@@ -1517,7 +1517,7 @@ cameraRaw	Effects	ეფექტები
 	Expand Detection Area	აღმოჩენის არის გაფართოება
 	Expand group  ({key}-click: all groups)	ჯგუფის გაშლა  ({key}+დაწკაპუნება: ყველა ჯგუფი)
 	Expand group  (⌥-click: all groups)	ჯგუფის გაშლა  (⌥+დაწკაპუნება: ყველა ჯგუფი)
-	Expand layer group on click	შრეების ჯგუფის გაშლა დაწკაპუნებისას
+	Expand layer group on click	შრეების ჯგუფის ჩამოშლა დაწკაპებით
 	Expand New Effects	ახალი ეფექტების გაშლა
 	Expand Panel Group	პანელების ჯგუფის გაშლა
 	Expand…	გაფართოება…
@@ -2224,7 +2224,7 @@ fontWeight	Italic	დახრილი
 	Justify last left	ორმხრივი სწორება, ბოლო სტრიქონი მარცხნივ
 	Justify last right	ორმხრივი სწორება, ბოლო სტრიქონი მარჯვნივ
 	Keep proportions	პროპორციების შენარჩუნება
-	Keep Relative Position During Layer Reordering	ფარდობითი პოზიციის შენარჩუნება შრეების გადალაგებისას
+	Keep Relative Position During Layer Reordering	შრეების გადალაგებისას ფარდობითი პოზიციის შენარჩუნება
 	Keep this tab open to retain your brushes.	ფუნჯების შესანარჩუნებლად ეს ჩანართი ღია დატოვეთ.
 	Keep Using CPU	CPU-ის გამოყენების გაგრძელება
 	Keep view in sync	ხედის სინქრონიზაცია
@@ -2827,7 +2827,7 @@ layerLabel	No Color	ფერის გარეშე
 	No saved presets yet.	შენახული პრესეტები ჯერ არ არის.
 	No Selection	მონიშნული არაფერია
 	No selection	მონიშნული არაფერია
-	No settings saved: these raws can't keep a sidecar here	პარამეტრები არ შეინახა: ამ RAW ფაილებს აქ თანმხლები ფაილი ვერ ექნებათ
+	No settings saved: these raws can't keep a sidecar here	პარამეტრები არ შენახულა: ამ raw ფაილებს აქ თანმხლები ფაილი ვერ ექნება
 	No similar fonts: the current font doesn't say what it looks like.	მსგავსი შრიფტები არ არის: მიმდინარე შრიფტი არ აღწერს, როგორ გამოიყურება.
 	No Spelling Suggestions	მართლწერის შეთავაზებები არ არის
 	No subject found — try a rectangle around the object	ობიექტი ვერ მოიძებნა — სცადეთ ობიექტის გარშემო მართკუთხედი
@@ -2847,7 +2847,7 @@ cameraRaw	Noise Reduction	ხმაურის შემცირება
 	Nonlinear History	არაწრფივი ისტორია
 	Normal	ჩვეულებრივი
 	Normal tip	ჩვეულებრივი წვერი
-	Not a web color: click for the nearest web color	ვებფერი არ არის: დაწკაპეთ უახლოესი ვებფერის ასარჩევად
+	Not a web color: click for the nearest web color	ვებფერი არ არის: დაწკაპეთ უახლოესი ვებფერისთვის
 	Not a web colour: click for the nearest web colour	ვებფერი არ არის: დაწკაპეთ უახლოესი ვებფერისთვის
 	Not Clipped	ჩაუჭრელი
 	Not Empty	არაცარიელი
@@ -2865,7 +2865,7 @@ cameraRaw	Noise Reduction	ხმაურის შემცირება
 	Nothing to paste: PhotoCraft can't read the system clipboard here	ჩასასმელი არაფერია: PhotoCraft აქ სისტემის გაცვლის ბუფერს ვერ კითხულობს
 	Nothing to paste: the clipboard holds no image	ჩასასმელი არაფერია: გაცვლის ბუფერში გამოსახულება არ არის
 	Nothing to Redo	ხელახლა შესასრულებელი არაფერია
-	Nothing to save: these raws are at their default settings	შესანახი არაფერია: ამ RAW ფაილებს ნაგულისხმევი პარამეტრები აქვს
+	Nothing to save: these raws are at their default settings	შესანახი არაფერია: ამ raw ფაილებს ნაგულისხმევი პარამეტრები აქვს
 	Nothing to Undo	დასაბრუნებელი არაფერია
 	Notification Duration (seconds)	შეტყობინების ხანგრძლივობა (წამი)
 	Now drag the selection onto another area	ახლა გადაათრიეთ მონიშნული სხვა არეზე
@@ -2972,7 +2972,7 @@ smartSvg	Other application	სხვა აპლიკაცია
 	Out Black	გამომავალი შავი
 	Out From Center	ცენტრიდან გარეთ
 	Out Of Gamut	ფერთა დიაპაზონს გარეთ
-	Out of gamut for printing: click for the nearest printable color	ბეჭდვისთვის დიაპაზონს გარეთაა: დაწკაპეთ უახლოესი დასაბეჭდი ფერის ასარჩევად
+	Out of gamut for printing: click for the nearest printable color	ბეჭდვისთვის ფერთა დიაპაზონს გარეთაა: დაწკაპეთ უახლოესი დასაბეჭდი ფერისთვის
 	Out of gamut for printing: click for the nearest printable colour	ბეჭდვისთვის ფერთა დიაპაზონს გარეთაა: დაწკაპეთ უახლოესი დასაბეჭდი ფერისთვის
 	Out of memory	მეხსიერება არ კმარა
 	Out White	გამომავალი თეთრი
@@ -4066,7 +4066,7 @@ curves	Smooth	გაგლუვება
 	Solidity:	სიმკვრივე:
 	Some brush presets could not be loaded	ფუნჯის ზოგიერთი პრესეტი ვერ ჩაიტვირთა
 	Some layers, pixels or masks could not be read. Do you want to continue opening it?	ზოგიერთი შრის, პიქსელის ან ნიღბის წაკითხვა ვერ მოხერხდა. გსურთ გახსნის გაგრძელება?
-	Some settings could not be saved; the raws stay open	ზოგიერთი პარამეტრი ვერ შეინახა; RAW ფაილები ღია რჩება
+	Some settings could not be saved; the raws stay open	ზოგიერთი პარამეტრი ვერ შეინახა; raw ფაილები ღია რჩება
 	Sort	სორტირება
 	Sort By Name	სახელის მიხედვით დალაგება
 	Source	წყარო
@@ -4729,7 +4729,7 @@ navigator	Zoom	მასშტაბი
 	{key} to subtract	{key} — გამოსაკლებად
 	{key}-click to set the source	{key}+დაწკაპუნება წყაროს დასაყენებლად
 	{label} is not available: {reason}	{label} მიუწვდომელია: {reason}
-	{label} is writing the file and can no longer be canceled	{label}: ფაილი იწერება და გაუქმება აღარ შეიძლება
+	{label} is writing the file and can no longer be canceled	{label} ფაილს წერს და მისი გაუქმება აღარ შეიძლება
 	{label} is writing the file and can no longer be cancelled	{label} ფაილს წერს და მისი გაუქმება აღარ შეიძლება
 	{message} (notes: {n}; {warning})	{message} (შენიშვნა: {n}; {warning})
 	{message} ({note})	{message} ({note})
