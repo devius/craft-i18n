@@ -1024,6 +1024,7 @@ key	Delete	Delete
 	Discard private data of other applications	სხვა აპლიკაციების პირადი მონაცემების მოშორება
 	Discard this text (Esc)	ამ ტექსტის გაუქმება (Esc)
 	Discard User Data	მომხმარებლის მონაცემების მოშორება
+	Display	ეკრანი
 	Disk {size}	დისკი {size}
 	Dismiss	დახურვა
 	Display name	საჩვენებელი სახელი
@@ -1920,11 +1921,13 @@ calendar date	May	მაისი
 	Metadata	მეტამონაცემები
 	metadata	მეტამონაცემები
 	Microsoft Word (.docx)	Microsoft Word (.docx)
+	Middle	შუა
 	Midpoint	შუა წერტილი
 	Midpoints	შუა წერტილები
 	Minimize	ჩაკეცვა
 	Minimum	მინიმუმი
 	minimum	მინიმუმი
+	Mirror	არეკვლა
 	Mirror the page	გვერდის არეკვლა
 	Missing field	ველი აკლია
 	Missing from the calculation order saved in the PDF: other PDF viewers may not calculate it.	PDF-ში შენახულ გამოთვლის რიგში არ არის: სხვა PDF-მნახველებმა შეიძლება ვერ გამოთვალონ.
