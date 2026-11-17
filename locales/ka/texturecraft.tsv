@@ -259,6 +259,7 @@
 	Current layer	მიმდინარე შრე
 	Curvature	სიმრუდე
 	curvature	სიმრუდე
+	Custom	მორგებული
 	Custom File	მორგებული ფაილი
 	Cut effect	ეფექტის ამოჭრა
 	Cut layer(s)	შრეების ამოჭრა
@@ -993,6 +994,7 @@
 	Temporal anti-aliasing (refines the 3D view while it is still)	დროითი კიდეების გასწორება (3D ხედს აზუსტებს, სანამ ის უძრავია)
 	Text	ტექსტი
 	Texture resolution	ტექსტურის გარჩევადობა
+	Texture set	ტექსტურების ნაკრები
 	Texture set channels	ტექსტურების ნაკრების არხები
 	Texture set resolution	ტექსტურების ნაკრების გარჩევადობა
 	Texture Set Settings	ტექსტურების ნაკრების პარამეტრები
@@ -1063,6 +1065,7 @@
 	UV island fill	UV კუნძულის შევსება
 	UV projection	UV პროექცია
 	UV Seams	UV ნაკერები
+	UV tile	UV ფილა
 	UV tile {tile} resolution	UV ფილის {tile} გარჩევადობა
 	UV tiles	UV ფილები
 	UV tiles (UDIM)	UV ფილები (UDIM)
