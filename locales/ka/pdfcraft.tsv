@@ -4490,3 +4490,42 @@ document scrollbar width	Wide	ფართო
 	Turn off so that only Ctrl+L (⌘L on macOS) leaves full screen, as for a kiosk display.	გამორთეთ, რომ სრულეკრანიანი რეჟიმიდან გამოსვლა მხოლოდ Ctrl+L-ით (macOS-ზე ⌘L-ით) იყოს შესაძლებელი, როგორც კიოსკის ეკრანზე.
 	Turn off to keep the page display, such as continuous scrolling, in full screen.	გამორთეთ, რომ სრულეკრანიან რეჟიმში გვერდების ჩვენება (მაგალითად, უწყვეტი გადახვევა) შენარჩუნდეს.
 	by	×
+	A CMap maps a character code to a CID above 65535	CMap სიმბოლოს კოდს 65535-ზე მეტ CID-ს უსაბამებს
+	A graphics state has a halftone phase (HTP)	გრაფიკის მდგომარეობას აქვს რასტრის ფაზა (HTP)
+	A graphics state has a rendering intent that isn't a name	გრაფიკის მდგომარეობის რენდერის მიზანი სახელი (name) არ არის
+	A graphics state has a transfer function (TR)	გრაფიკის მდგომარეობას აქვს გადაცემის ფუნქცია (TR)
+	A graphics state has a transfer function (TR2) other than Default	გრაფიკის მდგომარეობას აქვს Default-ისგან განსხვავებული გადაცემის ფუნქცია (TR2)
+	A graphics state has the rendering intent {}, which isn't a standard one	გრაფიკის მდგომარეობის რენდერის მიზანია {}, რომელიც სტანდარტული არ არის
+	A graphics state uses the blend mode {}, which ISO 32000-1 doesn't define	გრაფიკის მდგომარეობა იყენებს შერწყმის რეჟიმს {}, რომელსაც ISO 32000-1 არ განსაზღვრავს
+	A halftone has a HalftoneName	რასტრს აქვს HalftoneName
+	A halftone has a transfer function, which only a non-primary colorant's halftone may have	რასტრს აქვს გადაცემის ფუნქცია, რომელიც მხოლოდ არაძირითადი საღებავის რასტრს შეიძლება ჰქონდეს
+	A halftone has type {}: only types 1 and 5 are allowed	რასტრის ტიპია {}: დაშვებულია მხოლოდ 1 და 5 ტიპები
+	A halftone's HalftoneType is missing or isn't an integer	რასტრს HalftoneType არ აქვს, ან ის მთელი რიცხვი არ არის
+	A name is longer than 127 bytes	სახელი (name) 127 ბაიტზე გრძელია
+	A real number is outside ±3.403 × 10³⁸, or nonzero but within ±1.175 × 10⁻³⁸	ნამდვილი რიცხვი ±3.403 × 10³⁸-ის ფარგლებს გარეთაა, ან ნულისგან განსხვავებულია, მაგრამ ±1.175 × 10⁻³⁸-ის ფარგლებშია
+	A string is longer than 32767 bytes	სტრიქონი (string) 32767 ბაიტზე გრძელია
+	An integer is outside the 32-bit range	მთელი რიცხვი 32-ბიტიანი დიაპაზონის გარეთაა
+	Edit attachment description	დანართის აღწერის რედაქტირება
+	locked field	ჩაკეტილი ველი
+	Metadata stream {object} writes the namespace {namespace} with the prefix {written}, not {prefix}	მეტამონაცემების ნაკადი {object} სახელთა სივრცეს {namespace} წერს პრეფიქსით {written} და არა {prefix}
+	Metadata stream {object} writes the namespace {namespace} without a prefix, not with {prefix}	მეტამონაცემების ნაკადი {object} სახელთა სივრცეს {namespace} წერს პრეფიქსის გარეშე და არა პრეფიქსით {prefix}
+	Page {} has a boundary smaller than 3 or larger than 14400 units	გვერდს {} აქვს საზღვარი, რომელიც 3 ერთეულზე ნაკლები ან 14400 ერთეულზე მეტია
+	Page {} has transparency but no device-independent blending colour space or PDF/A output intent	გვერდს {} აქვს გამჭვირვალობა, მაგრამ არ აქვს მოწყობილობისგან დამოუკიდებელი შერწყმის ფერთა სივრცე ან PDF/A გამოტანის პროფილი
+	Separation colour spaces named {} differ in their alternate space or tint transform	Separation ფერთა სივრცეები სახელით {} ერთმანეთისგან განსხვავდება ალტერნატიული სივრცით ან ტონის გარდაქმნით
+	Some content could not be read for device colour	ზოგიერთი შიგთავსი მოწყობილობის ფერის შესამოწმებლად ვერ წაიკითხა
+	The file doesn't start with a %PDF-1.0 to %PDF-1.7 header line	ფაილი არ იწყება სათაურის სტრიქონით %PDF-1.0-დან %PDF-1.7-მდე
+	The file header isn't followed by a comment of four bytes above 127	ფაილის სათაურს არ მოსდევს კომენტარი 127-ზე მეტი მნიშვნელობის ოთხი ბაიტით
+	The file identifier (ID) in the trailer isn't two non-empty strings	ტრეილერში ფაილის იდენტიფიკატორი (ID) ორი არაცარიელი სტრიქონი არ არის
+	The halftone for the colorant {} has no transfer function	საღებავის {} რასტრს გადაცემის ფუნქცია არ აქვს
+	the range selects more than {limit} pages	დიაპაზონი {limit}-ზე მეტ გვერდს მოიცავს
+	The spot colour {} of a DeviceN colour space isn't in its Colorants dictionary	DeviceN ფერთა სივრცის სპოტ-ფერი {} მის Colorants ლექსიკონში არ არის
+	The trailer has no file identifier (ID)	ტრეილერს ფაილის იდენტიფიკატორი (ID) არ აქვს
+	The XMP extension schema {schema} in metadata stream {object} describes {item} with an empty {entry} entry	მეტამონაცემების ნაკადში {object} XMP-ის გაფართოების სქემა {schema} აღწერს {item}-ს ცარიელი {entry} ჩანაწერით
+	The XMP extension schema {schema} in metadata stream {object} describes {item} without a {entry} entry	მეტამონაცემების ნაკადში {object} XMP-ის გაფართოების სქემა {schema} აღწერს {item}-ს {entry} ჩანაწერის გარეშე
+	The XMP extension schema {schema} in metadata stream {object} has an empty {entry} entry	მეტამონაცემების ნაკადში {object} XMP-ის გაფართოების სქემა {schema}-ს ცარიელი {entry} ჩანაწერი აქვს
+	The XMP extension schema {schema} in metadata stream {object} has no {entry} entry	მეტამონაცემების ნაკადში {object} XMP-ის გაფართოების სქემა {schema}-ს {entry} ჩანაწერი არ აქვს
+	The XMP extension schema container in metadata stream {object} holds {found}, not one rdf:Bag	მეტამონაცემების ნაკადში {object} XMP-ის გაფართოების სქემების კონტეინერი შეიცავს {found}-ს და არა ერთ rdf:Bag-ს
+	The XMP extension schema container in metadata stream {object} holds no rdf:Bag	მეტამონაცემების ნაკადში {object} XMP-ის გაფართოების სქემების კონტეინერი rdf:Bag-ს არ შეიცავს
+	The XMP property {property} in metadata stream {object} should have the value type {type}	მეტამონაცემების ნაკადში {object} XMP თვისების {property} მნიშვნელობის ტიპი {type} უნდა იყოს
+	The XMP property {property} in metadata stream {object}, written {written}, should have the value type {type}	მეტამონაცემების ნაკადში {object} XMP თვისება {property} ჩაწერილია როგორც {written}, მაგრამ მისი მნიშვნელობის ტიპი {type} უნდა იყოს
+	This signature carries certification permissions, but the document does not name it as its certification, so it is checked as an approval signature.	ამ ხელმოწერას დამოწმების ნებართვები აქვს, მაგრამ დოკუმენტი მას თავის დამოწმებად არ ასახელებს, ამიტომ ის დამტკიცების ხელმოწერად მოწმდება.
