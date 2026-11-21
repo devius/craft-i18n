@@ -1510,10 +1510,10 @@ calendar weekday	Fr	პარ
 	Graphic	გრაფიკა
 	Gray	ნაცრისფერი
 	Grayscale Document	ნაცრისფერი დოკუმენტი
-	Grayscale Images	რუხი ტონების გამოსახულებები
+	Grayscale Images	ნაცრისფერი ტონების გამოსახულებები
 	Green	მწვანე
 	Green on black	მწვანე შავზე
-	Greyscale	რუხი ტონები
+	Greyscale	ნაცრისფერი ტონები
 	Grid view	ბადის ხედი
 	Group select	ჯგუფის მონიშვნა
 	H / Space (hold)	H / Space (დაჭერით)
@@ -2263,7 +2263,7 @@ animation effects	On	ჩართული
 	Opening documents	დოკუმენტების გახსნა
 	Opening the browser's print dialog…	იხსნება ბრაუზერის ბეჭდვის დიალოგი…
 	Opening {name}…	იხსნება {name}…
-	Opens the printer driver's preferences. They are saved for every print from this computer; the copies, two-sided, grayscale and paper chosen here still apply.	ხსნის პრინტერის დრაივერის პარამეტრებს. ისინი ამ კომპიუტერიდან ყოველი ბეჭდვისთვის ინახება; აქ არჩეული ასლები, ორმხრივი ბეჭდვა, რუხი ტონები და ქაღალდი მაინც მოქმედებს.
+	Opens the printer driver's preferences. They are saved for every print from this computer; the copies, two-sided, grayscale and paper chosen here still apply.	ხსნის პრინტერის დრაივერის პარამეტრებს. ისინი ამ კომპიუტერიდან ყოველი ბეჭდვისთვის ინახება; აქ არჩეული ასლები, ორმხრივი ბეჭდვა, ნაცრისფერი ტონები და ქაღალდი მაინც მოქმედებს.
 	Open…	გახსნა…
 	Optical resolution {x} × {y} dpi.	ოპტიკური გარჩევადობა {x} × {y} dpi.
 	Optimization cancelled	ოპტიმიზაცია გაუქმდა
@@ -2540,7 +2540,7 @@ animation effects	On	ჩართული
 	Print (⌘P)	ბეჭდვა (⌘P)
 	Print area…	ბეჭდვის არე…
 	Print as image	ბეჭდვა გამოსახულებად
-	Print in grayscale	ბეჭდვა რუხ ტონებში
+	Print in grayscale	ბეჭდვა ნაცრისფერ ტონებში
 	Print page border	გვერდის ჩარჩოს ბეჭდვა
 	Print pages	გვერდების ბეჭდვა
 	Print production	საბეჭდი წარმოება
@@ -3935,7 +3935,7 @@ signature pad	Type	ტიპი
 	Use Flate to encode streams that are not encoded	დაუშიფრავი ნაკადების Flate-ით კოდირება
 	Use guided actions	მართვადი ქმედებების გამოყენება
 	Use image resolution	გამოსახულების გარჩევადობის გამოყენება
-	Use it when a printer skips text, shading or transparency. The print is no longer searchable text; with Print in grayscale, the pictures are grey.	ჩართეთ, როცა პრინტერი ტექსტს, გრადიენტულ შევსებას ან გამჭვირვალობას გამოტოვებს. ანაბეჭდში ტექსტი აღარ იქნება საძიებო; „ბეჭდვა რუხ ტონებში“ ჩართვისას სურათებიც რუხი იქნება.
+	Use it when a printer skips text, shading or transparency. The print is no longer searchable text; with Print in grayscale, the pictures are grey.	ჩართეთ, როცა პრინტერი ტექსტს, გრადიენტულ შევსებას ან გამჭვირვალობას გამოტოვებს. ანაბეჭდში ტექსტი აღარ იქნება საძიებო; „ბეჭდვა ნაცრისფერ ტონებში“ ჩართვისას სურათებიც ნაცრისფერი იქნება.
 	Use JavaScript	JavaScript-ის გამოყენება
 	Use now	გამოყენება
 	Use overlay text	ზედდებული ტექსტის გამოყენება
