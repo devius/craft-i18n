@@ -4457,3 +4457,36 @@ document scrollbar width	Wide	ფართო
 	Import bookmarks	სანიშნეების იმპორტი
 	Add 3D model	3D მოდელის დამატება
 	Prepare grouped text	დაჯგუფებული ტექსტის მომზადება
+	A script edited here can be at most 256 KiB long; that change wasn't made.	აქ რედაქტირებული სკრიპტი მაქსიმუმ 256 KiB შეიძლება იყოს; ეს ცვლილება არ შესრულდა.
+	All files	ყველა ფაილი
+	Columns and rows must each be 1 to 99.	სვეტების და სტრიქონების რაოდენობა 1-დან 99-მდე უნდა იყოს.
+	Creep:	წანაცვლება:
+	Custom calculation script:	გამოთვლის მორგებული სკრიპტი:
+	Detecting paper…	ქაღალდის განსაზღვრა…
+	Detecting…	განისაზღვრება…
+	Discard embedded search index	ჩაშენებული საძიებო ინდექსის მოშორება
+	Discard external cross-references	გარე ჯვარედინი მიმართვების მოშორება
+	Edit description	აღწერის რედაქტირება
+	Esc leaves full screen	Esc-ით სრულეკრანიანი რეჟიმიდან გამოსვლა
+	Full screen fills the screen with one page at a time	სრულეკრანიან რეჟიმში თითო გვერდი მთელ ეკრანს ავსებს
+	Grayscale	ნაცრისფერი ტონები
+	Inherit Zoom	მიმდინარე მასშტაბის შენარჩუნება
+	Moves each sheet's pages toward the fold by this much more than the sheet outside it, so the margins match once the booklet is folded and trimmed.	თითოეული ფურცლის გვერდებს ნაკეცისკენ ამდენით მეტად წაანაცვლებს, ვიდრე მის გარეთ მდებარე ფურცლისას, რომ ბროშურის დაკეცვისა და ჩამოჭრის შემდეგ ველები ერთმანეთს დაემთხვეს.
+	No printers match.	შესაბამისი პრინტერი არ არის.
+	Only web (http, https) and email addresses open, and PdfCraft asks first, as for other links.	იხსნება მხოლოდ ვებმისამართები (http, https) და ელფოსტის მისამართები, და PdfCraft ჯერ გეკითხებათ, როგორც სხვა ბმულების შემთხვევაში.
+	Open web and email addresses written in the page text	გვერდის ტექსტში ჩაწერილი ვებ- და ელფოსტის მისამართების გახსნა
+	Optimizing… reading page {d} of {t}	ოპტიმიზაცია… გვერდის წაკითხვა {d} / {t}
+	Optimizing… reading the pages	ოპტიმიზაცია… გვერდების წაკითხვა
+	Page Setup…	გვერდის პარამეტრები…
+	Page setup dialog is not available on this system.	გვერდის პარამეტრების დიალოგი ამ სისტემაზე მიუწვდომელია.
+	Reading the drawing for snapping…	ნახაზის წაკითხვა მიბმისთვის…
+	Rename…	სახელის შეცვლა…
+	Search printers	პრინტერების ძიება
+	Selects paper size and orientation from the printer driver. For paper tray, print quality or other driver defaults, use Properties…	ფურცლის ზომასა და ორიენტაციას პრინტერის დრაივერიდან ირჩევს. ქაღალდის უჯრის, ბეჭდვის ხარისხის ან დრაივერის სხვა ნაგულისხმევი პარამეტრებისთვის გამოიყენეთ ეს: თვისებები…
+	Show tab numbers	ტაბულაციის ნომრების ჩვენება
+	The creep moves the innermost sheet's pages too far for this many pages. Reduce Creep.	ამდენი გვერდისთვის წანაცვლება ყველაზე შიდა ფურცლის გვერდებს ზედმეტად შორს გადააადგილებს. შეამცირეთ „წანაცვლება“.
+	The document changed. Reopen Document Properties to edit the current version.	დოკუმენტი შეიცვალა. მიმდინარე ვერსიის რედაქტირებისთვის ხელახლა გახსენით „დოკუმენტის თვისებები“.
+	This script is too long to edit here ({kib} KiB); its start is shown. It is kept as it is.	ეს სკრიპტი აქ რედაქტირებისთვის ზედმეტად გრძელია ({kib} KiB); ნაჩვენებია მისი დასაწყისი. სკრიპტი უცვლელი რჩება.
+	Turn off so that only Ctrl+L (⌘L on macOS) leaves full screen, as for a kiosk display.	გამორთეთ, რომ სრულეკრანიანი რეჟიმიდან გამოსვლა მხოლოდ Ctrl+L-ით (macOS-ზე ⌘L-ით) იყოს შესაძლებელი, როგორც კიოსკის ეკრანზე.
+	Turn off to keep the page display, such as continuous scrolling, in full screen.	გამორთეთ, რომ სრულეკრანიან რეჟიმში გვერდების ჩვენება (მაგალითად, უწყვეტი გადახვევა) შენარჩუნდეს.
+	by	×
