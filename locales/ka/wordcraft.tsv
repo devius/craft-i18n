@@ -281,7 +281,7 @@ numerals	Arabic	არაბული
 	Borders:	ჩარჩოები:
 	Bottom left	ქვედა მარცხენა
 	Bottom right	ქვედა მარჯვენა
-	By	ზომა
+	By	სიდიდე
 	Cannot auto-update this installation type. Please download manually.	ინსტალაციის ამ ტიპის ავტომატური განახლება შეუძლებელია. ჩამოტვირთეთ ხელით.
 	Case-sensitive	რეგისტრის გათვალისწინება
 	center, centre	ცენტრი, შუა
@@ -1018,7 +1018,7 @@ numerals	Context	კონტექსტური
 	This flag is not supported	ეს ალამი მხარდაჭერილი არ არის
 	This is not a valid regular expression	ეს არ არის სწორი რეგულარული გამოსახულება
 	This wildcard pattern can't be searched for	ამ შაბლონით ძებნა შეუძლებელია
-	Times	ჯერადი
+	Times	ჯერ
 	Top left	ზედა მარცხენა
 	Top right	ზედა მარჯვენა
 	trace, vectorize	ტრასირება, ვექტორიზაცია
@@ -3421,7 +3421,7 @@ preview	Title	სათაური
 	{n} ppcm	{n} ppcm
 	{n} ppi	{n} ppi
 	{n} pt	{n} პტ
-	{n} px	{n} პქს
+	{n} px	{n} px
 	{n} yd	{n} იარდი
 	{paper}   {width} × {height}	{paper}   {width} × {height}
 	{selected} of {words} words	სიტყვა: {words}; მონიშნული: {selected}
