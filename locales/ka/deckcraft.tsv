@@ -14,6 +14,225 @@
 # Written with Claude Code from the meaning of each English string; terminology and doubtful
 # strings decided by a native Georgian speaker (@devius).
 
+	100% Stacked Bar	100% დასტად ზოლოვანი
+	100% Stacked Column	100% დასტად სვეტოვანი
+	Accept All ({n})	ყველას მიღება ({n})
+	Action Button: {kind}	მოქმედების ღილაკი: {kind}
+	After Previous	წინას შემდეგ
+	Align text to the bottom of the cell	ტექსტის სწორება უჯრის ქვედა კიდეზე
+	Align text to the center of the cell	ტექსტის სწორება უჯრის ცენტრში
+	Align text to the top of the cell	ტექსტის სწორება უჯრის ზედა კიდეზე
+	Art deco	არ-დეკო
+	At	მნიშვნელობა
+	Back or Previous	უკან ან წინა
+	Balanced	დაბალანსებული
+	Beginning	დასაწყისი
+	Body sample  {font}	ძირითადი ტექსტის ნიმუში  {font}
+	Box and Whisker	ყუთი და ულვაშები
+	Brick Scene	აგურის სცენა
+	Bright room	ნათელი ოთახი
+	Brightness {pct}	სიკაშკაშე {pct}
+	Brightness {pct}%	სიკაშკაშე {pct}%
+	Bubble	ბუშტოვანი
+	By	სიდიდე
+	Cartoon	მულტფილმის სტილი
+	Chilly	გრილი
+	Choose a slide to show it, or press G to return.	აირჩიეთ სლაიდი მის საჩვენებლად, ან დასაბრუნებლად დააჭირეთ G-ს.
+	Clear the tab at {pos}	ტაბულაციის გასუფთავება პოზიციაზე {pos}
+	Click icon to add chart	დაწკაპეთ ხატულაზე დიაგრამის დასამატებლად
+	Click icon to add media	დაწკაპეთ ხატულაზე მედიის დასამატებლად
+	Click icon to add picture	დაწკაპეთ ხატულაზე სურათის დასამატებლად
+	Click icon to add SmartArt graphic	დაწკაპეთ ხატულაზე SmartArt გრაფიკის დასამატებლად
+	Click icon to add table	დაწკაპეთ ხატულაზე ცხრილის დასამატებლად
+	Click the preview to zoom.	დაწკაპეთ წინასწარ ნახვაზე გასადიდებლად.
+	Click to add subtitle	დაწკაპეთ ქვესათაურის დასამატებლად
+	Click to add title	დაწკაპეთ სათაურის დასამატებლად
+	Clustered Bar	დაჯგუფებული ზოლოვანი
+	Clustered Column	დაჯგუფებული სვეტოვანი
+	Colorful	ფერადი
+	Colorful Range - Accent Colors 2 to 3	ფერადი დიაპაზონი - აქცენტის ფერები 2-დან 3-მდე
+	Colorful Range - Accent Colors 3 to 4	ფერადი დიაპაზონი - აქცენტის ფერები 3-დან 4-მდე
+	Colorful Range - Accent Colors 4 to 5	ფერადი დიაპაზონი - აქცენტის ფერები 4-დან 5-მდე
+	Colorful Range - Accent Colors 5 to 6	ფერადი დიაპაზონი - აქცენტის ფერები 5-დან 6-მდე
+	Combo	კომბინირებული
+	Compared with {name}	შედარებულია ფაილთან {name}
+	Content	შიგთავსი
+	Contrast {pct}	კონტრასტი {pct}
+	Contrast {pct}%	კონტრასტი {pct}%
+	Contrasting	კონტრასტული
+	Convert to Diagram	სქემად გარდაქმნა
+	Convex	ამოზნექილი
+	Cool slant	მკვეთრი დახრა
+	Couldn't save AutoRecover information: {error}	ავტოაღდგენის ინფორმაცია ვერ შეინახა: {error}
+	Decimal	ათწილადი
+	DeckCraft can't export “{format}”	DeckCraft-ს არ შეუძლია „{format}“ ფორმატში ექსპორტი
+	DeckCraft can't find “{text}”.	DeckCraft-მა „{text}“ ვერ იპოვა.
+	Decorative Text	დეკორატიული ტექსტი
+	Decorative Text style {n}	დეკორატიული ტექსტის სტილი {n}
+	Diagram	სქემა
+	Diagram Design	სქემის დიზაინი
+	Diagram items	სქემის ელემენტები
+	Diagram Styles	სქემის სტილები
+	Diagram text	სქემის ტექსტი
+	Dictionary: {name}	ლექსიკონი: {name}
+	Divot	ჩაღრმავება
+	Dk edge	მუქი კიდე
+	Doughnut	რგოლოვანი
+	Duration handle {n}	ხანგრძლივობის სახელური {n}
+	End	დასასრული
+	English (United Kingdom)	ინგლისური (გაერთიანებული სამეფო)
+	English (United States)	ინგლისური (აშშ)
+	Exactly	ზუსტად
+	Exported {name}	ექსპორტირებულია: {name}
+	Filled Radar	შევსებული რადარული
+@plural	First {n} slide|First {n} slides	პირველი {n} სლაიდი|პირველი {n} სლაიდი
+	Flood	პროჟექტორული
+	Foreground	წინა პლანი
+	Forward or Next	წინ ან შემდეგი
+	Fragment	დაფრაგმენტება
+	Freezing	ყინვიანი
+	French (France)	ფრანგული (საფრანგეთი)
+	Go to slide {n}	სლაიდზე {n} გადასვლა
+	Gradient Range - Accent 1	გრადიენტული დიაპაზონი - აქცენტი 1
+	Gradient Range - Accent 2	გრადიენტული დიაპაზონი - აქცენტი 2
+	Gradient Range - Accent 3	გრადიენტული დიაპაზონი - აქცენტი 3
+	Gradient Range - Accent 4	გრადიენტული დიაპაზონი - აქცენტი 4
+	Gradient Range - Accent 5	გრადიენტული დიაპაზონი - აქცენტი 5
+	Gradient Range - Accent 6	გრადიენტული დიაპაზონი - აქცენტი 6
+	Gradient stop {n}	გრადიენტის გადასვლის წერტილი {n}
+	Half	ნახევარი
+	Hard edge	მკვეთრი კიდე
+	Harsh	მკაცრი
+	Heading sample  {font}	სათაურის ნიმუში  {font}
+	Hierarchy	იერარქია
+	Highlighter	მარკერი
+	Information	ინფორმაცია
+	Inner	შიდა
+@plural	Inserted {n} slide|Inserted {n} slides	ჩასმულია {n} სლაიდი|ჩასმულია {n} სლაიდი
+	Inset	ჩაზნექილი
+	Intense Effect	ინტენსიური ეფექტი
+	Isometric bottom down	იზომეტრია ქვემოდან, ქვევით მიმართული
+	Isometric bottom up	იზომეტრია ქვემოდან, ზევით მიმართული
+	Isometric left down	იზომეტრია მარცხნიდან, ქვევით მიმართული
+	Isometric left up	იზომეტრია მარცხნიდან, ზევით მიმართული
+	Isometric right down	იზომეტრია მარჯვნიდან, ქვევით მიმართული
+	Isometric right up	იზომეტრია მარჯვნიდან, ზევით მიმართული
+	Isometric top down	იზომეტრია ზემოდან, ქვევით მიმართული
+	Isometric top up	იზომეტრია ზემოდან, ზევით მიმართული
+	JPEG images (all slides)	JPEG სურათები (ყველა სლაიდი)
+	Keep mouse cursor visible	თაგუნას კურსორის მუდმივად ჩვენება
+	Legacy wireframe	კარკასი (ძველი)
+	Line with Markers	ხაზოვანი მარკერებით
+	Map	რუკა
+	Match {n} of {total} on slide {slide} (notes).	დამთხვევა {n} / {total}, სლაიდი {slide} (შენიშვნები).
+	Match {n} of {total} on slide {slide}.	დამთხვევა {n} / {total}, სლაიდი {slide}.
+	Media	მედია
+	Metal	ლითონი
+	Missing alternative text	აკლია ალტერნატიული ტექსტი
+	Missing slide title	აკლია სლაიდის სათაური
+	Morning	დილა
+	Multiple	მამრავლი
+	Mute	დადუმება
+	No recent presentations match “{query}”.	ბოლოს გახსნილ პრეზენტაციებში „{query}“ ვერ მოიძებნა.
+	No synonyms for "{word}".	სიტყვისთვის „{word}“ სინონიმები ვერ მოიძებნა.
+	No themes or templates match “{query}”.	თემებსა და შაბლონებში „{query}“ ვერ მოიძებნა.
+	No {lang} dictionary is installed, so only common misspellings are found. Put a Hunspell .aff/.dic pair in {folder}.	{lang} ლექსიკონი დაინსტალირებული არ არის, ამიტომ მხოლოდ გავრცელებული შეცდომები მოიძებნება. ჩადეთ Hunspell-ის .aff/.dic წყვილი საქაღალდეში {folder}.
+	Oblique bottom left	ირიბი, ქვედა მარცხენა
+	Oblique bottom right	ირიბი, ქვედა მარჯვენა
+	Oblique top left	ირიბი, ზედა მარცხენა
+	Oblique top right	ირიბი, ზედა მარჯვენა
+	Orthographic front	ორთოგრაფიული, წინიდან
+	Outer	გარე
+	Pass pictures to insert.photoAlbum	სურათები გადაეცით insert.photoAlbum-ს
+	Perspective above	პერსპექტივა ზემოდან
+	Perspective above left facing	პერსპექტივა ზემოდან, მარცხნივ მიმართული
+	Perspective above right facing	პერსპექტივა ზემოდან, მარჯვნივ მიმართული
+	Perspective below	პერსპექტივა ქვემოდან
+	Perspective contrasting left facing	კონტრასტული პერსპექტივა, მარცხნივ მიმართული
+	Perspective contrasting right facing	კონტრასტული პერსპექტივა, მარჯვნივ მიმართული
+	Perspective front	პერსპექტივა წინიდან
+	Perspective heroic extreme left facing	გმირული პერსპექტივა, ძლიერი, მარცხნივ მიმართული
+	Perspective heroic extreme right facing	გმირული პერსპექტივა, ძლიერი, მარჯვნივ მიმართული
+	Perspective heroic left facing	გმირული პერსპექტივა, მარცხნივ მიმართული
+	Perspective heroic right facing	გმირული პერსპექტივა, მარჯვნივ მიმართული
+	Perspective left	პერსპექტივა მარცხნიდან
+	Perspective relaxed	მშვიდი პერსპექტივა
+	Perspective relaxed moderately	ზომიერად მშვიდი პერსპექტივა
+	Perspective right	პერსპექტივა მარჯვნიდან
+	Pie	წრიული
+	Plastic	პლასტიკური
+	Play this slide's transition	ამ სლაიდის გადასვლის დაკვრა
+	Polished	გაპრიალებული
+	Powder	ფხვნილი
+	Radar	რადარული
+	Reading the file: {seconds} s	ფაილის წაკითხვა: {seconds} წმ
+	Reject All ({n})	ყველას უარყოფა ({n})
+	Relaxed inset	მსუბუქად ჩაზნექილი
+@plural	Replaced {n} occurrence.|Replaced {n} occurrences.	ჩანაცვლებულია {n} შემთხვევა.|ჩანაცვლებულია {n} შემთხვევა.
+	Replaced “{font}” with “{replacement}”.	„{font}“ ჩანაცვლდა ასე: „{replacement}“.
+	Return	უკან დაბრუნება
+	Return to the audience window to resume the connection.	სეანსის გასაგრძელებლად დაბრუნდით აუდიტორიის ფანჯარაში.
+	Riblet	წიბოვანი
+	Rounded	მომრგვალებული
+	Saturation {pct}	გაჯერება {pct}
+	Saturation {pct}%	გაჯერება {pct}%
+	Save to the page	ვებგვერდში შენახვა
+	Saved {name}	შენახულია: {name}
+	Scale Height	მასშტაბის სიმაღლე
+	Scale Width	მასშტაბის სიგანე
+	Scatter	წერტილოვანი
+	Seconds per slide: enter {min} to {max}	წამი სლაიდზე: შეიყვანეთ რიცხვი {min}-დან {max}-მდე
+	Select a Diagram graphic to edit its text.	ტექსტის რედაქტირებისთვის მონიშნეთ სქემის გრაფიკა.
+	Simple Fill	მარტივი შევსება
+	Slide background fill	სლაიდის ფონით შევსება
+	Slide {n}	სლაიდი {n}
+	Slide {n}: {issue}	სლაიდი {n}: {issue}
+	Slide {n}: {issue} — {name}	სლაიდი {n}: {issue} — {name}
+	Slide {n}: “{word}”	სლაიდი {n}: „{word}“
+	Slides Per\nPage: {n}	სლაიდი\nგვერდზე: {n}
+	Slides: choose a range from 1 to {n}	სლაიდები: აირჩიეთ დიაპაზონი 1-დან {n}-მდე
+	Slope	დაქანება
+	Soft edge	რბილი კიდე
+	Soft round	რბილი მომრგვალება
+	Softmetal	რბილი ლითონი
+	Solid	უწყვეტი
+	Stacked Area	დასტად ფართობითი
+	Stacked Bar	დასტად ზოლოვანი
+	Stacked Column	დასტად სვეტოვანი
+	Stacked Line	დასტად ხაზოვანი
+	Stock	საბირჟო
+	Stopped opening {name}	გახსნა შეწყდა: {name}
+	Style {n}	სტილი {n}
+	Subtle Effect	სადა ეფექტი
+	Sunrise	მზის ამოსვლა
+	Sunset	მზის ჩასვლა
+	Surface	ზედაპირული
+	Swedish	შვედური
+	The audience window has closed.	აუდიტორიის ფანჯარა დაიხურა.
+	The audience window is not responding.	აუდიტორიის ფანჯარა არ პასუხობს.
+	The web build inserts album pictures from data passed to insert.photoAlbum	ვებ-ვერსია ალბომის სურათებს insert.photoAlbum-ისთვის გადაცემული მონაცემებიდან სვამს
+	Three pt	სამწერტილიანი
+	Timing bar {n}	დროის ზოლი {n}
+	Top Left Corner	ზედა მარცხენა კუთხე
+	Translucent powder	ნახევრად გამჭვირვალე ფხვნილი
+	Two pt	ორწერტილიანი
+	Waiting for the audience window…	აუდიტორიის ფანჯრის მოლოდინი…
+	Warm matte	თბილი მატი
+	Waterfall	ჩანჩქერი
+	White Outline	თეთრი კონტური
+	Width: enter {min} to {max} pixels	სიგანე: შეიყვანეთ {min}-დან {max}-მდე პიქსელი
+	With Previous	წინასთან ერთად
+	{char}  Bullet	{char}  ბურთულა
+	{color} hex	{color} hex
+	{kind} (click to change)	{kind} (შესაცვლელად დაწკაპეთ)
+	{name}  (dictionary)	{name}  (ლექსიკონი)
+@plural	{name} ({n} slide)|{name} ({n} slides)	{name} ({n} სლაიდი)|{name} ({n} სლაიდი)
+@plural	{n} Column|{n} Columns	{n} სვეტი|{n} სვეტი
+@plural	{n} contributor|{n} contributors	{n} მონაწილე|{n} მონაწილე
+@plural	{n} Slide|{n} Slides	{n} სლაიდი|{n} სლაიდი
+	{path} — this file can't be found	{path} — ეს ფაილი ვერ მოიძებნა
+	“{font}” isn't used explicitly.	„{font}“ პირდაპირ არ გამოიყენება.
+	“{name}” is not available yet.	„{name}“ ჯერ მიუწვდომელია.
 	  Fixed date (empty = update automatically):	  ფიქსირებული თარიღი (ცარიელი = ავტომატური განახლება):
 	  Footer text:	  ქვედა კოლონტიტულის ტექსტი:
 	  Present  	  წარდგენა  
@@ -1425,7 +1644,7 @@
 	Specify the company	მიუთითეთ კომპანია
 	Specify the subject	მიუთითეთ თემა
 	Spelling	მართლწერა
-	Spelling is checked for languages marked (dictionary).	მართლწერა მოწმდება იმ ენებისთვის, რომლებსაც ნიშანი (dictionary) აქვს.
+	Spelling is checked for languages marked (dictionary).	მართლწერა მოწმდება იმ ენებისთვის, რომლებსაც ნიშანი (ლექსიკონი) აქვს.
 	Spin	ბრუნვა
 	Spinner	სპინერი
 	Spiral Left	სპირალი მარცხნივ
